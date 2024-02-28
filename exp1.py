@@ -9,7 +9,8 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
 from langchain_community.llms import HuggingFacePipeline
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
-from langchain import PromptTemplate, LLMChain
+from langchain.chains import LLMChain
+from langchain.prompts import PromptTemplate 
 
 model_id = "meta-llama/Llama-2-7b-chat-hf" 
 
@@ -113,5 +114,5 @@ for filename in os.listdir(chart_type_directory):
 
         # Call the function with obtained chart_type, chart_data, and chart_title
         response = llm_chain.run(chart_type, chart_data, chart_title)
-
+	
 	print(response)
