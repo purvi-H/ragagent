@@ -79,11 +79,40 @@ chart_data = ""
 chart_title = ""
 
 prompt_template = PromptTemplate(template=template, input_variables=["chart_type", "chart_data", "chart_title"])
-
 llm_chain = LLMChain(prompt=prompt_template, llm=llm)
-
 print("llm chain setup")
 
-response = llm_chain.run(chart_type, chart_data, chart_title)
+# Path to the directory containing txt files for chart_type
+chart_type_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/type"
 
-print(response)
+# Path to the directory containing txt files for chart_data
+chart_data_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/data"
+
+# Path to the directory containing txt files for chart_title
+chart_title_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/titles"
+
+'''
+# Iterate over all txt files in the directory for chart_type
+for filename in os.listdir(chart_type_directory):
+    if filename.endswith(".txt"):
+        # Read chart_type from each txt file
+        chart_type_path = os.path.join(chart_type_directory, filename)
+        chart_type = read_dataset_file(chart_type_path)
+
+        # Find corresponding chart_data file
+        chart_data_filename = filename  # Assuming file names match between type and data directories
+        chart_data_path = os.path.join(chart_data_directory, chart_data_filename)
+        chart_data = read_dataset_file(chart_data_path)
+
+        # Find corresponding chart_title file
+        chart_title_filename = filename  # Assuming file names match between type and titles directories
+        chart_title_path = os.path.join(chart_title_directory, chart_title_filename)
+        chart_title = read_dataset_file(chart_title_path)
+
+	print("generating response for", filename)
+
+        # Call the function with obtained chart_type, chart_data, and chart_title
+        response = llm_chain.run(chart_type, chart_data, chart_title)
+
+        print(response)
+'''
