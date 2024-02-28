@@ -72,7 +72,7 @@ instruction = """
 Write a narrative based on a {chart_type} showing the following data: {chart_data} on the topic "{chart_title}".
 """
 
-template = get_prompt(instruction, sys_prompt)
+template = get_prompt(instruction)
 
 chart_type = ""
 chart_data = ""
