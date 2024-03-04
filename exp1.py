@@ -140,7 +140,7 @@ with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file:
                 reader = csv.reader(file)
                 chart_data = list(reader)
         else:        
-            chart_data_path = os.path.join(chart_data_directory, "multicolumn/data", chart_data_filename)
+            chart_data_path = os.path.join(chart_data_directory, "multiColumn/data", chart_data_filename)
             with open(chart_data_path, 'r', encoding='utf-8') as file:
                 reader = csv.reader(file)
                 chart_data = list(reader)
