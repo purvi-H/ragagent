@@ -127,7 +127,7 @@ chart_data_directory = "/home/s2024596/ragagent/dataset"
 # Read the output.txt file
 with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file: 
     # lines = output_file.read().splitlines()
-    lines = output_file.read().splitlines()
+    lines = output_file.read().splitlines()[:2000]
 
     # Iterate over each line in lines
     for i, line in enumerate(lines):
