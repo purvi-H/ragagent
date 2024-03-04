@@ -154,5 +154,4 @@ with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file:
             chart_type = chart_type_lines[i].strip()
 
         # Call the function with obtained chart_type, chart_data, and chart_title
-        response = llm_chain.run(chart_type, chart_data, chart_title)
-        print(response, "/n")
+        llm_chain({"chart_type": chart_type, "chart_data": chart_data, "chart_title": chart_title})
