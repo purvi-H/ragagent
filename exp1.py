@@ -4,6 +4,7 @@ import os
 import sys
 import transformers
 import torch
+import csv
 
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
@@ -81,42 +82,77 @@ chart_title = ""
 
 prompt_template = PromptTemplate(template=template, input_variables=["chart_type", "chart_data", "chart_title"])
 llm_chain = LLMChain(prompt=prompt_template, llm=llm)
-print("llm chain setup")
+print("llm chain setup /n/n/n")
 
-# Path to the directory containing txt files for chart_type
-chart_type_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/type"
+# # Path to the directory containing txt files for chart_type
+# chart_type_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/type"
 
-# Path to the directory containing txt files for chart_data
-chart_data_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/data"
+# # Path to the directory containing txt files for chart_data
+# chart_data_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/data"
 
-# Path to the directory containing txt files for chart_title
-chart_title_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/titles"
+# # Path to the directory containing txt files for chart_title
+# chart_title_directory = "/exports/eddie/scratch/s2024596/ragagent/dataset/simple/titles"
 
-# Iterate over all txt files in the directory for chart_type
-for filename in os.listdir(chart_type_directory):
-    if filename.endswith(".txt"):
-        # Read chart_type from each txt file
-        chart_type_path = os.path.join(chart_type_directory, filename)
-        with open(chart_type_path, "r") as chart_type_file:
-            chart_type = chart_type_file.read().strip()
+# # Iterate over all txt files in the directory for chart_type
+# for filename in os.listdir(chart_type_directory):
+#     if filename.endswith(".txt"):
+#         # Read chart_type from each txt file
+#         chart_type_path = os.path.join(chart_type_directory, filename)
+#         with open(chart_type_path, "r") as chart_type_file:
+#             chart_type = chart_type_file.read().strip()
 
-        # Find corresponding chart_data file
-        chart_data_filename = (
-            filename  # Assuming file names match between type and data directories
-        )
-        chart_data_path = os.path.join(chart_data_directory, chart_data_filename)
-        with open(chart_data_path, "r") as chart_data_file:
-            chart_data = chart_data_file.read().strip()
+#         # Find corresponding chart_data file
+#         chart_data_filename = (
+#             filename  # Assuming file names match between type and data directories
+#         )
+#         chart_data_path = os.path.join(chart_data_directory, chart_data_filename)
+#         with open(chart_data_path, "r") as chart_data_file:
+#             chart_data = chart_data_file.read().strip()
 
-        # Find corresponding chart_title file
-        chart_title_filename = (
-            filename  # Assuming file names match between type and titles directories
-        )
-        chart_title_path = os.path.join(chart_title_directory, chart_title_filename)
-        with open(chart_title_path, "r") as chart_title_file:
-            chart_title = chart_title_file.read().strip()
+#         # Find corresponding chart_title file
+#         chart_title_filename = (
+#             filename  # Assuming file names match between type and titles directories
+#         )
+#         chart_title_path = os.path.join(chart_title_directory, chart_title_filename)
+#         with open(chart_title_path, "r") as chart_title_file:
+#             chart_title = chart_title_file.read().strip()
+
+#         # Call the function with obtained chart_type, chart_data, and chart_title
+#         response = llm_chain.run(chart_type, chart_data, chart_title)
+
+#         print(response)
+
+chart_data_directory = "/home/s2024596/ragagent/dataset"
+
+# Read the output.txt file
+with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file: 
+    lines = output_file.read().splitlines()
+
+    # Iterate over each line in lines
+    for i, line in enumerate(lines):
+        split = line.split("|")
+        type = split[0].strip()
+        chart_data_filename = split[1].strip().replace('.txt', '.csv')
+        if type == "Simple":
+            # Get the file stored in split[1] from the data folder
+            chart_data_path = os.path.join(chart_data_directory, "data", chart_data_filename)
+            with open(chart_data_path, 'r', encoding='utf-8') as file:
+                reader = csv.reader(file)
+                chart_data = list(reader)
+        else:        
+            chart_data_path = os.path.join(chart_data_directory, "multicolumn/data", chart_data_filename)
+            with open(chart_data_path, 'r', encoding='utf-8') as file:
+                reader = csv.reader(file)
+                chart_data = list(reader)
+
+        with open('/home/s2024596/ragagent/dataset/charttitle.txt', 'r') as file:
+            chart_title_lines = file.readlines()
+            chart_title = chart_title_lines[i].strip()
+
+        with open('/home/s2024596/ragagent/dataset/charttype.txt', 'r') as file:
+            chart_type_lines = file.readlines()
+            chart_type = chart_type_lines[i].strip()
 
         # Call the function with obtained chart_type, chart_data, and chart_title
         response = llm_chain.run(chart_type, chart_data, chart_title)
-
-        print(response)
+        print(response, "/n")
