@@ -62,6 +62,7 @@ def setup_llm_chain(llama_pipeline):
 def process_data_and_run(llm_chain, chart_type, chart_data, chart_title):
     response = llm_chain({"chart_type": chart_type, "chart_data": chart_data, "chart_title": chart_title})
     print(response, "\n")
+    return response
 
 if __name__ == "__main__":
     print("Reading the file")
@@ -106,5 +107,17 @@ if __name__ == "__main__":
             with open('/home/s2024596/ragagent/dataset/charttype.txt', 'r') as file:
                 chart_type_lines = file.readlines()
                 chart_type = chart_type_lines[i].strip()
+            
+            with open('/home/s2024596/ragagent/dataset/chartdescription.txt', 'r') as file:
+                chart_description_lines = file.readlines()
+                chart_description = chart_description_lines[i].strip()
 
-            process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
+            response = process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
+            
+            output_file_path = "/home/s2024596/ragagent/dataset/results.txt"
+
+            with open(output_file_path, "a") as output_file:
+                output_file.write(f"Gold: {chart_description}\n")
+                output_file.write(f"Generated: {response}\n\n")
+                
+            # process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
