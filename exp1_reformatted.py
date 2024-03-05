@@ -40,8 +40,8 @@ def setup_llm_chain(llama_pipeline):
     B_INST, E_INST = "[INST]", "[/INST]"
     B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
     DEFAULT_SYSTEM_PROMPT = """\
-    You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unb$\
-    If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."""
+    You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. 
+    Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations."""
 
     def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
         SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
@@ -61,9 +61,9 @@ def setup_llm_chain(llama_pipeline):
 
 def process_data_and_run(llm_chain, chart_type, chart_data, chart_title):
     response = llm_chain({"chart_type": chart_type, "chart_data": chart_data, "chart_title": chart_title})
-    print(response)
+    print(response, "\n")
 
-def main():
+if __name__ == "__main__":
     print("Reading the file")
 
     model_id = "meta-llama/Llama-2-7b-chat-hf"
@@ -83,7 +83,7 @@ def main():
 
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()[:2000]
+        lines = output_file.read().splitlines()[:2]
 
         for i, line in enumerate(lines):
             split = line.split("|")
@@ -108,7 +108,3 @@ def main():
                 chart_type = chart_type_lines[i].strip()
 
             process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
-
-if __name__ == "__main__":
-    main()
-
