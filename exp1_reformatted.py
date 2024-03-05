@@ -31,7 +31,7 @@ def setup_llama_pipeline(pretrained_model, tokenizer):
         num_return_sequences=1,
         eos_token_id=tokenizer.eos_token_id,
         temperature=0.1,
-        max_new_tokens=512,
+        max_new_tokens=4096,
         repetition_penalty=1.1
     )
     return llama_pipeline
@@ -84,7 +84,7 @@ if __name__ == "__main__":
 
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()[:2]
+        lines = output_file.read().splitlines()[:3]
 
         for i, line in enumerate(lines):
             split = line.split("|")
