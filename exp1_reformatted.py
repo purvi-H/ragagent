@@ -2,6 +2,7 @@ import os
 import csv
 import torch
 import transformers
+import sys
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
 from langchain_community.llms import HuggingFacePipeline
@@ -82,6 +83,8 @@ if __name__ == "__main__":
     llm_chain = setup_llm_chain(llama_pipeline)
     print("LLM chain setup")
 
+    sys.stdout.flush()
+
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file:
         lines = output_file.read().splitlines()[:3]
@@ -119,5 +122,6 @@ if __name__ == "__main__":
             with open(output_file_path, "a") as output_file:
                 output_file.write(f"Gold: {chart_description}\n")
                 output_file.write(f"Generated: {response}\n\n")
+                output_file.flush()
                 
             # process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
