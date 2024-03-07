@@ -65,7 +65,7 @@ from langchain.document_loaders.csv_loader import CSVLoader
 from sentence_transformers import SentenceTransformer
 from torch import cuda
 
-loader = CSVLoader(file_path="/exports/eddie/scratch/s2024596/ragagent/dataset/data/5400.csv")
+loader = CSVLoader(file_path="/exports/eddie/scratch/s2024596/ragagent/dataset/data/3841.csv")
 
 data_csv = loader.load() # contains a list of objects of type <class 'langchain_core.documents.base.Document'>
 
@@ -165,7 +165,7 @@ if __name__ == '__main__':
     )
     print("retrieval qa built")
 
-    question = "Write a narrative based on a line chart showing the data passed in on the topic: Global spending on motorsports sponsorships 2011 to 2017"
+    question = "Write a narrative based on a line chart showing the data passed in on the topic: Food retail sales growth in the United Kingdom ( UK ) 2014 to 2018"
     result = qa_chain({"query": question})
     print("generating result from retrieval qa")
     print(result["result"])
