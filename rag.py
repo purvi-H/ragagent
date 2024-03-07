@@ -50,7 +50,7 @@ llama_pipeline = pipeline(
     num_return_sequences=1,
     eos_token_id=tokenizer.eos_token_id,
     temperature=0.1,  # 'randomness' of outputs, 0.0 is the min and 1.0 the max
-    max_new_tokens=512,  # mex number of tokens to generate in the output
+    max_new_tokens=512,  # max number of tokens to generate in the output
     repetition_penalty=1.1  # without this output begins repeating
 )
 
@@ -65,7 +65,7 @@ from langchain.document_loaders.csv_loader import CSVLoader
 from sentence_transformers import SentenceTransformer
 from torch import cuda
 
-loader = CSVLoader(file_path="/exports/eddie/scratch/s2024596/1287.csv")
+loader = CSVLoader(file_path="/exports/eddie/scratch/s2024596/ragagent/dataset/data/5400.csv")
 
 data_csv = loader.load() # contains a list of objects of type <class 'langchain_core.documents.base.Document'>
 
@@ -123,37 +123,85 @@ vectordb = Chroma.from_documents(
 from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
 
+B_INST, E_INST = "[INST]", "[/INST]"
+B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
+DEFAULT_SYSTEM_PROMPT = """\
+You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. 
+Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations."""
+
+def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
+    SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
+    prompt_template = B_INST + SYSTEM_PROMPT + instruction + E_INST
+    return prompt_template
+
 if __name__ == '__main__':
     print("entered main")
     persist_directory = 'docs/chroma/'
 
+    # Assume data_csv and hf are defined elsewhere
     vectordb = Chroma.from_documents(
-            documents=data_csv,
-            embedding=hf,
-            # persist_directory=persist_directory
+        documents=data_csv,
+        embedding=hf,
+        # persist_directory=persist_directory
     )
-    print( "vector db collection count: ",vectordb._collection.count())
+    print("vector db collection count: ", vectordb._collection.count())
     print("chroma done")
 
     # Build prompt
-    template = """Use the following pieces of context to answer the question at the end. Use your real-world information to explain the reason behind the trends in data.
+    instruction = """
+    Use the following pieces of context to answer the question at the end. Use your real-world information to explain the reason behind the trends in data.
     {context}
     Question: {question}
-    Output data-driven narrative: """
+    Output data-driven narrative:
+    """
+    prompt_template = get_prompt(instruction)
 
-    QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
-    
-    # Run chain
+    # Run RetrievalQA chain
     qa_chain = RetrievalQA.from_chain_type(
         llm,
         retriever=vectordb.as_retriever(),
         return_source_documents=True,
-        chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}
+        chain_type_kwargs={"prompt": PromptTemplate.from_template(prompt_template)}
     )
-
     print("retrieval qa built")
 
-    question = "Write a narrative based on a line chart showing the data passed in on the topic: Indonesia - Gross domestic product (GDP) per capita in current prices from 1984 to 2024"
+    question = "Write a narrative based on a line chart showing the data passed in on the topic: Global spending on motorsports sponsorships 2011 to 2017"
     result = qa_chain({"query": question})
     print("generating result from retrieval qa")
     print(result["result"])
+
+
+# if __name__ == '__main__':
+#     print("entered main")
+#     persist_directory = 'docs/chroma/'
+
+#     vectordb = Chroma.from_documents(
+#             documents=data_csv,
+#             embedding=hf,
+#             # persist_directory=persist_directory
+#     )
+#     print( "vector db collection count: ",vectordb._collection.count())
+#     print("chroma done")
+
+#     # Build prompt
+#     template = """Use the following pieces of context to answer the question at the end. Use your real-world information to explain the reason behind the trends in data.
+#     {context}
+#     Question: {question}
+#     Output data-driven narrative: """
+
+#     QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
+    
+#     # Run chain
+#     qa_chain = RetrievalQA.from_chain_type(
+#         llm,
+#         retriever=vectordb.as_retriever(),
+#         return_source_documents=True,
+#         chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}
+#     )
+
+#     print("retrieval qa built")
+
+#     question = "Write a narrative based on a line chart showing the data passed in on the topic: Indonesia - Gross domestic product (GDP) per capita in current prices from 1984 to 2024"
+#     result = qa_chain({"query": question})
+#     print("generating result from retrieval qa")
+#     print(result["result"])
