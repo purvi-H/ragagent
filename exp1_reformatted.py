@@ -26,13 +26,13 @@ def setup_llama_pipeline(pretrained_model, tokenizer):
         torch_dtype=torch.float16,
         device_map="auto",
         tokenizer=tokenizer,
-        return_full_text=True,
+        return_full_text=False,
         do_sample=True,
         top_k=10,
         num_return_sequences=1,
         eos_token_id=tokenizer.eos_token_id,
         temperature=0.1,
-        max_new_tokens=4096,
+        max_new_tokens=512,
         repetition_penalty=1.1
     )
     return llama_pipeline
@@ -87,7 +87,7 @@ if __name__ == "__main__":
 
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()[:3]
+        lines = output_file.read().splitlines()[:6]
 
         for i, line in enumerate(lines):
             split = line.split("|")
@@ -117,7 +117,7 @@ if __name__ == "__main__":
 
             response = process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
             
-            output_file_path = "/home/s2024596/ragagent/dataset/results.txt"
+            output_file_path = "/home/s2024596/ragagent/dataset/results_first_6.txt"
 
             with open(output_file_path, "a") as output_file:
                 output_file.write(f"Gold: {chart_description}\n")
