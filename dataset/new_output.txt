@@ -1,0 +1,400 @@
+Simple | 6387.txt | Fixed broadband internet subscription rate 2019 , by region | 1
+Simple | 6440.txt | Amazon Web Services : TTM revenue 2014 to 2019 | 3
+Simple | 1032.txt | Rate of pertussis among U.S. population by state 2018 | 6
+Simple | 1703.txt | Countries paying the least for Netflix subscriptions worldwide 2019 | 7
+Simple | 3364.txt | Number of registered vehicles in Norway 2018 , by type | 8
+Simple | 4960.txt | Pesticides production volume in India 2014 to 2019 | 9
+Simple | 515.txt | Current smokers in Europe 2017 , by country | 10
+Simple | 4040.txt | Panama : leading banks 2017 , by total assets | 11
+Simple | 1951.txt | Leading container ship operators - share of world liner fleet 2020 | 12
+Simple | 6089.txt | Ad blocker usage in the United Kingdom ( UK ) 2018 | 14
+Simple | 5972.txt | Suggested retail price of a PlayStation 4 in 2014 , by country | 21
+Simple | 5946.txt | Cities with the largest parkland percentage in the U.S. 2018 | 22
+Simple | 234.txt | Players in NFL history with most receiving yards 2020 | 24
+Simple | 272.txt | Total global visitor traffic to Reddit.com 2019 | 25
+Simple | 6435.txt | Reach of social media used by UK teens and young adults 2019 | 26
+Simple | 6250.txt | Leading product categories purchased in U.S. pharmacies 2014 | 27
+Simple | 3534.txt | Twitter : monthly brand profile follower growth 2017 | 28
+Simple | 1119.txt | Instagram : distribution of global audiences 2020 , by gender | 30
+Simple | 905.txt | Population of Spain by gender 2019 | 31
+Simple | 3039.txt | U.S. veterans by gender 2018 | 32
+Simple | 6419.txt | Favorite shopping websites of affluent U.S. teens 2018 | 33
+Simple | 6536.txt | Leading French YouTube comedy channels as of June 2018 , by number of subscribers | 34
+Simple | 6002.txt | Sales growth of the top U.S. cosmetic brands 2014 | 37
+Simple | 5144.txt | Households in Denmark 2019 , by household size | 40
+Simple | 4951.txt | Market share of leading global payment card manufacturers 2016 | 45
+Simple | 2631.txt | Most popular Facebook pages in Sweden 2020 , by number of fans | 52
+Simple | 2676.txt | Share of adults playing a musical instrument in the U.S. in 2012 , by age group | 53
+Simple | 1219.txt | United Kingdom ( UK ) wine imports : Leading five countries of origin , by value 2018 | 54
+Simple | 939.txt | Value added to U.S. GDP , by industry 2018 | 55
+Simple | 5025.txt | Murders involving firearms in the U.S. in 2018 , by state | 56
+Simple | 48.txt | Number of monthly active Instagram users 2013 to 2018 | 59
+Simple | 3699.txt | Kickstarter : most-backed projects 2019 | 66
+Simple | 3830.txt | Worst terrorist attacks in terms of fatalities in the United Kingdom 1970 to 2017 | 69
+Simple | 1651.txt | UK : SMEs industry sectors 2018 | 71
+Simple | 158.txt | Google : quarterly revenue as 2008 to 2019 | 72
+Simple | 190.txt | Average ticket price in the NBA by team 2015/16 | 74
+Simple | 3637.txt | Ranking of the leading 10 most valuable Indonesian brands 2019 | 77
+Simple | 2399.txt | Countries with the most millionaires in 2019 | 80
+Simple | 6428.txt | Number of active physicians in Maryland 2019 , by specialty area | 81
+Simple | 1943.txt | Largest sports league TV contracts worldwide 2016 | 86
+Simple | 3316.txt | Religious Diversity in Asia-Pacific region in 2010 , by religion | 89
+Simple | 5060.txt | Readership of Vogue magazine in the United Kingdom ( UK ) 2003 to 2016 | 90
+Simple | 1708.txt | Ranking of the 22 richest people in China as of 2019 | 92
+Simple | 4387.txt | Shortest Oscar acceptance speeches 2019 | 94
+Simple | 1521.txt | Leading commercial banks in the U.S. 2018 , by revenue | 96
+Simple | 5376.txt | Fast food restaurant visit frequency in the United Kingdom ( UK ) 2015 | 98
+Simple | 5640.txt | Consumer confidence index of June 2019 | 99
+Simple | 5770.txt | Readership of Elle magazine in the United Kingdom ( UK ) 2003 to 2016 | 100
+Simple | 1149.txt | World leaders with the most Twitter followers 2019 | 107
+Simple | 934.txt | La Liga ( Spain ) clubs average attendance 2018/19 | 110
+Simple | 1873.txt | Twitter : number of monthly active international users 2010 to 2019 | 111
+Simple | 2997.txt | Tmall : quarterly gross merchandise volume 2011 to 2016 | 112
+Simple | 1625.txt | Largest Peruvian-American population groups in the U.S. , by county 2010 | 113
+Simple | 121.txt | State unemployment rate in the U.S. December 2019 | 114
+Simple | 2243.txt | Money raised during Games Done Quick charity events 2014 to 2019 | 116
+Simple | 4961.txt | Travel and tourism : direct contribution to GDP worldwide 2019 , by country | 117
+Simple | 6146.txt | Number of cats and dogs owned by Canadians 2018 | 118
+Simple | 3328.txt | Foreign Direct investment ( FDI ) in Canada , by country 2018 | 119
+Simple | 3002.txt | Baby product sales in U.S. supermarkets by category 2018 | 120
+Simple | 376.txt | U.S . Gross Domestic Product ( GDP ) , by state 2018 | 121
+Simple | 3269.txt | Kansas City Royals all-time home run leaders 2019 | 123
+Simple | 6504.txt | White supremacist extremists in the U.S. : attack victim breakdown , 2000 to 2016 | 129
+Simple | 768.txt | Africa : number of internet users in selected countries 2019 | 130
+Simple | 6286.txt | Gross domestic product ( GDP ) per capita in selected global regions 2018 | 131
+Simple | 47.txt | Number of monthly active WhatsApp users as of 2013 to 2017 | 133
+Simple | 3606.txt | Visitor arrivals in Finland in 2019 , by country of origin | 135
+Simple | 3141.txt | Safest countries according to the World Risk Index 2019 | 138
+Simple | 3663.txt | Biggest universities in Sweden in 2017 , by number of students | 139
+Simple | 1015.txt | Leading producers of cow milk worldwide 2019 , by country | 140
+Simple | 3258.txt | Cities with the most public basketball hoops per 10,000 residents in the U.S. 2018 | 142
+Simple | 2942.txt | Political party membership in the United Kingdom ( UK ) in 2018 | 145
+Simple | 6185.txt | U.S. imports of advanced technology products in 2018 | 150
+Simple | 2685.txt | Asian Americans - unemployment rate in the U.S. 2000 to 2019 | 151
+Simple | 5453.txt | Corruption perception index APAC 2018 , by country | 153
+Simple | 3434.txt | Change of diesel price in selected countries 2018 to 2019 | 154
+Simple | 230.txt | Revenue of the leading telecom operators in Europe 2016 | 158
+Simple | 166.txt | FIFA World ranking of women 's soccer national teams 2019 | 159
+Simple | 982.txt | U.S. mobile telecommunications providers ranked by revenue 2018 | 160
+Simple | 2149.txt | Rates of the leading causes of death in the U.S. 2018 | 161
+Simple | 5870.txt | Leading food and beverage retailers of Europe 2017 , based on revenue | 162
+Simple | 6124.txt | Advanced driver assistance systems - global shipments by OEM 2020 | 163
+Simple | 915.txt | Major U.S. cities with the most rainy days 1981 to 2010 | 167
+Simple | 3338.txt | Canada : mobile app usage growth 2016 , by category | 168
+Simple | 3033.txt | Frequency of online access in Canada 2019 | 170
+Simple | 4335.txt | Accepted asylum applicants in some of the European countries in 2018 | 171
+Simple | 668.txt | Minecraft unit sales worldwide 2016 to 2019 | 173
+Simple | 3832.txt | Personal care products most frequently used by college students in the U.S. 2011 | 178
+Simple | 4645.txt | Most valuable Swiss brands 2018 | 179
+Simple | 4471.txt | Nobel Prize Laureates in physics by nationality up to 2019 | 180
+Simple | 2678.txt | Unit shipments of DVD players/recorders in the U.S. 2014 to 2018 | 181
+Simple | 3819.txt | Bentley car sales in the United Kingdom ( UK ) 2016 to 2019 | 182
+Simple | 4526.txt | Garmin revenue by quarter 2009 to 2019 | 188
+Simple | 389.txt | Grain production worldwide 2018/19 , by type | 190
+Simple | 2258.txt | Main export partners for Japan 2017 | 193
+Simple | 2266.txt | Leading car brand registrations in Spain 2019 | 194
+Simple | 1886.txt | Leading television channels in Spain 2019 , by audience share | 197
+Simple | 922.txt | Leading eSports tournaments worldwide as of November 2019 , by prize pool | 200
+Simple | 5533.txt | Shopping habits of consumers in Ireland 2016 | 201
+Simple | 6373.txt | Leading shopfitters ranked by sales in the United Kingdom ( UK ) 2014 | 202
+Simple | 247.txt | CS : GO peak concurrent player number on Steam 2016 to 2020 | 206
+Simple | 5400.txt | Global spending on motorsports sponsorships 2011 to 2017 | 0
+Simple | 1966.txt | Audi - operating profit 2002 to 2018 | 2
+Simple | 3841.txt | Food retail sales growth in the United Kingdom ( UK ) 2014 to 2018 | 4
+Simple | 6344.txt | Revenue of U.S. entertainment , arts and recreation industry 2009 | 5
+Simple | 6514.txt | General government expenditure on education in Finland 2007 to 2017 | 13
+Simple | 451.txt | Number of Deloitte employees worldwide 2006 to 2019 | 15
+Simple | 5730.txt | Gross domestic product ( GDP ) in Bahrain 2024 | 16
+Simple | 4725.txt | Chile : internet penetration 2000 to 2017 | 17
+Simple | 5224.txt | Natural gas prices for households in Italy 2010 - 2018 , semi-annually | 18
+Simple | 754.txt | Inflation rate in Ireland 2024 | 19
+Simple | 929.txt | Total U.S. expenditure for mental health services 1986 to 2020 | 20
+Simple | 5499.txt | Unemployment rate in Samoa 2019 | 23
+Simple | 6012.txt | Commodity prices of wheat in the United Kingdom ( UK ) 2002 to 2015 | 36
+Simple | 1041.txt | Participants in baseball in the U.S. from 2006 to 2017 | 38
+Simple | 6155.txt | Ohio - Median household income 1990 to 2018 | 41
+Simple | 567.txt | U.S. - seniors as a percentage of the population 1950 to 2050 | 42
+Simple | 1894.txt | Sports merchandise revenue in North America 2009 to 2023 | 44
+Simple | 664.txt | Per capita consumption of eggs in the U.S. 2000 to 2020 | 46
+Simple | 1209.txt | Median age of the population in Pakistan 2015 | 47
+Simple | 2386.txt | Number of arrivals in tourist accommodation Croatia 2006 to 2018 | 48
+Simple | 1249.txt | U.S. shale gas and tight oil plays production 1999 to 2050 | 49
+Simple | 4078.txt | Global QR code scanning audience 2015 , by age group | 50
+Simple | 2443.txt | Online news , newspaper and magazine consumption in Great Britain 2007 to 2018 | 51
+Simple | 1486.txt | Number of Facebook users in China 2017 to 2023 | 61
+Simple | 4385.txt | Average ticket price of the Cincinnati Bengals 2006 to 2019 | 62
+Simple | 3591.txt | Earphone & headphone worldwide consumer sales 2014 to 2017 | 64
+Simple | 471.txt | Android smartphone users in the United States 2014 to 2021 | 65
+Simple | 6055.txt | Ratio of government expenditure to gross domestic product ( GDP ) in the United States | 68
+Simple | 3829.txt | Illinois - real GDP 2000 to 2018 | 73
+Simple | 4396.txt | Total population of Rotterdam 2009 to 2019 | 75
+Simple | 5176.txt | Global spending on tennis sponsorships 2010 to 2016 | 79
+Simple | 3077.txt | India : social network penetration 2017 to 2023 | 82
+Simple | 1411.txt | Ford - R & D costs 2013 to 2019 | 84
+Simple | 5253.txt | Insurance premiums to GDP ratio in Europe 2004 to 2018 | 85
+Simple | 6586.txt | Average age of the population in Iceland 2009 to 2019 | 91
+Simple | 1357.txt | New York Yankees average ticket price 2006 to 2019 | 97
+Simple | 359.txt | Growth of the global gross domestic product ( GDP ) 2024 | 101
+Simple | 2124.txt | Median age of the population in Spain 1950 to 2050 | 102
+Simple | 5824.txt | Employment in U.S. publishing industries 2001 to 2019 | 103
+Simple | 2385.txt | Urbanization in Indonesia 2018 | 105
+Simple | 4240.txt | Total revenue of the LVMH Group worldwide 2008 to 2019 | 115
+Simple | 3312.txt | Electronics components total available market worldwide 2014 to 2018 | 122
+Simple | 3571.txt | Load factor of electricity from solar PV in the United Kingdom ( UK ) 2010 to 2018 | 125
+Simple | 4516.txt | Advertising and marketing spending by small business in the UK 2011 to 2013 | 126
+Simple | 4074.txt | Median age of the population in the Czech Republic 2015 | 127
+Simple | 4969.txt | India 's electronic product imports value 2010 to 2019 | 128
+Simple | 1465.txt | Groupon : global revenue 2008 to 2019 | 132
+Simple | 2990.txt | Gross domestic product ( GDP ) per capita in South Africa 2024 | 134
+Simple | 4161.txt | Unemployment rate in Cuba 2019 | 136
+Simple | 6261.txt | Number of Ipsos employees worldwide 2000 to 2018 | 137
+Simple | 1657.txt | Average prices for coconut oil worldwide from 2014 to 2025 | 143
+Simple | 3150.txt | Worldwide production of cocaine 1994 to 2017 | 144
+Simple | 2215.txt | United Kingdom ( UK ) : National debt 2000 to 2019 | 148
+Simple | 613.txt | Annual growth in average global hotel rates 2010 to 2018 | 149
+Simple | 599.txt | Revenue of RIM/Blackberry worldwide 2004 to 2019 | 152
+Simple | 4605.txt | Gross domestic product ( GDP ) per capita in Serbia 2024 | 155
+Simple | 4255.txt | Unemployment rate in Haiti 2019 | 156
+Simple | 2393.txt | Gross domestic product ( GDP ) per capita of the United Arab Emirates 2024 | 164
+Simple | 1287.txt | Gross domestic product ( GDP ) per capita in Indonesia 2024 | 165
+Simple | 1027.txt | United States - car sales outlook 2019 to 2025 | 169
+Simple | 1062.txt | Gross domestic product ( GDP ) growth in Turkey 2024 | 174
+Simple | 3633.txt | Projected worldwide tin consumption | 175
+Simple | 5982.txt | Household income of black families in the U.S. 1990 to 2018 | 176
+Simple | 2224.txt | Cleveland Indians average ticket price 2006 to 2019 | 183
+Simple | 5044.txt | Gross domestic product ( GDP ) in Serbia 2024 | 184
+Simple | 1586.txt | Inflation rate in Afghanistan 2024 | 185
+Simple | 1456.txt | Expenditure on prisons in the United Kingdom ( UK ) 2009 to 2019 | 187
+Simple | 3899.txt | Sugar beet production worldwide 1965 to 2018 | 189
+Simple | 3099.txt | Retail e-commerce sales growth in India 2017 to 2022 | 192
+Simple | 1037.txt | eBay : annual net revenue 2013 to 2019 | 196
+Simple | 1496.txt | Total population of Egypt 2024 | 199
+Simple | 745.txt | Sales per unit of Pizza Hut in the U.S. 2006 to 2018 | 203
+Simple | 5456.txt | Gross domestic product of Latin America and the Caribbean 2024 | 205
+Simple | 4234.txt | Passengers uplifted by EasyJet 2008 to 2018 | 207
+Simple | 6030.txt | Global smart augmented reality glasses revenue 2016 to 2022 | 210
+Simple | 1724.txt | Net income of The Wendy 's Company 2009 to 2019 | 211
+Simple | 5720.txt | Global sexual wellness market size 2017 to 2022 | 214
+Simple | 5354.txt | Edible grocery sales forecast for Tesco in the United Kingdom ( UK ) from 2010 to 2020 | 220
+Simple | 1854.txt | Total population of South Africa 2024 | 221
+Simple | 5836.txt | Birth rate of Hispanics in the U.S. 1990 to 2018 | 222
+Simple | 1451.txt | Mexico : murder rate 2009 to 2019 | 223
+Simple | 3005.txt | U.S. housing : Case Shiller National Home Price Index 2000 to 2019 | 225
+Simple | 466.txt | Revenue of Costa Coffee worldwide 2010 to 2019 | 226
+Simple | 5991.txt | Number of arrivals in tourist accommodation Bulgaria 2006 to 2018 | 235
+Simple | 5760.txt | Total population of Eritrea 2024 | 236
+Simple | 3350.txt | Regular season average attendance of the San Francisco Giants 2009 to 2019 | 238
+Simple | 3651.txt | Nationwide Building Society : current accounts market share in the UK in 2011 to 2019 | 248
+Simple | 1246.txt | France : gross minimum hourly wage 2005 to 2019 | 249
+Simple | 6224.txt | Ontario 's Craft Brewers ' volume share of beer sales Ontario 2013 to 2017 | 251
+Simple | 1710.txt | Revenue of BASF 1999 to 2019 | 252
+Simple | 6384.txt | LafargeHolcim - net sales 2007 to 2018 | 255
+Simple | 5463.txt | Fertility rate in China 2007 to 2017 | 256
+Simple | 5701.txt | Global spending on golf sponsorships 2010 to 2016 | 259
+Simple | 5530.txt | Revenue of the Green Bay Packers ( NFL ) 2001 to 2018 | 260
+Simple | 1144.txt | Canada : number of Facebook users 2017 to 2023 | 265
+Simple | 3109.txt | Part-time employees : Average hourly wage in the United Kingdom ( UK ) 2006 to 2019 | 268
+Simple | 4888.txt | GDP of Nova Scotia , Canada 2000 to 2018 | 270
+Simple | 777.txt | Global brand value of Adidas from 2016 to 2019 | 274
+Simple | 1168.txt | Revenue of Chuck E. Cheese 's worldwide 2007 to 2018 | 275
+Simple | 4511.txt | Mobile phone internet use penetration in Great Britain 2019 , by demographic | 276
+Complex | 133.txt | Revenue of the Big Four accounting / audit firms worldwide by function 2019 | 43
+Complex | 1004.txt | Forecast : Grocery market share in the UK 2014 - 2019 , by retail channel | 57
+Complex | 1330.txt | Share of U.S. middle class population 2015 , by gender and marital status | 58
+Complex | 998.txt | Market share held by smartphone OS in China 2014 - 2019 , by month | 67
+Complex | 764.txt | Estimated annual expenses for dog and cat owners in the U.S. 2019 | 70
+Complex | 1541.txt | Share of selected dating app users in the U.S. in 2016 , by gender | 78
+Complex | 784.txt | Population to dentist ratio in Canada by province 2014 | 83
+Complex | 904.txt | Active mobile social media users in APAC countries 2017 to 2019 | 87
+Complex | 1016.txt | The Lords of the Rings Trilogy : domestic and global box office revenue 2018 | 95
+Complex | 12.txt | Distribution of race and ethnicity among the U.S. military 2017 | 106
+Complex | 1208.txt | United Kingdom ( UK ) : Monthly total weekly hours of work , by gender 2017 to 2019 | 124
+Complex | 1015.txt | Air travel frequency in the U.S. as of June 2015 , by ethnicity | 166
+Complex | 819.txt | Global advertising spending growth 2016 - 2017 , by medium | 191
+Complex | 1040.txt | Leading U.S. states for wheat yield per harvested acre 2017 to 2019 | 219
+Complex | 20.txt | Top U.S. states based on number of milk cows 2017 to 2018 | 228
+Complex | 505.txt | Leading container ship operators - owned and chartered TEUs 2020 | 232
+Complex | 835.txt | Leading car manufacturing countries worldwide 2018 | 233
+Complex | 1253.txt | Adhesive and sealant demand worldwide by region in 2009 to 2019 | 285
+Complex | 972.txt | Quarterly average daily rate of hotels in Copenhagen 2010 to 2017 | 309
+Complex | 562.txt | Facebook : worldwide quarterly revenue 2010 - 2019 , by segment | 310
+Complex | 913.txt | Share of Minecraft unit sales worldwide 2016 , by region and platform | 342
+Complex | 946.txt | Ranking of the leading 10 most valuable Portuguese brands 2015 to 2017 | 379
+Complex | 334.txt | Quarterly average daily rate in hotels in Washington D.C. 2016 to 2017 | 397
+Complex | 330.txt | Quarterly average daily rate of hotels in San Francisco 2016 to 2017 | 401
+Complex | 1.txt | Distribution of World of Warcraft characters in 2019 , by race | 405
+Complex | 1363.txt | Lung transplant rate in Europe 2017 - 2018 , by country | 435
+Complex | 1315.txt | The Iron Man series : domestic and global box office revenue 2018 | 438
+Complex | 1240.txt | Brexit votes in the United Kingdom by political affiliation 2016 | 453
+Complex | 1444.txt | Survey on the Confederate flag as a symbol of pride or racism , by ethnicity 2015 | 454
+Complex | 747.txt | Top U.S. hemp-derived CBD brands 2017 and 2019 | 499
+Complex | 1235.txt | Use of two-factor authentication among U.S. online users 2017 | 505
+Complex | 246.txt | Highest grossing film franchises and series 2019 | 509
+Complex | 653.txt | Shopping centers : prime rents in selected European cities Q2 2015-Q2 2019 | 510
+Complex | 1029.txt | Worldwide YouTube advertising CPV in 2016 , by generation | 528
+Complex | 221.txt | Mexico : governmental capacity coronavirus 2020 | 540
+Complex | 710.txt | Youth unemployment rate in selected world regions 2019 | 596
+Complex | 438.txt | Worldwide largest B2C e-commerce markets in 2015 to 2016 | 602
+Complex | 846.txt | Alphabet : global annual revenue 2017 - 2019 , by segment | 612
+Complex | 433.txt | Leading countries ranked by mobile app store downloads 2016 to 2018 | 623
+Complex | 1373.txt | Hotel market outlook sentiment rankings worldwide 2009 - 2015 , by region | 627
+Complex | 1334.txt | Leading European tour operators by revenue 2012 to 2014 | 636
+Complex | 1310.txt | 2012 election - independent expenditures of the largest super PACs | 646
+Complex | 1416.txt | Quarterly average daily rate of hotels in Las Vegas 2016 to 2017 | 651
+Complex | 1162.txt | Forbes ranking of the best U.S. colleges , by tuition and average debt 2019 | 656
+Complex | 603.txt | Average retail price for potatoes in Canada 2014 to 2019 | 674
+Complex | 195.txt | Steel - estimated demand worldwide by region 2019 & 2020 | 695
+Complex | 1255.txt | LED-based luminaires : cost breakdown 2015 | 707
+Complex | 1511.txt | Petrobras ' owned and chartered vessels 2018 | 730
+Complex | 656.txt | Indonesia : preferred mobile messenger apps 2014 , by usage | 732
+Complex | 328.txt | Leading U.S. consumer e-mail providers 2017 , by age | 736
+Complex | 427.txt | Average EU and U.S. applied import tariffs , by sector in 2013 | 747
+Complex | 1018.txt | Importance of hotel classification when selecting hotels worldwide in 2014 | 761
+Complex | 585.txt | Annualized costs caused by cyber crime in the United States 2015 , by industry | 812
+Complex | 290.txt | Novartis ' number of full-time employees by division 2013 to 2014 | 827
+Complex | 1470.txt | Time children spend in outside-school activities in the U.S. 2014 , by grade | 841
+Complex | 335.txt | Global online shopping preference 2017 , by category | 884
+Complex | 352.txt | Google vs. Microsoft Advertising : U.S. mobile click share 2019 | 908
+Complex | 1309.txt | Global water demand by region and sector : projections through 2030 | 923
+Complex | 1058.txt | Uber : U.S. corporate demography by ethnicity 2017 to 2019 | 925
+Complex | 938.txt | European insurance : number of companies 2018 , by country | 969
+Complex | 1088.txt | Total debt as a percentage of GDP in selected countries 2011 | 987
+Complex | 690.txt | Foreign exchange earnings from tourism India 2012 - 2019 by month | 995
+Complex | 167.txt | Average mobile app user acquisition costs 2018 - 2019 , by user action and OS | 1004
+Complex | 13.txt | Monthly average daily temperatures in the UK 2015 to 2019 | 1026
+Complex | 1457.txt | Monthly sales of baked goods at large retailers in Canada 2015 to 2019 | 1041
+Complex | 594.txt | Distribution of World of Warcraft Alliance characters in 2019 , by race | 1081
+Complex | 1109.txt | Frequency of use of cosmetic products by college students in the U.S. 2011 | 1091
+Complex | 107.txt | NFL history : players with most kick/punt return touchdowns 2020 | 1097
+Complex | 425.txt | LinkedIn : quarterly segment revenue 2009 to 2016 | 1106
+Complex | 1450.txt | Kitchen countertop materials in the U.S. 2014 , by neighborhood | 1115
+Complex | 1044.txt | Refugees arriving by gender U.S. 2018 | 1160
+Complex | 1482.txt | Share of retail spend in Germany 2013 - 2018 , by channel | 1161
+Complex | 1299.txt | Americans ' soda drinking habits by ethnic group 2013 | 1164
+Complex | 651.txt | Operational figures for Lufthansa 2017 to 2018 | 1170
+Complex | 94.txt | Nike 's North American revenue 2009 - 2019 , by segment | 1185
+Complex | 584.txt | Market share of LCD-TV brands in the U.S. Q4 2009-Q1 2012 | 1249
+Complex | 1262.txt | Production of commercial vehicles in the United Kingdom ( UK ) 2015 - 2018 , by brand | 1259
+Complex | 404.txt | Number of betting shops in the UK 2009 - 2019 , by operator | 1262
+Complex | 1116.txt | Uses of 3D printing 2015 to 2018 | 1268
+Complex | 1196.txt | Most important issues facing Great Britain ( GB ) in 2017 , by age | 1278
+Complex | 875.txt | Pharmaceutical imports and exports in Asia 2014 by major country | 1294
+Complex | 858.txt | Coal-mining employment in the U.S. 2009 to 2018 | 1312
+Complex | 1499.txt | Full-size tablet usage rate for school work by U.S. students 2013 , by education level | 1318
+Complex | 254.txt | Share of U.S. middle class population 2015 , by race and ethnicity | 1336
+Complex | 893.txt | Smartphone System-on-Chip market share by vendor worldwide 2016 to 2017 | 1341
+Complex | 898.txt | Players of the NFL ranked by earnings from salary/bonuses & endorsements 2019 | 1357
+Complex | 1353.txt | Forecast major categories of U.S. healthcare expenditures 2015 to 2020 | 1372
+Complex | 24.txt | Average mortgage interest rates in the United Kingdom ( UK ) 2014 to 2019 | 1374
+Complex | 1356.txt | The Hunger Games franchise : domestic and global box office revenue 2018 | 1378
+Complex | 1108.txt | Weight distribution among adults in the United Kingdom ( UK ) 2015 , by gender | 1392
+Complex | 1127.txt | Preferred sales and marketing strategies for luxury watch brands 2017 | 1403
+Complex | 1342.txt | Number of software developers employed in the U.S. 2010 to 2020 | 1412
+Complex | 659.txt | Hair and beauty salons : duration between female treatments in the UK 2014 to 2017 | 1433
+Complex | 44.txt | Apple product sales comparison 2009 - 2018 , by quarter | 1447
+Complex | 242.txt | Major countries in worldwide graphite production 2015 to 2019 | 1451
+Complex | 121.txt | Confirmed cases of coronavirus Japan 2020 , by state of health | 1454
+Complex | 1042.txt | Births and deaths in the U.S. by state 2017 | 1456
+Complex | 356.txt | U.S. Google AdWords CPC 2018 , by industry | 1482
+Complex | 788.txt | Favorite film genres in the U.S. 2018 , by age group | 1500
+Complex | 1488.txt | Dallas Cowboys number of Facebook fans/twitter followers 2012 to 2019 | 1505
+Complex | 951.txt | National Hockey League - Edmonton Oilers home attendance 2005 to 2019 | 29
+Complex | 65.txt | Age distribution in the United States 2018 | 35
+Complex | 1385.txt | Annual averages of beef price spreads in the U.S. 2006 to 2018 | 39
+Complex | 720.txt | Manchester United revenue by segment 2009 to 2019 | 60
+Complex | 1017.txt | U.S. shipments of residential storage water heaters , by type 2001 to 2019 | 63
+Complex | 41.txt | Urban and rural population of China 2008 to 2018 | 76
+Complex | 926.txt | Share of the elderly population in Sweden 2000 - 2018 , by age group | 88
+Complex | 891.txt | Instagram penetration rate in the Netherlands 2015 - 2018 , by age group | 93
+Complex | 81.txt | Average and total attendance at FIFA football World Cup games 1930 to 2018 | 104
+Complex | 833.txt | Literacy rate in Ecuador 2017 | 108
+Complex | 67.txt | Gross domestic product of the BRIC countries from 2014 to 2024 | 109
+Complex | 612.txt | Literacy rate in Colombia 2018 | 141
+Complex | 608.txt | U.S. mass shooting victims , by fatalities and injuries 1982 to 2020 | 146
+Complex | 253.txt | World population - median age by fertility variant 1990 to 2100 | 147
+Complex | 1506.txt | Smartphone , tablets , wearables and laptops sales volume in France 2011 to 2016 | 157
+Complex | 18.txt | Death rate for suicide in the U.S. 1950 - 2017 , by gender | 172
+Complex | 519.txt | Number of Jack in the Box restaurants from 2011 to 2019 | 177
+Complex | 68.txt | Total population of the ASEAN countries from 2008 to 2018 | 186
+Complex | 600.txt | Global internet access rate 2005 to 2019 | 195
+Complex | 1026.txt | Scottish independence voting intention September 2014 , by age group | 198
+Complex | 837.txt | Gross domestic product ( GDP ) per capita in Belgium 2007 - 2017 , by region | 204
+Complex | 218.txt | Teachers in public elementary/secondary schools - average salary 1980 to 2017 | 216
+Complex | 1221.txt | National Hockey League - New York Islanders home attendance 2005 to 2019 | 217
+Complex | 320.txt | U.S. war costs in Iraq and Afghanistan 2003 to 2015 | 229
+Complex | 136.txt | IBM 's global revenue 2010 - 2018 , by business segment | 231
+Complex | 225.txt | Average concession stand prices in the NFL 2006 to 2019 | 240
+Complex | 478.txt | Minutes per day spent on travel to work or study in OECD countries , as of 2016 | 244
+Complex | 273.txt | Leading container ship operators - owned and chartered ships 2020 | 246
+Complex | 480.txt | Global Asus revenue 2011 - 2018 , by region | 247
+Complex | 147.txt | Number of families in the US by number of children 2000 to 2019 | 253
+Complex | 110.txt | UK GDP growth forecast comparison 2019 to 2023 | 263
+Complex | 454.txt | Total population in Denmark 2010 - 2020 , by gender | 283
+Complex | 1223.txt | Literacy rate in Spain 2018 | 326
+Complex | 154.txt | Total value of U.S. trade in goods worldwide 2004 to 2018 | 328
+Complex | 1052.txt | Atlanta Hawks concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016 | 336
+Complex | 829.txt | Employment by economic sector in Guatemala 2019 | 339
+Complex | 30.txt | Footwear segment revenue of Nike , Adidas & Puma 2010 to 2018 | 344
+Complex | 16.txt | Distribution of the workforce across economic sectors in India 2019 | 351
+Complex | 47.txt | Daily on-demand TV viewing time in selected countries worldwide 2018 , by age group | 352
+Complex | 127.txt | Number of Starbucks stores in Canada 2005 to 2019 | 367
+Complex | 1388.txt | Children 's participation in dance activities in England 2008 - 2019 , by age | 368
+Complex | 518.txt | Internet penetration rate in the Middle East and globally 2009 to 2019 | 381
+Complex | 856.txt | Oklahoma City Thunder concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016 | 383
+Complex | 1047.txt | UK cyber security : Public sector market size 2010 - 2017 , by segment | 384
+Complex | 1173.txt | Employment by economic sector in Bhutan 2019 | 386
+Complex | 795.txt | Fashion industry value to the economy in the United Kingdom ( UK ) 2009 to 2014 | 387
+Complex | 925.txt | LG Electronics sales breakdown by region 2013 to 2017 | 393
+Complex | 177.txt | Leading flavor and fragrance companies worldwide 2010 to 2017 | 400
+Complex | 4.txt | Population of the United States by sex and age 2018 | 407
+Complex | 1214.txt | Literacy rate in Uruguay 2018 | 412
+Complex | 179.txt | United Kingdom ( UK ) : prison population 2011 - 2019 , by gender | 420
+Complex | 679.txt | Projected world population distribution , by age group 2020 to 2100 | 426
+Complex | 999.txt | National Hockey League - Philadelphia Flyers home attendance 2005 to 2019 | 442
+Complex | 1172.txt | Employment by economic sector in Finland 2019 | 456
+Complex | 677.txt | Literacy rate in Peru 2018 | 457
+Complex | 843.txt | U.S. gender wage gap for the 20 most common occupations for men 2018 | 462
+Complex | 565.txt | Written insurance premiums in the UK 2009 - 2025 , by business class | 469
+Complex | 751.txt | Average costs of fossil fuels for U.S. electricity generation 2018 | 471
+Complex | 393.txt | Employment by economic sector in Germany 2009 to 2019 | 482
+Complex | 863.txt | Literacy rate in El Salvador 2017 | 488
+Complex | 791.txt | AstraZeneca 's revenue 2013 - 2018 by region | 507
+Complex | 414.txt | Government revenue and spending in Italy 2024 | 508
+Complex | 176.txt | Net income of Adidas and Puma 2006 to 2018 | 518
+Complex | 249.txt | Economic sector distribution of the workforce in Japan 2019 | 521
+Complex | 303.txt | Cars bought in the United Kingdom ( UK ) 2013 - 2015 , by gender and age | 539
+Complex | 487.txt | Average cost of a hotel room around the world in 2010 to 11 | 546
+Complex | 288.txt | Class 3 - 8 truck sales in the United States 2001 to 2018 | 555
+Complex | 1078.txt | Premier league football clubs revenue in England 2014/15 - 2019/20 , by stream | 562
+Complex | 11.txt | Percentage of the U.S. population with a college degree 1940 - 2018 , by gender | 570
+Complex | 792.txt | Clinical trial costs by select component and phase | 581
+Complex | 265.txt | Spotify 's segment revenue 2012 to 2019 | 583
+Complex | 349.txt | Alibaba : annual segment revenue distribution 2016 to 2019 | 588
+Complex | 888.txt | BHP 's production of selected metals 2008 to 2019 | 597
+Complex | 933.txt | Box office revenue of `` Best Picture '' nominees at the Academy Awards 2020 | 607
+Complex | 56.txt | Canada - resident population , by gender and age group 2019 | 613
+Complex | 508.txt | Immigration , emigration , and migration balance in the Netherlands 2008 to 2018 | 626
+Complex | 73.txt | Literacy rate in India 2018 | 635
+Complex | 988.txt | Monthly ARPU through mobile subscribers in the UK 2007 - 2016 , by pay type | 669
+Complex | 561.txt | Distribution of the workforce across economic sectors in France 2019 | 681
+Complex | 279.txt | Number of participants in U.S. high school soccer 2018/19 , by gender | 686
+Complex | 910.txt | Deloitte employees worldwide by gender 2011 to 2019 | 713
+Complex | 1190.txt | Rakuten Group 's annual revenue FY 2014 - 2018 , by segment | 722
+Complex | 1421.txt | Load factor of electricity from hydropower in the United Kingdom ( UK ) 2010 to 2018 | 723
+Complex | 1062.txt | Average age at marriage in Norway 2008 - 2018 , by gender | 738
+Complex | 1522.txt | Literacy rate in Azerbaijan 2017 | 745
+Complex | 337.txt | Number of U.S. air carriers 1995 to 2019 | 748
+Complex | 964.txt | National Hockey League - Los Angeles Kings home attendance 2005 to 2019 | 752
+Complex | 917.txt | Employment by economic sector in Kuwait 2019 | 755
+Complex | 1495.txt | Share of economic sectors in the GDP in Rwanda 2018 | 766
+Complex | 1036.txt | Distribution of gross domestic product ( GDP ) across economic sectors Qatar 2017 | 771
+Complex | 461.txt | Occupancy rate of Marriott International hotels 2010 - 2018 , by region | 793
+Complex | 897.txt | Number of federal and nonfederal hospitals in the U.S. 1975 to 2017 | 823
+Complex | 779.txt | Survey on the legalization of same-sex marriages in the U.S. 1996 to 2019 | 824
+Complex | 1213.txt | Memphis Grizzlies concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016 | 834
+Complex | 410.txt | Natural gas vis-a-vis coal prices 1980 to 2018 | 843
+Complex | 990.txt | National Hockey League - Ottawa Senators home attendance 2005 to 2019 | 861
+Complex | 1312.txt | eBay : gross merchandise volume 2014 - 2019 , by segment | 864
+Complex | 318.txt | Combined revenue of EY worldwide by region 2009 to 2019 | 870
+Complex | 1465.txt | Number of Bottega Veneta stores worldwide 2013 - 2019 , by region | 888
+Complex | 700.txt | Facebook : global corporate demography 2014 - 2019 , by gender | 890
