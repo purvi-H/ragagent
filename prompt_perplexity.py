@@ -56,24 +56,20 @@ if __name__ == "__main__":
     hf_auth = "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"
     login(token=hf_auth)
 
-    input_texts_0 = ["You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations."]
-    # 79.678955078125
-    input_texts_1 = ["You are a helpful, respectful and honest assistant. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, trends, pattern synthesis, exceptions, commonplace concepts."]
-    # 86.09090423583984
-    input_texts_2 = ["You are a helpful, respectful and honest assistant. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts."]
-    # 82.80303955078125
-    input_texts_3 = ["You are a helpful, respectful and honest narrative writer. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts."]
-    # 82.71334838867188
-    input_texts_4 = ["You are a helpful, respectful and honest narrative writer. Always answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts."]
-    # 80.9637451171875
-    input_texts_4 = ["You are a helpful, respectful and honest narrative writer. Always answer helpfully and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data, instead describe statistics, extrema, outlier, correlations and any jargons."]
-    # 75.60726928710938
-
     pretrained_model, tokenizer = setup_model(model_id, hf_auth)
     print("Model setup")
 
-    batch = to_tokens_and_logprobs(pretrained_model, tokenizer, input_texts_4)
-    pprint(batch)
+    input_texts = [
+        "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations.",
+        "You are a helpful, respectful and honest assistant. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, trends, pattern synthesis, exceptions, commonplace concepts.",
+        "You are a helpful, respectful and honest assistant. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
+        "You are a helpful, respectful and honest narrative writer. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
+        "You are a helpful, respectful and honest narrative writer. Always answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
+        "You are a helpful, respectful and honest narrative writer. Always answer helpfully and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data, instead describe statistics, extrema, outlier, correlations and any jargons."
+    ]
 
-    prompt_perplexity = calculate_prompt_perplexity(batch)
-    print("Prompt Perplexity:", prompt_perplexity)
+    for input_text in input_texts:
+        batch = to_tokens_and_logprobs(pretrained_model, tokenizer, input_text)
+        pprint(batch)
+        prompt_perplexity = calculate_prompt_perplexity(batch)
+        print("Prompt Perplexity:", prompt_perplexity)
