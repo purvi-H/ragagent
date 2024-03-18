@@ -42,7 +42,7 @@ def setup_pipeline(pretrained_model, tokenizer):
         num_return_sequences=1,
         eos_token_id=tokenizer.eos_token_id,
         temperature=0.01,
-        max_new_tokens=500,
+        max_new_tokens=512,
         repetition_penalty=1.1
     )
 
@@ -66,8 +66,8 @@ def setup_llm_chain(llama_pipeline):
     B_INST, E_INST = "[INST]", "[/INST]"
     B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
     DEFAULT_SYSTEM_PROMPT = """\
-    You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. 
-    Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations."""
+    You are a helpful, respectful and honest narrative writing assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations.
+    """
 
     def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
         SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
