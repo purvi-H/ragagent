@@ -23,6 +23,7 @@ generate qs needs csv and the title
 set_seed(42)
 
 def parse_rows(chart_data_directory, i, line):
+    print(line)
     split = line.split("|")
     chart_type = split[0].strip()
     chart_data_filename = split[1].strip().replace('.txt', '.csv')
@@ -75,6 +76,7 @@ if __name__ == "__main__":
     with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
         lines = output_file.read().splitlines()[0]
         for i, line in enumerate(lines):
+            print(line)
             chart_type, chart_data, chart_title =  parse_rows(chart_data_directory, i, line)
             
             # GENERATE QUESTIONS
