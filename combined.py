@@ -68,6 +68,7 @@ if __name__ == "__main__":
                     },
                     "required": ["questions"]
                     }
+    print(json_schema)
 
     # for each row in the file, extracting the relevant chart info
     chart_data_directory = "/home/s2024596/ragagent/dataset"
