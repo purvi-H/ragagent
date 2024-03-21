@@ -60,25 +60,15 @@ if __name__ == "__main__":
     print("Model setup")
 
     input_texts = [
-        """You are a helpful, respectful and honest assistant. Always answer as helpfully
-        as possible, while being safe. Your answers should not include any harmful,
-        unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that
-        your responses are socially unbiased and positive in nature.
-        If a question does not make any sense, or is not factually coherent, explain why
-        instead of answering something not correct. If you don’t know the answer to a
-        question, please don’t share false information.""",
+        """You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.",
 
-        """You are a helpful, respectful and honest narrative writing assistant. 
-        Always answer as helpfully as possible, while being safe. 
-        Your answers should not include any harmful,
-        unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that
-        your responses are socially unbiased and positive in nature.
+        """You are a helpful, respectful and honest narrative writing assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
         Write a narrative which describes the information in the chart data. 
         Do not discuss what is missing in the data instead describe statistics, 
         extrema, outliers, correlations, point-wise comparisons, complex trends, 
         pattern synthesis, exceptions, commonplace concepts. 
         Also, include domain-specific insights, current events, social and 
-        political context, explanations.""",
+        political context, explanations.",
 
         """You are a helpful, respectful and honest assistant. 
         Always answer as helpfully as possible, while being safe. 
@@ -99,6 +89,6 @@ if __name__ == "__main__":
 
     for input_text in input_texts:
         batch = to_tokens_and_logprobs(pretrained_model, tokenizer, input_text)
-        pprint(batch)
+        pprint(input_text)
         prompt_perplexity = calculate_prompt_perplexity(batch)
         print("Prompt Perplexity:", prompt_perplexity)

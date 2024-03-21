@@ -107,7 +107,7 @@ if __name__ == "__main__":
 
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()[:3]
+        lines = output_file.read().splitlines()
 
         for i, line in enumerate(lines):
             split = line.split("|")
@@ -137,7 +137,7 @@ if __name__ == "__main__":
 
             response = process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
             
-            output_file_path = "/home/s2024596/ragagent/dataset/results_first_3.txt"
+            output_file_path = "/home/s2024596/ragagent/dataset/allresultsexp1.txt"
 
             with open(output_file_path, "a") as output_file:
                 output_file.write(f"Index: {i}\n")
