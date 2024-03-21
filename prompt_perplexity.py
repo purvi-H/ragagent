@@ -24,6 +24,7 @@ def to_tokens_and_logprobs(model, tokenizer, input_texts):
         batch.append(text_sequence)
     return batch
 
+
 def calculate_prompt_perplexity(output):
     total_log_prob = 0
     total_tokens = 0
@@ -39,17 +40,19 @@ def calculate_prompt_perplexity(output):
 
     return prompt_perplexity.item()
 
+
 def setup_model(model_id, hf_auth):
     model_config = transformers.AutoConfig.from_pretrained(model_id)
-    tokenizer = AutoTokenizer.from_pretrained(model_id, use_auth_token=hf_auth, padding_side="left")
+    tokenizer = AutoTokenizer.from_pretrained(
+        model_id, use_auth_token=hf_auth, padding_side="left"
+    )
     tokenizer.pad_token = tokenizer.eos_token
     pretrained_model = AutoModelForCausalLM.from_pretrained(
-        model_id,
-        use_auth_token=hf_auth,
-        config=model_config
+        model_id, use_auth_token=hf_auth, config=model_config
     )
     pretrained_model.config.pad_token_id = pretrained_model.config.eos_token_id
     return pretrained_model, tokenizer
+
 
 if __name__ == "__main__":
     model_id = "meta-llama/Llama-2-7b-chat-hf"
@@ -60,31 +63,14 @@ if __name__ == "__main__":
     print("Model setup")
 
     input_texts = [
-        """You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.",
-
-        """You are a helpful, respectful and honest narrative writing assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
-        Write a narrative which describes the information in the chart data. 
-        Do not discuss what is missing in the data instead describe statistics, 
-        extrema, outliers, correlations, point-wise comparisons, complex trends, 
-        pattern synthesis, exceptions, commonplace concepts. 
-        Also, include domain-specific insights, current events, social and 
-        political context, explanations.",
-
-        """You are a helpful, respectful and honest assistant. 
-        Always answer as helpfully as possible, while being safe. 
-        Write a narrative which describes the information in the chart data. 
-        Do not discuss what is missing in the data instead describe statistics, 
-        extrema, outliers, correlations, point-wise comparisons, complex trends, 
-        pattern synthesis, exceptions, commonplace concepts. 
-        Also, include domain-specific insights, current events, social and 
-        political context, explanations.""",
-
+        "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.",
+        "You are a helpful, respectful and honest narrative writing assistant. Always answer as helpfully as possible, while being safe. Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations.",
         "You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, complex trends, pattern synthesis, exceptions, commonplace concepts. Also, include domain-specific insights, current events, social and political context, explanations.",
         "You are a helpful, respectful and honest assistant. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data instead describe statistics, extrema, outliers, correlations, point-wise comparisons, trends, pattern synthesis, exceptions, commonplace concepts.",
         "You are a helpful, respectful and honest assistant. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
         "You are a helpful, respectful and honest narrative writer. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
         "You are a helpful, respectful and honest narrative writer. Always answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
-        "You are a helpful, respectful and honest narrative writer. Always answer helpfully and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data, instead describe statistics, extrema, outlier, correlations and any jargons."
+        "You are a helpful, respectful and honest narrative writer. Always answer helpfully and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data, instead describe statistics, extrema, outlier, correlations and any jargons.",
     ]
 
     for input_text in input_texts:
