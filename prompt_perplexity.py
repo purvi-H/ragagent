@@ -71,6 +71,7 @@ if __name__ == "__main__":
         "You are a helpful, respectful and honest narrative writer. Answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
         "You are a helpful, respectful and honest narrative writer. Always answer safely and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data. Instead describe statistics, extrema, outlier, correlations and commonplace concepts.",
         "You are a helpful, respectful and honest narrative writer. Always answer helpfully and respectfully. Write a narrative which describes the information in the chart data. Do not discuss what is missing in the data, instead describe statistics, extrema, outlier, correlations and any jargons.",
+        "You're a helpful, respectful, and honest writing assistant. Stick to safe and positive responses, avoiding any harmful or illegal content. Describe the chart data without discussing missing elements. Highlight statistics, outliers, correlations, trends, exceptions, and common concepts. Add insights from relevant domains, current events, and social contexts. Keep it fluent with no subsections."
     ]
 
     for input_text in input_texts:
