@@ -15,15 +15,15 @@
 
 # # Print JSON data
 # print(json_data)
-from typing import List
+# from typing import List
 
-chart_title = "smth"
-chart_data = "else"
+# chart_title = "smth"
+# chart_data = "else"
 
-instruction = """
-            Generate 5 questions that can be answered only from this data about {chart_title} : {chart_data}
-            Generate the questions based on the following schema:
-            """
-new = instruction.format(chart_title=chart_title, chart_data=chart_data)
-prompts = ["Prompt 1", "Prompt 2", "Prompt 3"]
-print(type([{'product': 'colorful socks'}]))
+# instruction = """
+#             Generate 5 questions that can be answered only from this data about {chart_title} : {chart_data}
+#             Generate the questions based on the following schema:
+#             """
+# new = instruction.format(chart_title=chart_title, chart_data=chart_data)
+# prompts = ["Prompt 1", "Prompt 2", "Prompt 3"]
+# print(type(new.to_string()))

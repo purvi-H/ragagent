@@ -1,5 +1,7 @@
 import torch
 import transformers
+import csv
+import sys
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
 from langchain_community.llms import HuggingFacePipeline
@@ -59,7 +61,7 @@ def setup_sharded_model(pretrained_model):
 B_INST, E_INST = "[INST]", "[/INST]"
 B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
 DEFAULT_SYSTEM_PROMPT = """\
-You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. """
+You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Keep answers relevant to the data provided."""
 
 def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
     SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
@@ -73,15 +75,49 @@ if __name__ == '__main__':
     llm = HuggingFacePipeline(pipeline=llama_pipeline, verbose = True)
     print("llm setup")
 
-    instruction = """
-    Question: {question}
-    Answer: 1..	2.. 3..	4.. 5..	
-    """
-    prompt_template = get_prompt(instruction)
+    chart_data_directory = "/home/s2024596/ragagent/dataset"
+    with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
+        lines = output_file.read().splitlines()
 
-    chain = PromptTemplate.from_template(prompt_template) | llm
-    question = """Generate 5 questions that can be answered only from this data about Global spending on motorsports sponsorships 2011 to 2017:
-[["Year", ["2017", "2016", "2015", "2014", "2013", "2012", "2011"]], ["Spending in billion U.S. dollars", ["5.75", "5.58", "5.43", "5.26", "5.12", "4.97", "4.83"]]]"""
-    print("generating result from llm")
-    print(chain.invoke({"question": question}))
+        for i, line in enumerate(lines):
+            split = line.split("|")
+            chart_type = split[0].strip()
+            chart_data_filename = split[1].strip().replace('.txt', '.csv')
+
+            if chart_type == "Simple":
+                chart_data_path = os.path.join(chart_data_directory, "data", chart_data_filename)
+            else: # if it is "Complex"
+                chart_data_path = os.path.join(chart_data_directory, "multiColumn/data", chart_data_filename)
+            with open(chart_data_path, 'r', encoding='utf-8') as file:
+                reader = csv.reader(file)
+                chart_data = list(reader)
+
+            with open('/home/s2024596/ragagent/dataset/new_charttitle.txt', 'r') as file:
+                chart_title_lines = file.readlines()
+                chart_title = chart_title_lines[i].strip()
+
+            with open('/home/s2024596/ragagent/dataset/new_charttype.txt', 'r') as file:
+                chart_type_lines = file.readlines()
+                chart_type = chart_type_lines[i].strip()
+
+            instruction = """
+            Question: {question}
+            Answer in this format: 
+            1..	
+            2.. 
+            3..	
+            4.. 
+            5..	
+            """
+            prompt_template = get_prompt(instruction)
+
+            chain = PromptTemplate.from_template(prompt_template) | llm
+            question = "Generate 5 questions that can be answered only from this data about {chart_title} : {chart_data}"
+            question = question.format(chart_title=chart_title, chart_data=chart_data)
+            
+#     question = """Generate 5 questions that can be answered only from this data about Global spending on motorsports sponsorships 2011 to 2017:
+# [["Year", ["2017", "2016", "2015", "2014", "2013", "2012", "2011"]], ["Spending in billion U.S. dollars", ["5.75", "5.58", "5.43", "5.26", "5.12", "4.97", "4.83"]]]"""
+    
+            print(chain.invoke({"question": question}))
+            print("generating result from llm")
 

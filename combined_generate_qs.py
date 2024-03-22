@@ -57,7 +57,7 @@ def setup_sharded_model(pretrained_model):
 B_INST, E_INST = "[INST]", "[/INST]"
 B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
 DEFAULT_SYSTEM_PROMPT = """\
-You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. """
+You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Keep answers relevant to the data provided. """
 
 def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
     SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
