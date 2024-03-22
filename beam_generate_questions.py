@@ -62,7 +62,57 @@ def setup_sharded_model(pretrained_model):
 B_INST, E_INST = "[INST]", "[/INST]"
 B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
 DEFAULT_SYSTEM_PROMPT = """\
-You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Refer to individual, specfic data points in the question. For example, Which is the population of India? Here a specific data point such as India which might occur in the data is specified."""
+You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. 
+Here is an exmaple of how to answer a question: 
+
+Question: Generate 5 short questions that can be answered only from this data: [['Country', 'Rate per 100 inhabitants'], ['Africa', '0.4'], ['Arab States', '8.1'], ['Asia & Pacific', '14.4'], ['World', '14.9'], ['CIS', '19.8'], ['The Americas', '22.0'], ['Europe', '31.9']]. Include the data point about which the question is in the question.
+
+Answer in this format:
+1..	
+2..
+3..	
+4..
+5..
+
+Think step by step:
+
+Step 1: Extract all data points: ['Africa', '0.4'], ['Arab States', '8.1'], ['Asia & Pacific', '14.4'], ['World', '14.9'], ['CIS', '19.8'], ['The Americas', '22.0'], ['Europe', '31.9']
+
+Step 2: Select any 5 data points from the data.
+
+The 5 data points are:
+
+Data point 1: ['Africa', '0.4']
+
+Data point 2: ['Europe', '31.9']
+
+Data point 3: ['CIS', '19.8']
+
+Data point 4: ['Asia & Pacific', '14.4']
+
+Data point 5: ['World', '14.9']
+
+Step 3: Generate questions about data points.
+
+Question about Data point 1: What is the rate per 100 inhabitants in Africa?
+
+Question about Data point 2: What is the rate per 100 inhabitants in Europe?
+
+Question about Data point 3: Which region has rate per 100 inhabitants of 19.8?
+
+Question about Data point 4: Which region has rate per 100 inhabitants of 14.4?
+
+Question about Data point 5: What is the rate per 100 inhabitants in World?
+
+Step 4: Final answer in the correct format:
+
+1. What is the rate per 100 inhabitants in Africa?
+2. What is the rate per 100 inhabitants in Europe?
+3. Which region has rate per 100 inhabitants of 19.8?
+4. Which region has rate per 100 inhabitants of 14.4?
+5. What is the rate per 100 inhabitants in World?
+
+"""
 
 def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
     SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
@@ -113,12 +163,9 @@ if __name__ == '__main__':
             prompt_template = get_prompt(instruction)
 
             chain = PromptTemplate.from_template(prompt_template) | llm
-            question = "Generate 5 short questions that can be answered only from this data: {chart_data}. Include the data point about which the question is in the question."
+            question = "Generate 5 short questions that can be answered only from this data: {chart_data}."
             question = question.format(chart_data=chart_data)
-            
-#     question = """Generate 5 questions that can be answered only from this data about Global spending on motorsports sponsorships 2011 to 2017:
-# [["Year", ["2017", "2016", "2015", "2014", "2013", "2012", "2011"]], ["Spending in billion U.S. dollars", ["5.75", "5.58", "5.43", "5.26", "5.12", "4.97", "4.83"]]]"""
-    
+              
             print(chain.invoke({"question": question}))
             print("generating result from llm")
 
