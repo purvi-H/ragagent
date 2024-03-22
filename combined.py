@@ -54,7 +54,7 @@ def parse_rows(chart_data_directory, i, line):
 if __name__ == "__main__":
 
     # json schema for the questions
-    json_schema = {
+    json_schemaa = {
                     "type": "object",
                     "properties": {
                         "questions": {
@@ -68,8 +68,6 @@ if __name__ == "__main__":
                     },
                     "required": ["questions"]
                     }
-    print(json_schema)
-
     # for each row in the file, extracting the relevant chart info
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
@@ -93,9 +91,9 @@ if __name__ == "__main__":
             prompt_template = combined_generate_qs.get_prompt(instruction)
             updated_prompt_template = combined_generate_qs.PromptTemplate.from_template(prompt_template)
 
-            jsonformer = JsonFormer(pipeline = llm, json_schema = json_schema)
+            jsonformer = JsonFormer(pipeline = llm, json_schema = json_schemaa)
             print("generating questions from llm")
-            print(type(prompt_template))
-            print(type(updated_prompt_template))
-            results = jsonformer.invoke(prompt_template)
+            pprompt = "greet me"
+            print(type(pprompt))
+            results = jsonformer.invoke(pprompt)
             print(results)
