@@ -33,9 +33,10 @@ def parse_rows(chart_data_directory, i, line):
     else: # if it is "Complex"
         chart_data_path = os.path.join(chart_data_directory, "multiColumn/data", chart_data_filename)
     with open(chart_data_path, 'r', encoding='utf-8') as file:
-        reader = csv.DictReader(file)
-        csv_data = [row for row in reader]
-        json_data = json.dumps(csv_data, indent=1)
+        reader = csv.reader(file)
+        chart_data = '\n'.join(','.join(row) for row in reader)
+        # csv_data = [row for row in reader]
+        # json_data = json.dumps(csv_data, indent=1)
 
     
     # chart_title -> title of the chart
@@ -48,7 +49,7 @@ def parse_rows(chart_data_directory, i, line):
         chart_type_lines = file.readlines()
         chart_type = chart_type_lines[i].strip()
 
-    return chart_type, json_data, chart_title
+    return chart_type, chart_data, chart_title
 
 
 if __name__ == "__main__":
@@ -93,7 +94,7 @@ if __name__ == "__main__":
 
             jsonformer = JsonFormer(pipeline = llm, json_schema = json_schemaa)
             print("generating questions from llm")
-            pprompt = "greet me"
-            print(type(pprompt))
-            results = jsonformer.invoke(pprompt)
+            print("")
+            print("")
+            results = jsonformer.invoke(prompt_template)
             print(results)
