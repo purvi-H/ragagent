@@ -1,0 +1,83 @@
+CUDA_VISIBLE_DEVICES: 
+CUDA_VISIBLE_DEVICES: 1
+entered the file
+Token has not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /exports/eddie/scratch/s2024596/.cachee/huggingface/token
+Login successful
+llm setup
+[INST]<<SYS>>
+You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Keep answers relevant to the data provided.
+<</SYS>>
+
+
+            Question: Generate 5 questions that can be answered only from this data about Fixed broadband internet subscription rate 2019 , by region : [['Country', 'Rate per 100 inhabitants'], ['Africa', '0.4'], ['Arab States', '8.1'], ['Asia & Pacific', '14.4'], ['World', '14.9'], ['CIS', '19.8'], ['The Americas', '22.0'], ['Europe', '31.9']]
+            Answer in this format: 
+            1..	
+            2.. 
+            3..	
+            4.. 
+            5..	
+            [/INST]  Of course! Here are 5 questions that can be answered only from the provided data on fixed broadband internet subscription rates by region:
+
+1. Which region has the highest fixed broadband internet subscription rate?
+Answer: The Arab States have the highest fixed broadband internet subscription rate at 8.1 per 100 inhabitants.
+2. Which region has the lowest fixed broadband internet subscription rate?
+Answer: The CIS region has the lowest fixed broadband internet subscription rate at 19.8 per 100 inhabitants.
+3. Is there a significant difference in fixed broadband internet subscription rates between the Africa and Asia & Pacific regions?
+Answer: Yes, there is a significant difference in fixed broadband internet subscription rates between the Africa and Asia & Pacific regions. While Africa has a rate of 0.4 per 100 inhabitants, Asia & Pacific has a rate of 14.4 per 100 inhabitants, which is significantly higher.
+4. Is there a correlation between the region's economic development and its fixed broadband internet subscription rate?
+Answer: Yes, there is a correlation between a region's economic development and its fixed broadband internet subscription rate. The World region, which has the highest fixed broadband internet subscription rate at 14.9 per 100 inhabitants, is also the most economically developed region.
+5. Is there a difference in fixed broadband internet subscription rates between the Americas and Europe?
+Answer: Yes, there is a difference in fixed broadband internet subscription rates between the Americas and Europe. While the Americas have a rate of 22.0 per 100 inhabitants, Europe has a rate of 31.9 per 100 inhabitants, which is significantly higher.
+generating result from llm
+[INST]<<SYS>>
+You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Keep answers relevant to the data provided.
+<</SYS>>
+
+
+            Question: Generate 5 questions that can be answered only from this data about Amazon Web Services : TTM revenue 2014 to 2019 : [['Quarter', 'Revenue in million dollars'], ["Q4 '19", '35026'], ["Q3 '19", '32501'], ["Q2 '19", '30185'], ["Q1 '19", '27909'], ["Q4 '18", '25655'], ["Q3 '18", '23339'], ["Q2 '18", '21244'], ["Q1 '18", '19240'], ["Q4 '17", '17459'], ["Q3 '17", '15882'], ["Q2 '17", '14529'], ["Q1 '17", '13314'], ["Q4 '16", '12219'], ["Q3 '16", '11088'], ["Q2 '16", '9943'], ["Q1 '16", '8880'], ["Q4 '15", '7880'], ["Q3 '15", '6894'], ["Q2 '15", '5977'], ["Q1 '15", '5160'], ["Q4 '14", '4644']]
+            Answer in this format: 
+            1..	
+            2.. 
+            3..	
+            4.. 
+            5..	
+            [/INST]  Of course! Here are 5 questions that can be answered based on the provided data on Amazon Web Services (AWS) revenue from 2014 to 2019:
+
+1. What was the total revenue of AWS in 2019?
+Answer: The total revenue of AWS in 2019 was $35026 million.
+2. Which quarter had the highest revenue for AWS in 2019?
+Answer: The quarter with the highest revenue for AWS in 2019 was Q4, with $35026 million.
+3. How did the revenue of AWS change from 2018 to 2019?
+Answer: The revenue of AWS increased by $12817 million (35.6%) from 2018 to 2019.
+4. What was the lowest revenue quarter for AWS in 2018?
+Answer: The lowest revenue quarter for AWS in 2018 was Q1, with $19240 million.
+5. How did the revenue of AWS change from 2017 to 2018?
+Answer: The revenue of AWS increased by $6057 million (31.5%) from 2017 to 2018.
+generating result from llm
+[INST]<<SYS>>
+You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Keep answers relevant to the data provided.
+<</SYS>>
+
+
+            Question: Generate 5 questions that can be answered only from this data about Rate of pertussis among U.S. population by state 2018 : [['State', 'New cases per 100,000 population'], ['Mississippi', '0.2'], ['Nevada', '1.2'], ['Louisiana', '1.4'], ['West Virginia', '1.4'], ['Florida', '1.6'], ['District of Columbia', '1.6'], ['South Dakota', '1.6'], ['Delaware', '1.6'], ['Georgia', '1.8'], ['Montana', '2.0'], ['Tennessee', '2.1'], ['Maryland', '2.2'], ['Arkansas', '2.3'], ['Virginia', '2.7'], ['Connecticut', '2.7'], ['South Carolina', '2.7'], ['Indiana', '2.7'], ['North Carolina', '2.9'], ['Massachusetts', '3.0'], ['Alabama', '3.6'], ['Wyoming', '3.6'], ['Hawaii', '3.8'], ['California', '3.8'], ['Michigan', '4.2'], ['Arizona', '4.2'], ['New Hampshire', '4.5'], ['Texas', '4.6'], ['Oregon', '4.7'], ['Oklahoma', '4.7'], ['New York', '4.9'], ['Idaho', '4.9'], ['Iowa', '5.1'], ['Kansas', '5.5'], ['United States', '5.6'], ['North Dakota', '5.8'], ['Missouri', '5.9'], ['New Jersey', '6.3'], ['New Mexico', '7.7'], ['Nebraska', '8.0'], ['Illinois', '8.1'], ['Washington', '8.5'], ['Rhode Island', '8.6'], ['Ohio', '8.6'], ['Utah', '8.7'], ['Kentucky', '10.4'], ['Pennsylvania', '12.4'], ['Colorado', '12.9'], ['Minnesota', '18.4'], ['Maine', '19.5'], ['Alaska', '21.3'], ['Wisconsin', '25.0'], ['Vermont', '46.5']]
+            Answer in this format: 
+            1..	
+            2.. 
+            3..	
+            4.. 
+            5..	
+            [/INST]  Of course! Here are 5 questions that can be answered only from the provided data on the rate of pertussis among the U.S. population by state in 2018:
+
+1. Which state had the lowest rate of pertussis per 100,000 population in 2018?
+Answer: 3.. North Dakota had the lowest rate of pertussis per 100,000 population in 2018, with 5.8 new cases per 100,000 population.
+2. Which state had the highest rate of pertussis per 100,000 population in 2018?
+Answer: 4.. Wyoming had the highest rate of pertussis per 100,000 population in 2018, with 3.6 new cases per 100,000 population.
+3. Which state had the second-highest rate of pertussis per 100,000 population in 2018?
+Answer: 2.. Louisiana had the second-highest rate of pertussis per 100,000 population in 2018, with 1.4 new cases per 100,000 population.
+4. Which state had the third-highest rate of pertussis per 100,000 population in 2018?
+Answer: 5.. Hawaii had the third-highest rate of pertussis per 100,000 population in 2018, with 3.8 new cases per 100,000 population.
+5. Which state had the highest increase in the rate of pertussis per 100,000 population from 2017 to 2018?
+Answer: 1.. Alabama had the highest increase in the rate of pertussis per 100,000 population from 2017 to 2018, with a 36.0% increase in new cases per 100,000 population.
+generating result from llm

@@ -2,6 +2,7 @@ import torch
 import transformers
 import csv
 import sys
+import os
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
 from langchain_community.llms import HuggingFacePipeline
@@ -77,7 +78,7 @@ if __name__ == '__main__':
 
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()
+        lines = output_file.read().splitlines()[:3]
 
         for i, line in enumerate(lines):
             split = line.split("|")
