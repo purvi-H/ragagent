@@ -62,7 +62,7 @@ def setup_sharded_model(pretrained_model):
 B_INST, E_INST = "[INST]", "[/INST]"
 B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
 DEFAULT_SYSTEM_PROMPT = """\
-You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Keep answers relevant to the data provided."""
+You are a helpful, respectful and honest question extracter assistant. Always answer as helpfully as possible, while being safe. Refer to individual, specfic data points in the question. For example, Which is the population of India? Here a specific data point such as India which might occur in the data is specified."""
 
 def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
     SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
@@ -113,8 +113,8 @@ if __name__ == '__main__':
             prompt_template = get_prompt(instruction)
 
             chain = PromptTemplate.from_template(prompt_template) | llm
-            question = "Generate 5 questions that can be answered only from this data about {chart_title} : {chart_data}"
-            question = question.format(chart_title=chart_title, chart_data=chart_data)
+            question = "Generate 5 short questions that can be answered only from this data: {chart_data}. Include the data point about which the question is in the question."
+            question = question.format(chart_data=chart_data)
             
 #     question = """Generate 5 questions that can be answered only from this data about Global spending on motorsports sponsorships 2011 to 2017:
 # [["Year", ["2017", "2016", "2015", "2014", "2013", "2012", "2011"]], ["Spending in billion U.S. dollars", ["5.75", "5.58", "5.43", "5.26", "5.12", "4.97", "4.83"]]]"""
