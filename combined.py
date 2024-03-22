@@ -95,5 +95,7 @@ if __name__ == "__main__":
 
             jsonformer = JsonFormer(pipeline = llm, json_schema = json_schema)
             print("generating questions from llm")
+            print(prompt_template)
+            print(updated_prompt_template)
             results = jsonformer.invoke(prompt_template)
             print(results)
