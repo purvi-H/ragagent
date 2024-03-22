@@ -15,6 +15,7 @@
 
 # # Print JSON data
 # print(json_data)
+from typing import List
 
 chart_title = "smth"
 chart_data = "else"
@@ -24,5 +25,5 @@ instruction = """
             Generate the questions based on the following schema:
             """
 new = instruction.format(chart_title=chart_title, chart_data=chart_data)
-
-print(new)
+prompts = ["Prompt 1", "Prompt 2", "Prompt 3"]
+print(type([{'product': 'colorful socks'}]))
