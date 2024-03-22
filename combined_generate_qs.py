@@ -23,16 +23,14 @@ def setup_huggingface():
     model_config = transformers.AutoConfig.from_pretrained(model_id)
     tokenizer = AutoTokenizer.from_pretrained(model_id, use_auth_token=hf_auth)
 
-    pretrained_model = AutoModelForCausalLM.from_pretrained(model_id, use_auth_token=hf_auth, config=model_config)
+    pretrained_model = AutoModelForCausalLM.from_pretrained(model_id, use_auth_token=hf_auth)
 
     return pretrained_model, tokenizer
 
 def setup_pipeline(pretrained_model, tokenizer):
     llama_pipeline = pipeline(
-        task="text-generation",
-        model=pretrained_model,
-        torch_dtype=torch.float16,
-        device_map="auto",
+        task="text-generation", model=pretrained_model,
+        torch_dtype=torch.float16, device_map="auto",
         tokenizer=tokenizer,
         return_full_text=True,
         do_sample=True,

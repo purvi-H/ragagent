@@ -137,7 +137,7 @@ if __name__ == "__main__":
 
             response = process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
             
-            output_file_path = "/home/s2024596/ragagent/dataset/allresultsexp1.txt"
+            output_file_path = "/home/s2024596/ragagent/dataset/fluentexp1results.txt"
 
             with open(output_file_path, "a") as output_file:
                 output_file.write(f"Index: {i}\n")

@@ -13,8 +13,8 @@ from accelerate import Accelerator
 from accelerate import load_checkpoint_and_dispatch
 from langchain.document_loaders.csv_loader import CSVLoader
 from torch import cuda
-from jsonformer import Jsonformer
 import combined_generate_qs
+from langchain_experimental.llms import JsonFormer
 
 '''
 generate qs needs csv and the title
@@ -23,7 +23,6 @@ generate qs needs csv and the title
 set_seed(42)
 
 def parse_rows(chart_data_directory, i, line):
-    print(line)
     split = line.split("|")
     chart_type = split[0].strip()
     chart_data_filename = split[1].strip().replace('.txt', '.csv')
@@ -74,7 +73,7 @@ if __name__ == "__main__":
     # for each row in the file, extracting the relevant chart info
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()[0]
+        lines = output_file.read().splitlines()[:2]
         for i, line in enumerate(lines):
             print(line)
             chart_type, chart_data, chart_title =  parse_rows(chart_data_directory, i, line)
@@ -94,7 +93,7 @@ if __name__ == "__main__":
             prompt_template = combined_generate_qs.get_prompt(instruction)
             updated_prompt_template = combined_generate_qs.PromptTemplate.from_template(prompt_template)
 
-            jsonformer = Jsonformer(llm, tokenizer, json_schema, updated_prompt_template)
+            jsonformer = JsonFormer(pipeline = llm, json_schema = json_schema)
             print("generating questions from llm")
-            generated_data = jsonformer()
-            print(generated_data)
+            results = jsonformer.invoke(prompt_template)
+            print(results)
