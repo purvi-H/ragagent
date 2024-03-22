@@ -72,7 +72,7 @@ if __name__ == "__main__":
     # for each row in the file, extracting the relevant chart info
     chart_data_directory = "/home/s2024596/ragagent/dataset"
     with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()[:2]
+        lines = output_file.read().splitlines()
         for i, line in enumerate(lines):
             print(line)
             chart_type, chart_data, chart_title =  parse_rows(chart_data_directory, i, line)
@@ -85,16 +85,19 @@ if __name__ == "__main__":
             print("llm setup")
 
             instruction = """
-            Generate 5 questions that can be answered only from this data about {chart_title} : {chart_data}
-            Generate the questions based on the following schema:
+            Question: {question}
+            Answer Format: 1..	2.. 3..	4.. 5..
             """
-            instruction = instruction.format(chart_title=chart_title, chart_data=chart_data)
+            
             prompt_template = combined_generate_qs.get_prompt(instruction)
-            updated_prompt_template = combined_generate_qs.PromptTemplate.from_template(prompt_template)
+            chain = PromptTemplate.from_template(prompt_template) | llm
+            # updated_prompt_template = combined_generate_qs.PromptTemplate.from_template(prompt_template)
 
-            jsonformer = JsonFormer(pipeline = llm, json_schema = json_schemaa)
+            # jsonformer = JsonFormer(pipeline = llm, json_schema = json_schemaa)
             print("generating questions from llm")
-            print("")
-            print("")
-            results = jsonformer.invoke(prompt_template)
-            print(results)
+            question = "Generate 5 questions that can be answered only from this data about {chart_title} : {chart_data}"
+            question = question.format(chart_title=chart_title, chart_data=chart_data)
+            print(chain.invoke({"question": question}))
+
+            # results = jsonformer.invoke(prompt_template)
+            # print(results)
