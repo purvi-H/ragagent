@@ -123,7 +123,8 @@ if __name__ == '__main__':
     pretrained_model, tokenizer = setup_huggingface()
     sharded_model = setup_sharded_model(pretrained_model)
     llama_pipeline = setup_pipeline(sharded_model, tokenizer)
-    llm = HuggingFacePipeline(pipeline=llama_pipeline, verbose = True)
+    # llm = HuggingFacePipeline(pipeline=llama_pipeline, verbose = True)
+    llm = HuggingFacePipeline(pipeline=llama_pipeline)
     print("llm setup")
 
     chart_data_directory = "/home/s2024596/ragagent/dataset"
@@ -159,6 +160,7 @@ if __name__ == '__main__':
             3..	
             4.. 
             5..	
+            Think step by step:
             """
             prompt_template = get_prompt(instruction)
 
