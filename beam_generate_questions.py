@@ -37,7 +37,7 @@ def setup_pipeline(pretrained_model, tokenizer):
         torch_dtype=torch.float16,
         device_map="auto",
         tokenizer=tokenizer,
-        return_full_text=True,
+        # return_full_text=True,
         do_sample=True,
         num_beams=4,
         num_return_sequences=1,
