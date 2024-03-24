@@ -28,4 +28,6 @@ def calc_perplexity(generated): #generated = list of list
 if __name__ == "__main__":
     gold, generated = generate_gold_and_generated()
     results = calc_perplexity(generated)
+    print(results["perplexities"])
+    print("\n")
     print(round(results["mean_perplexity"], 3))
