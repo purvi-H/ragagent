@@ -4,7 +4,7 @@ def generate_gold_and_generated():
     gold = []
     generated = []
     # Read the text file
-    with open("/Users/purviharwani/Desktop/ragagent/dataset/processed_baseline_results.txt", "r") as file:
+    with open("/home/s2024596/ragagent/dataset/processed_baseline_results.txt", "r") as file:
         lines = file.readlines()
 
     # Process the lines to extract gold and generated pairs
