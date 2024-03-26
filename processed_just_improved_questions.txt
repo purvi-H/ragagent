@@ -3,2001 +3,2389 @@
 3. Which region has a rate per 100 inhabitants of 19.8?
 4. Which region has a rate per 100 inhabitants of 14.4?
 5. What is the rate per 100 inhabitants in World?
+
 1. What was the revenue in million dollars for Q4 '19?
 2. What was the revenue in million dollars for Q3 '19?
 3. Which quarter had the highest revenue in million dollars?
 4. What was the revenue in million dollars for Q1 '19?
 5. What was the revenue in million dollars for Q4 '18?
+
 1. What is the rate of new cases per 100,000 population in Mississippi?
 2. Which state has the highest rate of new cases per 100,000 population?
 3. Which region has a rate of new cases per 100,000 population of 1.4?
 4. Which state has a rate of new cases per 100,000 population of 1.6?
 5. What is the average rate of new cases per 100,000 population for all states in the United States?
+
 1. What is the cost in U.S. dollars for Colombia?
 2. What is the cost in U.S. dollars for Brazil?
 3. Which country has a cost in U.S. dollars of 6.7?
 4. What is the cost in U.S. dollars for Mexico?
 5. Which country has a cost in U.S. dollars of 6.9?
+
 1. What is the total number of registered vehicles in the given data?
 2. What is the number of passenger cars registered in the given data?
 3. Which vehicle class has the highest number of registrations in the given data?
 4. How many vans are registered in the given data?
 5. What is the number of heavy motor cycles registered in the given data?
+
 1. What was the volume in thousand metric tons produced in FY 2019?
 2. What was the difference in volume between FY 2018 and FY 2017?
 3. Which fiscal year had the highest volume in thousand metric tons?
 4. How many thousand metric tons were produced in FY 2016?
 5. What was the difference in volume between FY 2015 and FY 2016?
+
 1. What is the share of respondents in Greece?
 2. What is the share of respondents in Bulgaria?
 3. Which country has the highest share of respondents?
 4. What is the share of respondents in Poland?
 5. Which country has the lowest share of respondents?
+
 1. What is the value in billion U.S. dollars of General?
 2. Which bank has a value in billion U.S. dollars of 9.4?
 3. Which bank has a value in billion U.S. dollars of 15.13?
 4. What is the value in billion U.S. dollars of Bancolombia?
 5. Which bank has a value in billion U.S. dollars of 6.59?
+
 1. What is the share of world liner fleet held by APM-Maersk?
 2. Which company has the second-largest share of world liner fleet, according to the data?
 3. What is the share of world liner fleet held by COSCO Group?
 4. Which company has the smallest share of world liner fleet, according to the data?
 5. What is the total share of world liner fleet held by all the companies listed in the data?
+
 1. What is the share of respondents who use an ad blocker?
 2. What is the share of respondents who do not use an ad blocker?
 3. What is the share of respondents who do not know whether they use an ad blocker?
 4. How much of the respondents use an ad blocker?
 5. What is the total share of respondents who either use an ad blocker or do not know whether they use one?
+
 1. What is the price in U.S. dollars for Brazil?
 2. What is the price in U.S. dollars for Argentina?
 3. Which country has a price in U.S. dollars of 653.54?
 4. What is the price in U.S. dollars for India?
 5. Which country has a price in U.S. dollars of 399.99?
+
 1. What is the share of parkland in Anchorage?
 2. What is the share of parkland in Fremont?
 3. What is the share of parkland in Irvine?
 4. What is the share of parkland in Scottsdale?
 5. What is the share of parkland in North Las Vegas?
+
 1. Who had the most number of yards in their career among the listed players?
 2. Which player had the most number of yards in a single month?
 3. Which player had the least number of yards in their career among the listed players?
 4. Which player had the most number of yards in a single season?
 5. Which player had the least number of yards in a single season among the listed players?
+
 1. What was the number of unique visitors in millions for October 2019?
 2. How many more unique visitors visited in September 2019 compared to August 2019?
 3. Which month had the highest number of unique visitors in the given data range?
 4. How many unique visitors visited in June 2019?
 5. What was the difference in unique visitors between May and June 2019?
+
 1. What is the share of respondents who use YouTube?
 2. What is the share of respondents who use Facebook?
 3. What is the share of respondents who use Instagram?
 4. What is the share of respondents who use LinkedIn?
 5. What is the share of respondents who use Snapchat?
+
 1. What is the share of respondents who use OTC/VMS products?
 2. What is the share of respondents who use personal hygiene products?
 3. What is the share of respondents who use food and beverages products?
 4. What is the share of respondents who use skin care items?
 5. What is the share of respondents who use feminine products?
+
 1. What was the growth rate in December 2017?
 2. What was the growth rate in October 2017?
 3. What was the growth rate in September 2017?
 4. What was the growth rate in August 2017?
 5. What was the growth rate in November 2017?
+
 1. What is the percentage of female users in the given data?
 2. What is the percentage of male users in the given data?
 3. What is the difference between the percentage of female and male users in the given data?
 4. Is the percentage of female users greater than or equal to the percentage of male users in the given data?
 5. What is the total percentage of users in the given data?
+
 1. What is the total population of Men?
 2. How many women are there in the given population?
 3. What is the difference in population between men and women?
 4. What is the percentage of women in the given population?
 5. What is the total population of both men and women combined?
+
 1. How many male veterans are there in the data?
 2. How many female veterans are there in the data?
 3. What is the total number of veterans in the data?
 4. What is the difference between the number of male and female veterans in the data?
 5. What is the percentage of female veterans in relation to the total number of veterans in the data?
+
 1. What is the share of respondents who prefer Amazon?
 2. What is the share of respondents who prefer Nike?
 3. Which retailer has the second-highest share of respondents?
 4. What is the share of respondents who prefer Urban Outfitters?
 5. Which retailer has the lowest share of respondents?
+
 1. Which YouTuber has the most subscribers in thousands?
 2. Which YouTuber has the least number of subscribers in thousands?
 3. Which YouTuber has the most subscribers in the range of 10000 to 12000?
 4. Which YouTuber has the most subscribers in the range of 9000 to 10000?
 5. Which YouTuber has the least number of subscribers in the range of 4000 to 5000?
+
 1. What brand/segment has the highest percentage sales change in makeup remover implements?
 2. Which brand/segment has the lowest percentage sales change in mascara?
 3. What brand/segment has the highest percentage sales change in lipstick?
 4. Which brand/segment has the highest percentage sales change in foundation?
 5. Which brand/segment has the highest percentage sales change in eyeliner?
+
 1. How many households in the data have 8 or more persons?
 2. How many households in the data have 7 persons?
 3. Which category has the highest number of households in the data?
 4. How many households in the data have 5 persons?
 5. What is the total number of households in the data?
+
 1. What is the market share of Gemalto in the manufacturing industry?
 2. What is the market share of Perfect Plastic in the manufacturing industry?
 3. Which company has a market share of 8.4% in the manufacturing industry?
 4. What is the market share of Oberthur in the manufacturing industry?
 5. What is the market share of Gemalto in the manufacturing industry?
+
 1. Which Facebook page has the most number of fans (in millions), according to the data provided?
 2. Who has the second-most number of fans (in millions), according to the data provided?
 3. Which artist has the highest number of fans (in millions), according to the data provided?
 4. Which Facebook page has the fewest number of fans (in millions), according to the data provided?
 5. Which celebrity has the second-fewest number of fans (in millions), according to the data provided?
+
 1. What is the share of adults in the 18-24 age group?
 2. What is the share of adults in the 25-34 age group?
 3. Which age group has the highest share of adults?
 4. What is the share of adults in the 55-64 age group?
 5. What is the share of adults in the 75+ age group?
+
 1. What is the import value in 1,000 GBP for Italy?
 2. Which country has an import value in 1,000 GBP that is higher than France?
 3. What is the import value in 1,000 GBP for Australia?
 4. Which country has an import value in 1,000 GBP that is lower than Spain?
 5. What is the average import value in 1,000 GBP for the given countries?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is the value added in industry of Finance, insurance, real estate, rental, and leasing?
+2. What is the value added in in the industry of Professional and business services?
+3. What is the value added in in the industry of Agriculture?
+4. What is the value added in in the industry of Mining?
+5. What is the value added in in the industry of Information?
+
 1. What state has the highest percentage of homicides?
 2. Which state has a percentage of homicides that is closest to 85.23%?
 3. Which region has a percentage of homicides that is closest to 83.69%?
 4. Which state has a percentage of homicides that is closest to 83.33%?
 5. What state has the lowest percentage of homicides?
+
 1. What was the number of users in millions in June 2018?
 2. How many users were there in September 2017?
 3. What was the number of users in April 2017?
 4. How many users were there in December 2016?
 5. What was the number of users in June 2016?
+
 1. How many backers did the Exploding Kittens Kickstarter project have in 1,000s?
 2. Which Kickstarter project had the most backers in 1,000s?
 3. What was the number of backers in 1,000s for the Bring Reading Rainbow Back for Every Child, Everywhere! project?
 4. How many backers did the Critical Role: The Legend of Vox Machina Animated Special project have in 1,000s?
 5. Which project had the least number of backers in 1,000s?
+
 1. How many fatalities occurred in the Lockerbie terrorist attack in 1988?
 2. What was the number of fatalities in the London 7/7 attacks in 2005?
 3. How many people were killed in the Omagh bombing in 1998?
 4. How many fatalities occurred in the Manchester Arena bombing in 2017?
 5. How many people were killed in the Warrenpoint bombing in 1979?
+
 1. What is the share of responding businesses in the personal services industry?
 2. What is the share of responding businesses in the professional services industry?
 3. What is the share of responding businesses in the retail or wholesale industry?
 4. What is the share of responding businesses in the other industry?
 5. What is the share of responding businesses in the arts, entertainment or recreation industry?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. what was it: Quarter, Revenue in billion: ["Q4 '19", '45812']
+2. Change between Quarter, Revenue in billion: ["Q4 '18", '38998'] and ["Q4 '19"]
+3. Quarter, Revenue in billion: ["Q3 '14", '16523']
+4. Quarter, Revenue in billion: ["Q2 '13", '13107']
+5. Quarter, Revenue in billion: ["Q3 '12", '11526']
+
 1. What is the average ticket price in U.S. dollars for the New York Knicks?
 2. Which NBA team has the lowest average ticket price in U.S. dollars?
 3. What is the average ticket price in U.S. dollars for the Los Angeles Lakers?
 4. Which NBA team has the highest average ticket price in U.S. dollars?
 5. What is the average ticket price in U.S. dollars for the Miami Heat?
+
 1. What is the total value of TELKOM Indonesia's assets?
 2. Which company in the data has the second-highest total assets?
 3. Which company in the data has the highest total assets?
 4. What is the total value of BCA's assets?
 5. Which company in the data has the lowest total assets?
+
 1. How many individuals in the United States have a net worth over one million U.S. dollars?
 2. What is the number of individuals in China with a net worth over one million U.S. dollars?
 3. How many individuals in Japan have a net worth over one million U.S. dollars?
 4. What is the total number of individuals in the European countries listed in the data with a net worth over one million U.S. dollars?
 5. What is the net worth of individuals in India with a net worth over one million U.S. dollars?
+
 1. How many physicians are specialized in Psychiatry?
 2. How many physicians are specialized in Surgery?
 3. Which specialty area has the highest number of Anesthesiologists?
 4. How many physicians are specialized in Emergency medicine?
 5. Which specialty area has the highest number of Radiologists?
+
 1. What is the amount in billion U.S. dollars per year for the National Football League (NBC, Fox, ESPN) from 2014 to 2022?
 2. Which sports league has an amount in billion U.S. dollars per year of 4.8 from 2018 to 2022?
 3. How much is the English Premier League (BT Sports, Sky Sports) worth in billion U.S. dollars per year from 2016 to 2019?
 4. What is the amount in billion U.S. dollars per year for the National Basketball Association (TNT, ESPN) from 2016 to 2024?
 5. Which sports league has an amount in billion U.S. dollars per year of 1.6 from 2014 to 2021?
+
 1. What percentage of the population in the given region are Hindus?
 2. What percentage of the population in the given region are Unaffiliated?
 3. What percentage of the population in the given region are Buddhists?
 4. What percentage of the population in the given region are followers of Folk religions?
 5. What percentage of the population in the given region are followers of Other religions?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. ['H2 16', '1.07'],
+2. ['H1 16', '1.11'],
+3. ['H2 15', '1.33'],
+4. ['H1 15', '1.2'],
+5. ['H2 14', '1.21'],
+
 1. Who has a wealth of 27.5 billion yuan?
 2. Who has a wealth of 26.0 billion yuan?
 3. Who has a wealth of 21.0 billion yuan?
 4. Who has a wealth of 18.0 billion yuan?
 5. Who has a wealth of 17.5 billion yuan?
+
 1. How many words did Alfred Hitchcock use in his acceptance speech in 1968?
 2. Which actor used the most words in their acceptance speech in 1953?
 3. How many words did Gloria Graham use in her acceptance speech in 1953?
 4. Which actor used the least words in their acceptance speech in 1991?
 5. How many words did Joe Pesci use in his acceptance speech in 1991?
-1. What is the revenue in billion U.S. dollars of J.P.1. What is the share of respondents who eat at fast food restaurants less than once per week?
+
+1. What is the revenue in billion U.S. dollars of J.P. Morgan Chase?
+2. What is the revenue in billion U.S. dollars of Wells Fargo?
+3. Which bank has a revenue of 97.12 billion U.S. dollars?
+4. What is the revenue in billion U.S. dollars of Morgan Stanley?
+5. Which bank has a revenue of 19.21 billion U.S. dollars?
+
+1. What is the share of respondents who eat at fast food restaurants less than once per week?
 2. What is the share of respondents who eat at fast food restaurants four to six times per week?
 3. What is the share of respondents who eat at fast food restaurants ten times or more per week?
 4. What is the share of respondents who do not eat at fast food restaurants?
 5. What is the share of respondents who eat at fast food restaurants seven to nine times per week?
+
 1. What was the index points in December 2018?
 2. What was the index points in November 2018?
 3. What was the index points in October 2018?
 4. What was the index points in September 2018? The index points in September 2018 were - (as the data is missing for that month).
 5. What was the index points in June 2018?
+
 1. What was the AIR in thousands* in H2 16?
 2. What was the AIR in thousands* in H1 16?
 3. Which time frame had the highest AIR in thousands*?
 4. What was the AIR in thousands* in H2 15?
 5. What was the AIR in thousands* in H1 15?
+
 1. Which account has the most Twitter followers?
 2. Which religious leader has the second-most Twitter followers?
 3. Which Indian politician has the most Twitter followers?
 4. Which institutional account has the fewest Twitter followers?
 5. Which world leader has the fewest Twitter followers?
+
 1. What is the average attendance of FC Barcelona?
 2. Which club has the highest average attendance?
 3. What is the average attendance of Club Atlético de Madrid?
 4. Which club has an average attendance of 40,000 or more?
 5. What is the average attendance of Real Madrid C.F.?
+
 1. What was the number of monthly active users in millions in Q1 '19?
 2. Which quarter had the highest number of monthly active users in millions?
 3. How many monthly active users were there in Q4 '18?
 4. What was the number of monthly active users in millions in Q2 '18?
 5. Which quarter had the lowest number of monthly active users in millions?
+
 1. What was the total GMV in billion yuan for Q2 '16?
 2. What was the total GMV in billion yuan for Q1 '16?
 3. Which quarter had the highest total GMV in billion yuan?
 4. What was the total GMV in billion yuan for Q4 '15?
 5. What was the total GMV in billion yuan for Q1 '15?
+
 1. What is the population number of Miami-Dade County, FL?
 2. Which county has a population number of 34135?
 3. What is the population number of Broward County, FL?
 4. Which county has a population number of 22886?
 5. What is the population number of Passaic County, NJ?
+
 1. What is the unemployment rate in Alaska?
 2. What is the unemployment rate in Mississippi?
 3. Which state has an unemployment rate of 5.3%?
 4. What is the unemployment rate in West Virginia?
 5. Which state has an unemployment rate of 4.9%?
+
 1. How much money was raised in million U.S. dollars during the Awesome Games Done Quick (Prevent Cancer Foundation, January 2014) event?
 2. What was the amount of money raised in million U.S. dollars during the Summer Games Done Quick (Doctors Without Borders, June 2014) event?
 3. How much money was raised in million U.S. dollars during the Awesome Games Done Quick (Prevent Cancer Foundation, January 2015) event?
 4. What was the amount of money raised in million U.S. dollars during the Summer Games Done Quick (Doctors Without Borders, July 2015) event?
 5. How much money was raised in million U.S. dollars during the Awesome Games Done Quick (Prevent Cancer Foundation, January 2016) event?
+
 1. What is the direct contribution in billion U.S. dollars made by the United States?
 2. Which country has the second-highest direct contribution in billion U.S. dollars, after the United States?
 3. What is the direct contribution in billion U.S. dollars made by China?
 4. Which European country has the fourth-highest direct contribution in billion U.S. dollars?
 5. What is the direct contribution in billion U.S. dollars made by India?
+
 1. How many millions of cats are there in the world?
 2. How many millions of dogs are there in the world?
 3. What is the difference between the number of cats and dogs in the world?
 4. What is the total number of pets in the world?
 5. What is the ratio of cats to dogs in the world?
+
 1. What is the FDI in million Canadian dollars in the United States?
 2. Which country has the second-highest FDI in million Canadian dollars, after the United States?
 3. What is the FDI in million Canadian dollars in Luxembourg?
 4. Which country has a negative FDI in million Canadian dollars?
 5. What is the total FDI in million Canadian dollars in the People's Republic of China?
+
 1. What is the total amount of money spent on baby feeding supplies in the United States?
 2. What is the percentage of the total amount of money spent on baby feeding supplies in the United States?
 3. What is the average price of a baby bath in the United States?
 4. What is the percentage of the total amount of money spent on baby accessories in the United States?
 5. What is the average price of a baby hair care product in the United States?
+
 1. What is the GDP in billion current U.S. dollars of California?
 2. Which state has a GDP in billion current U.S. dollars of $1775.8?
 3. What is the GDP in billion current U.S. dollars of New York?
 4. Which state has a GDP in billion current U.S. dollars of $1036.32?
 5. What is the total GDP in billion current U.S. dollars of all states listed in the data?
+
 1. Who hit the most home runs among the Kc Royal Players?
 2. How many home runs did George Brett hit?
 3. Which player hit the second most home runs among the Kc Royal Players?
 4. How many home runs did Mike Sweeney hit?
 5. Who hit the fewest home runs among the Kc Royal Players?
+
 1. How many victims were from racial/ethnic minority groups?
 2. How many victims were Caucasian?
 3. How many victims were law enforcement officers?
 4. How many victims were Jewish?
 5. How many victims were of sexual orientation?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. ['Country', 'Number of internet users in millions'] Uganda: 18.5
+2. ['Country', 'Number of internet users in millions'] Ghana: 11.74
+3. ['Country', 'Number of internet users in millions'] Zambia: 7.25
+4. ['Country', 'Number of internet users in millions'] South Africa: 32.62
+5. ['Country', 'Number of internet users in millions'] Libya: 3.8
+
 1. What is the GDP per capita in U.S. dollars for the Africa Sub-Sahara region?
 2. Which region has the highest GDP per capita in U.S. dollars?
 3. What is the GDP per capita in U.S. dollars for the Arab World region?
 4. Which region has a GDP per capita in U.S. dollars that is higher than the average for the given regions?
 5. What is the GDP per capita in U.S. dollars for the North America region?
+
 1. What was the number of monthly active users in millions for December 2017?
 2. How many monthly active users did Jan 2017 have?
 3. Which month had the lowest number of monthly active users in the given data, and what was that number?
 4. How many monthly active users did Jul 2017 have?
 5. What was the number of monthly active users in millions for February 2016?
+
 1. How many arrivals did Finland have in total?
 2. Which country had the second-highest number of arrivals?
 3. Which country had the fewest arrivals?
 4. Which country had the most arrivals from the United States?
 5. Which country had the highest number of arrivals from China?
+
 1. What is the World Risk Index score for Qatar?
 2. Which country has a World Risk Index score of 0.54?
 3. Which country has a World Risk Index score of 1.04?
 4. What is the World Risk Index score for Saudi Arabia?
 5. Which country has a World Risk Index score of 2.34?
+
 1. How many students attend Stockholm University?
 2. Which university has the second-highest number of students in the data set?
 3. Which university has the third-highest number of students in the data set?
 4. How many students attend Linnaeus University?
 5. Which university has the lowest number of students in the data set?
+
 1. What is the production volume in million metric tons in the EU-28?
 2. What is the production volume in million metric tons in the United States?
 3. Which country has the highest production volume in million metric tons?
 4. What is the production volume in million metric tons in Russia?
 5. Which country has the lowest production volume in million metric tons?
+
 1. What city has the highest number of basketball hoops per 10,000 residents?
 2. Which city has approximately 17.7 basketball hoops per 10,000 residents?
 3. Which city has about 10.6 basketball hoops per 10,000 residents?
 4. Which city has approximately 9.5 basketball hoops per 10,000 residents?
 5. Which city has the lowest number of basketball hoops per 10,000 residents?
+
 1. How many members does the Labour Party have?
 2. Which party has the second-most members?
 3. How many members does the Scottish National Party have?
 4. How many members does the Liberal Democrats have?
 5. Which party has the fewest members?
+
 1. What is the volume of trade goods in billion U.S. dollars for the Information & Communications industry?
 2. Which industry has the highest volume of trade goods in billion U.S. dollars?
 3. What is the volume of trade goods in billion U.S. dollars for the Life Science industry?
 4. Which industry has the lowest volume of trade goods in billion U.S. dollars?
 5. What is the volume of trade goods in billion U.S. dollars for the Weapons industry?
+
 1. What was the unemployment rate in the fiscal year '19?
 2. What was the unemployment rate in the fiscal year '18?
 3. Which fiscal year had the highest unemployment rate?
 4. What was the unemployment rate in the fiscal year '16?
 5. What was the unemployment rate in the fiscal year '10?
+
 1. What is the index score of New Zealand?
 2. Which country has an index score of 85?
 3. Which country has an index score of 77?
 4. Which country has an index score of 76?
 5. What is the index score of India?
+
 1. What was the change in diesel price in Canada?
 2. What was the change in diesel price in Spain?
 3. What was the change in diesel price in France?
 4. What was the change in diesel price in Italy?
 5. What was the change in diesel price in the United States?
+
 1. What is the revenue in billion euros of the communication companies in Germany?
 2. Which communication company in Spain has the highest revenue in billion euros?
 3. Which communication company in the UK has the lowest revenue in billion euros?
 4. Which communication company in France has the second-highest revenue in billion euros?
 5. Which communication company in Norway has the lowest revenue in billion euros?
+
 1. What is the total number of points earned by the USA?
 2. Which country has the second-highest number of points, after the USA?
 3. Which country has the fewest number of points, with only 1479 points?
 4. Which country has the highest number of points in Europe?
 5. Which country has the highest number of points in Asia, excluding China PR?
+
 1. What is the revenue in billion U.S. dollars of the telecommunications provider 'AT&T'?
 2. Which telecommunications provider has a revenue of $130.86 billion U.S. dollars?
 3. What is the revenue in billion U.S. dollars of the telecommunications provider 'T-Mobile US'?
 4. Which telecommunications provider has a revenue of $33.6 billion U.S. dollars?
 5. What is the revenue in billion U.S. dollars of the telecommunications provider 'Sprint Corporation'?
+
 1. What is the leading cause of death in the data set, based on the number of deaths per 100,000 population?
 2. What is the second leading cause of death in the data set, based on the number of deaths per 100,000 population?
 3. Which category of deaths has the highest number of deaths per 100,000 population in the data set?
 4. What is the difference in death rate between the top two leading causes of death in the data set?
 5. Which category of deaths has the lowest number of deaths per 100,000 population in the data set?
+
 1. What is the total revenue of all German companies in the list?
 2. Which company has the highest revenue among all European companies?
 3. Which company has the lowest revenue among all French companies?
 4. Which company has the highest revenue among all Spanish companies?
 5. What is the total revenue of all companies in the list?
+
 1. What is the total number of shipments of the General Motors Group?
 2. Which car brand has the highest number of shipments in Europe?
 3. How many shipments does the Hyundai Group have in Asia?
 4. What is the total number of shipments of the VW Group in Europe?
 5. Which car brand has the lowest number of shipments in the world?
+
 1. What is the average number of rainy days per year in Rochester, New York?
 2. How many rainy days per year does Buffalo, New York experience on average?
 3. Which city has the fewest rainy days per year, according to the data provided?
 4. What is the average number of rainy days per year in Portland, Oregon?
 5. How many rainy days per year does Seattle, Washington experience on average, according to the data provided?
+
 1. What is the growth of mobile app use in the sports category?
 2. What is the growth of mobile app use in the messaging and social category?
 3. What is the growth of mobile app use in the business and finance category?
 4. What is the average growth of mobile app use across all categories?
 5. What is the growth of mobile app use in the health and fitness category?
+
 1. What is the share of respondents who check their social media accounts every day?
 2. What is the share of respondents who check their social media accounts at least once per week?
 3. What is the share of respondents who check their social media accounts at least once per month?
 4. What is the share of respondents who check their social media accounts less than once per month?
 5. What is the total share of respondents who check their social media accounts in some capacity?
+
 1. How many asylum applicants were accepted in Germany?
 2. What was the number of accepted asylum applicants in Sweden?
 3. Which country had the highest number of accepted asylum applicants?
 4. How many asylum applicants were accepted in Spain?
 5. Which country had the lowest number of accepted asylum applicants?
+
 1. How many copies of a book were sold in May 2019?
 2. What was the number of copies sold in millions in October 2018?
 3. How many copies of a book were sold in January 2018?
 4. How many copies of a book were sold in February 2017?
 5. How many copies of a book were sold in June 2016?
+
 1. What is the share of respondents who use toothpaste?
 2. What is the share of respondents who use deodorant or antiperspirant?
 3. What is the share of respondents who use facial soap or wash?
 4. What is the share of respondents who use body soap or wash?
 5. What is the share of respondents who use lip balm?
+
 1. What is the brand value in million U.S. dollars of Nestlé?
 2. Which brand has a brand value of 8801 U.S. dollars?
 3. Which company has a brand value of 19370 million U.S. dollars?
 4. What is the brand value of Roche?
 5. Which brand has a brand value of 6360 million U.S. dollars?
+
 1. How many Nobel Prize Laureates in physics have been from the United States?
 2. How many Nobel Prize Laureates in physics have been from Germany?
 3. Which country has had the second-most Nobel Prize Laureates in physics, after the United States?
 4. How many Nobel Prize Laureates in physics have been from France?
 5. Which country has had the most Nobel Prize Laureates in physics from Europe?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. ['Quarter', 'Unit shipments in thousands'] ["Q4 '18*", '4256.8']
+2. ['Quarter', 'Unit shipments in thousands'] "Q3 '18*" - 2590.1
+3. ['Quarter', 'Unit shipments in thousands'] "Q4 '16" - 4986.3
+4. ['Quarter', 'Unit shipments in thousands'] Q3 '16" - 3197.7
+5. ['Quarter', 'Unit shipments in thousands'] Q1 '15" - 4130.3
+
 1. What was the number of units sold in December 2019?
 2. Which month had the highest number of units sold in 2019?
 3. How many units were sold in November 2019?
 4. What was the difference in units sold between October and November 2019?
 5. Which month had the lowest number of units sold in 2018?
+
 1. What was the net sales in million U.S. dollars for 1Q '19?
 2. Which quarter had the highest net sales in million U.S. dollars in 2018?
 3. What was the net sales in million U.S. dollars for 3Q '18?
 4. Which quarter had the lowest net sales in million U.S. dollars in 2017?
 5. What was the net sales in million U.S. dollars for 4Q '16?
+
 1. What is the total production of grains in million metric tons?
 2. What is the production of corn in million metric tons?
 3. What is the production of wheat in million metric tons?
 4. What is the production of rice (milled) in million metric tons?
 5. What is the production of barley in million metric tons?
-1. What is the share of total exports in the United States?
-2. Which country has a share of total exports of 19%?
-3. What is the share of total exports in China?
-4. Which country has a share of total exports of 7.6%?
-5. What is the share of total exports in Hong Kong?
+
 1. What is the share of total exports in the United States?
 2. What is the share of total exports in China?
 3. Which country has a share of total exports of 7.6%?
 4. Which country has a share of total exports of 5.1%?
 5. What is the share of total exports in Thailand?
+
 1. Which car brand has the highest number of new registrations in Europe?
 2. What is the number of new registrations for Peugeot in the UK?
 3. Which car brand has the most new registrations in the Toyota group?
 4. How many new registrations did Renault have in France in the given time period?
 5. Which car brand has the lowest number of new registrations in the Hyundai group?
+
 1. What is the audience share of Telecinco?
 2. What is the audience share of La1?
 3. Which channel has an audience share of 8.2%?
 4. Which category has an audience share of 8%?
 5. What is the audience share of La Sexta?
+
 1. What was the prize pool in million U.S. dollars for The International 2019?
 2. Which tournament had the highest prize pool in million U.S. dollars in 2018?
 3. What was the prize pool in million U.S. dollars for The International 2017?
 4. Which tournament had the lowest prize pool in million U.S. dollars in 2016?
 5. What was the prize pool in million U.S. dollars for Fortnite World Cup Finals 2019 - Solo?
+
 1. What is the share of consumers who look at products in stores and then go online to find the best price?
 2. What is the share of consumers who tend to use the same retailers on a regular basis?
 3. What is the share of consumers who often buy from foreign retailers?
 4. What is the share of consumers who regularly change the retailers they use?
 5. What is the share of consumers who will go to wherever has bargains on offer?
+
 1. What is the percentage increase in sales for ISG compared to the previous year?
 2. Which company has the highest percentage increase in sales among the listed retailers?
 3. What is the percentage of sales growth for Styles & Wood compared to the previous year?
 4. Which company has the lowest percentage of sales growth among the listed retailers?
 5. What is the total sales revenue for all the retailers combined?
+
 1. What is the number of players in thousands in January 2020?
 2. Which month has the highest number of players in thousands?
 3. How many players were there in December 2019?
 4. What is the difference between the number of players in October 2019 and September 2019?
 5. What is the average number of players in thousands for the months of January to August 2019?
+
 1. What was the spending in billion U.S. dollars in 2017?
 2. What was the spending in billion U.S. dollars in 2016?
 3. Which year had the lowest spending in billion U.S. dollars?
 4. What was the increase in spending from 2015 to 2016?
 5. Which year had the highest spending in billion U.S. dollars?
+
 1. What was the total amount of results in million euros in 2018?
 2. Which year had the highest amount of results in million euros?
 3. Which year had the lowest amount of results in million euros?
 4. What was the difference in results in million euros between 2017 and 2018?
 5. What was the average amount of results in million euros for the years 2010 to 2019?
+
 1. What was the retail sales growth in 2018?
 2. What was the retail sales growth in 2017?
 3. What was the retail sales growth in 2016?
 4. What was the retail sales growth in 2015?
 5. What was the retail sales growth in 2014?
 1. What was the revenue in billions in 2005?
+
 2. What was the revenue growth percentage in 2007 compared to 2006?
 3. What was the revenue growth percentage in 2008 compared 2007?
 4. What was the revenue growth percentage in 2004 compared to 2003?
 5. What was the revenue in billions in 2005?
+
 1. What was the total expenditure in million euros in 2017?
 2. What was the total expenditure in million euros in 2016?
 3. What was the total expenditure in million euros in 2015?
 4. What was the total expenditure in million euros in 2014?
 5. What was the total expenditure in million euros in 2011?
+
 1. What was the number of employees in thousands in 2019?
 2. How does the number of employees in thousands in 2018 compare to 2019?
 3. Which year had the lowest number of employees in thousands?
 4. What was the number of employees in thousands in 2011?
 5. How has the number of employees in thousands changed from 2010 to 2019?
+
 1. What is the gross domestic product in billion U.S. dollars in 2024?
 2. What is the gross domestic product in billion U.S. dollars in 2023?
 3. Which year has the highest gross domestic product in billion U.S. dollars?
 4. What is the difference between the gross domestic product in billion U.S. dollars in 2020 and 2024?
 5. What is the gross domestic product in billion U.S. dollars in 2000?
+
 1. What was the percentage of individuals using the internet in 2017?
 2. Which year saw the highest percentage of individuals using the internet?
 3. What was the percentage of individuals using the internet in 2011?
 4. Which year had the lowest percentage of individuals using the internet?
 5. What was the percentage of individuals using the internet in 2000?
+
 1. What was the Euro cents per kilowatt-hour in 2018 S1?
 2. Which year had the highest Euro cents per kilowatt-hour, according to the data?
 3. What was the difference in Euro cents per kilowatt-hour between 2017 S2 and 2017 S1?
 4. Which year had the lowest Euro cents per kilowatt-hour, according to the data?
 5. What was the difference in Euro cents per kilowatt-hour between 2014 S2 and 2013 S1?
+
 1. What was the inflation rate compared to the previous year in 2024?
 2. What was the inflation rate in 2023 compared to the previous year?
 3. What was the inflation rate in 2022 compared to the previous year?
 4. What was the inflation rate in 2021 compared to the previous year?
 5. What was the inflation rate in 2020 compared to the previous year?
+
 1. What was the total expenditure in billion U.S. dollars in 2020?
 2. What was the total expenditure in billion U.S. dollars in 2019?
 3. What was the total expenditure in billion U.S. dollars in 2018?
 4. What was the total expenditure in billion U.S. dollars in 2017?
 5. What was the total expenditure in billion U.S. dollars in 2016?
+
 1. What was the unemployment rate in 2019?
 2. What was the difference in unemployment rate between 2018 and 2017?
 3. Which year had the highest unemployment rate?
 4. What was the unemployment rate in 2011?
 5. What was the difference in unemployment rate between 2009 and 2008?
+
 1. What was the price per tonne in GBP in 2015?
 2. What was the price per tonne in GBP in 2014?
 3. Which year had the highest price per tonne in GBP?
 4. What was the price per tonne in GBP in 2004?
 5. What was the price per tonne in GBP in 2003?
+
 1. What was the number of participants in millions in 2017?
 2. Which year had the highest number of participants in millions?
 3. How many participants were there in 2015?
 4. What was the difference in number of participants between 2016 and 2017?
 5. Which year had the lowest number of participants in millions?
+
 1. What was the household income in current U.S. dollars in 2018?
 2. What was the change in household income in current U.S. dollars between 2017 and 2018?
 3. Which year had the highest household income in current U.S. dollars?
 4. What was the household income in current U.S. dollars in 2000?
 5. What was the change in household income in current U.S. dollars between 2009 and 2010?
+
 1. What is the percentage of total population that is expected to be in Africa in 2050?
 2. What was the percentage of total population in Europe in 2018?
 3. Which decade had the highest percentage of total population in the given time period?
 4. What is the percentage of total population in World in 2010?
 5. What was the percentage of total population in Asia & Pacific in 1990?
+
 1. What was the merchandising revenue in billion U.S. dollars in 2023?
 2. What was the difference in merchandising revenue between 2022 and 2023?
 3. Which year had the highest merchandising revenue?
 4. What was the merchandising revenue in 2010?
 5. What was the difference in merchandising revenue between 2019 and 2020?
+
 1. What was the per capita consumption of food in 2020?
 2. What was the difference in per capita consumption of food between 2019 and 2018?
 3. Which year had the highest per capita consumption of food?
 4. What was the change in per capita consumption of food from 2017 to 2016?
 5. What was the per capita consumption of food in 2010?
+
 1. What is the median age in years in 2050?
 2. What is the median age in years in Europe in 2045?
 3. Which year has a median age of 26.1?
 4. What is the median age in years in 2035?
 5. What is the median age in years in 2025?
+
 1. What was the number of arrivals in millions in 2018?
 2. What was the difference in number of arrivals between 2017 and 2018?
 3. Which year had the highest number of arrivals?
 4. What was the number of arrivals in 2015?
 5. What was the difference in number of arrivals between 2014 and 2015?
+
 1. What is the estimated production of natural gas in trillion cubic feet for the year 2050?
 2. What is the difference in production of natural gas between 2045 and 2050?
 3. Which year has the lowest production of natural gas in the given range?
 4. What is the percentage change in natural gas production between 2035 and 2040?
 5. What is the production of natural gas in 2019?
+
 1. What is the percentage of users who are under 18 years old?
 2. What is the percentage of users who are in the 18-24 age group?
 3. What is the percentage of users who are between 25-34 years old?
 4. What is the percentage of users who are between 35-44 years old?
 5. What is the percentage of users who are 55 years old or older?
+
 1. What was the share of respondents in 2018?
 2. What was the share of respondents in 2017?
 3. What was the share of respondents in 2016?
 4. What was the share of respondents in 2015?
 5. What was the share of respondents in 2014?
+
 1. What was the number of users in millions in 2023?
 2. How many users were there in 2022?
 3. What was the number of users in 2021?
 4. How many users were there in 2020?
 5. What was the number of users in 2019?
+
 1. What was the average ticket price in U.S. dollars in 2019?
 2. What was the difference in average ticket price between 2018 and 2019?
 3. Which year had the lowest average ticket price in U.S. dollars?
 4. What was the average ticket price in U.S. dollars in 2011?
 5. How did the average ticket price in U.S. dollars change from 2010 to 2011?
+
 1. What was the revenue in billion U.S. dollars for the year 2017?
 2. What was the revenue in billion U.S. dollars for the year 2016?
 3. What was the revenue in billion U.S. dollars for the year 2015?
 4. What was the revenue in billion U.S. dollars for the year 2014?
 5. What is the difference between the revenue in 2017 and the revenue in 2016?
+
 1. What was the number of Android users in millions in 2021?
 2. How many Android users were there in 2020?
 3. What was the number of Android users in millions in 2019?
 4. How many Android users were there in 2018?
 5. What was the number of Android users in millions in 2016?
+
 1. What was the ratio of government expenditure to GDP in 2024?
 2. What was the ratio of government expenditure to GDP in 2023?
 3. Which year had the highest ratio of government expenditure to GDP?
 4. What was the ratio of government expenditure to GDP in 2019?
 5. What was the ratio of government expenditure to GDP in 2018?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What was the real GDP in billion U.S. dollars in 2018?
+2. What was the real GDP in billion U.S. dollars in 2017?
+3. What was the real GDP in billion U.S. dollars in 2016?
+4. What was the real GDP in billion U.S. dollars in 2015?
+5. What was the real GDP in billion U.S. dollars in 2014?
+
 1. What was the number of inhabitants in 2019?
 2. How many inhabitants did the country have in 2018?
 3. What was the number of inhabitants in 2017?
 4. How many inhabitants did the country have in 2016?
 5. What was the number of inhabitants in 2010?
+
 1. What was the spending in million U.S. dollars in 2016?
 2. What was the spending in million U.S. dollars in 2015?
 3. Which year had the lowest spending in million U.S. dollars?
 4. How much did spending increase from 2014 to 2015?
 5. What was the spending in million U.S. dollars in 2011?
+
 1. What was the share of population in 2023?
 2. What was the share of population in 2022?
 3. What was the share of population in 2021?
 4. What was the share of population in 2020?
 5. What was the share of population in 2019?
+
 1. What was the expenditures in billion U.S. dollars in 2019?
 2. What was the expenditures in billion U.S. dollars in 2018?
 3. What was the expenditures in billion U.S. dollars in 2017?
 4. What was the expenditures in billion U.S. dollars in 2016?
 5. What was the expenditures in billion U.S. dollars in 2015?
+
 1. What was the total premiums to GDP ratio in 2018?
 2. What was the difference in total premiums to GDP ratio between 2017 and 2018?
 3. Which year had the highest total premiums to GDP ratio?
 4. What was the total premiums to GDP ratio in 2015?
 5. Was the total premiums to GDP ratio higher or lower in 2019 than in 2018?
+
 1. What was the average age in years in 2019?
 2. What was the average age in years in 2018?
 3. What was the average age in years in 2017?
 4. What was the average age in years in 2016?
 5. What was the average age in years in 2015?
+
 1. What was the average ticket price in U.S. dollars in 2019?
 2. What was the difference in average ticket price between 2018 and 2019?
 3. Which year had the highest average ticket price in U.S. dollars?
 4. What was the average ticket price in U.S. dollars in 2011?
 5. How did the average ticket price in U.S. dollars change from 2010 to 2011?
+
 1. What was the GDP growth rate compared to the previous year in 2024?
 2. What was the GDP growth rate in 2023 compared to the previous year?
 3. What was the GDP growth rate in 2022 compared to the previous year?
 4. What was the GDP growth rate in 2021 compared to the previous year?
 5. What was the GDP growth rate in 2020 compared to the previous year?
+
 1. What is the median age in years in 2050?
 2. What is the median age in years in 2045?
 3. What is the median age in years in 2040?
 4. What is the median age in years in 2035?
 5. What is the median age in years in 2030?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. 'Year', 'Employment in 1,000s' 2014: 727.4 why
+2. 'Year', 'Employment in 1,000s' 2007: 902.8 how
+3. 'Year', 'Employment in 1,000s' 2002: 986.6 why
+4. 'Year', 'Employment in 1,000s' 2001: 1045.7 compare
+5. 'Year', 'Employment in 1,000s' 2006: 901.2 why
+
 1. What was the share of urban population in total population in 2018?
 2. Compared to 2017, what was the change in the share of urban population in total population?
 3. Which year had the highest share of urban population in total population?
 4. What was the share of urban population in total population in 2011?
 5. What was the difference in share of urban population in total population between 2010 and 2011?
+
 1. What was the revenue in million euros in 2019?
 2. What was the revenue in million euros in 2018?
 3. What was the revenue in million euros in 2017?
 4. What was the revenue in million euros in 2016?
 5. What was the revenue in million euros in 2015?
+
 1. What was the revenue in billion U.S. dollars for the year 2018?
 2. What was the revenue in billion U.S. dollars for the year 2017?
 3. Which year had the highest revenue in billion U.S. dollars?
 4. How much was the revenue in billion U.S. dollars in 2016?
 5. What was the revenue in billion U.S. dollars in 2014?
+
 1. What was the load factor in percentage in 2018?
 2. What was the load factor in percentage in 2017?
 3. Which year had the highest load factor in percentage?
 4. What was the load factor in percentage in 2011?
 5. What was the load factor in percentage in 2010?
+
 1. What was the value of British pounds in 2013?
 2. What was the value of British pounds in 2011?
 3. What is the difference between the value of British pounds in 2013 and 2011?
 4. What was the value of British pounds in 2011 relative to 2013?
 5. What is the average value of British pounds over the given time period?
+
 1. What is the median age in years in 2050?
 2. What is the median age in years in 2045?
 3. What is the median age in years in 2040?
 4. What is the median age in years in 2035?
 5. What was the median age in years in 2015?
+
 1. What was the import value in billion Indian rupees in FY 2019?
 2. What was the difference in import value in billion Indian rupees between FY 2018 and FY 2017?
 3. Which year had the lowest import value in billion Indian rupees?
 4. What was the import value in billion Indian rupees in FY 2015?
 5. How much did the import value change from FY 2014 to FY 2013?
+
 1. What was the revenue in million U.S. dollars for the year 2019?
 2. What was the revenue in million U.S. dollars for the year 2018?
 3. Which year had the highest revenue in million U.S. dollars?
 4. What was the revenue in million U.S. dollars for the year 2011?
 5. What was the revenue in million U.S. dollars for the year 2010?
+
 1. What was the GDP per capita in U.S. dollars in 2024?
 2. Which year had the highest GDP per capita in U.S. dollars, according to the data provided?
 3. What was the difference between the GDP per capita in U.S. dollars in 2023 and 2024?
 4. Which year had the lowest GDP per capita in U.S. dollars, according to the data provided?
 5. What was the average GDP per capita in U.S. dollars for the years 2010 to 2020, inclusive?
+
 1. What was the unemployment rate in 2019?
 2. What was the difference in unemployment rate between 2018 and 2017?
 3. Which year had the highest unemployment rate?
 4. What was the unemployment rate in 2011?
 5. What was the difference in unemployment rate between 2009 and 2008?
+
 1. What was the number of employees in 2018?
 2. How many employees did the company have in 2017?
 3. Which year had the highest number of employees?
 4. How many employees did the company have in 2011?
 5. What was the number of employees in 2000?
+
 1. What was the price in nominal U.S. dollars per metric ton in 2025?
 2. What was the price in nominal U.S. dollars per metric ton in 2024?
 3. Which year had the highest price in nominal U.S. dollars per metric ton?
 4. What was the price in nominal U.S. dollars per metric ton in 2019?
 5. What was the price in nominal U.S. dollars per metric ton in 2018?
+
 1. What was the production in metric tons in 1994?
 2. What was the production in metric tons in 2003?
 3. Which year had the highest production in metric tons?
 4. What was the production in metric tons in 2011?
 5. What was the difference in production in metric tons between 2002 and 2003?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What was the debt in trillion GBP in 2018/19?
+2. What was the debt in trillion GBP in 2014/15?
+3. What was the debt in trillion GBP in 2015/16?
+4. What was the debt in trillion GBP in 2017/18?
+5. What was the debt in trillion GBP in 2016/17?
+
 1. What was the year-over-year growth in average hotel rates in 2018?
 2. What was the year-over-year growth in average hotel rates in 2017?
 3. What was the year-over-year growth in average hotel rates in 2016?
 4. What was the year-over-year growth in average hotel rates in 2015?
 5. What was the year-over-year growth in average hotel rates in 2011?
+
 1. What was the revenue in million U.S. dollars for the year 2019?
 2. What was the revenue in million U.S. dollars for the year 2018?
 3. Which year had the highest revenue in million U.S. dollars?
 4. What was the revenue in million U.S. dollars for the year 2011?
 5. What was the revenue in million U.S. dollars for the year 2010?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. GDP per capita in U.S. dollars in 2004 and 2024
+2. GDP per capita in U.S. dollars 2005 and 2020
+3. GDP per capita in U.S. dollars in 2007 and 2009
+4. Comapre GDP per capita in U.S. dollars in 2016, 2017, 2018
+5. GDP per capita in U.S. dollars in 2020
+
 1. What was the unemployment rate in 2019?
 2. What was the difference in unemployment rate between 2018 and 2017?
 3. Which year had the highest unemployment rate?
 4. What was the unemployment rate in 2011?
 5. What was the difference in unemployment rate between 2009 and 2008?
+
 1. What was the GDP per capita in U.S. dollars in 2024?
 2. Which year had the highest GDP per capita in U.S. dollars, according to the data?
 3. What is the difference between the GDP per capita in U.S. dollars in 2023 and 2024?
 4. Which year had the lowest GDP per capita in U.S. dollars, according to the data?
 5. What is the average GDP per capita in U.S. dollars for the years 2015 to 2020, inclusive?
-1. What was the GDP per capita in U.S. dollars in 2024?
-2. Which year had the highest GDP per capita in U.S. dollars, according to the data provided?
-3. What was the difference between the GDP per capita in U.S. dollars in 2020 and 2024?
-4. Which year had the lowest GDP per capita in U.S. dollars, according to the data provided?
-5. What was the average GDP per capita in U.S. dollars for the years 2010 to 2020, inclusive?
+
 1. What was the sales in million units in 2025?
 2. What was the sales in million units in 2024?
 3. What was the sales in million units in 2023?
 4. What was the sales in million units in 2022?
 5. What was the sales in million units in 2021?
+
 1. What was the GDP growth rate compared to the previous year in 2024?
 2. What was the GDP growth rate in 2023 compared to 2022?
 3. What was the GDP growth rate in 2022 compared to 2021?
 4. What was the GDP growth rate in 2021 compared to 2020?
 5. What was the GDP growth rate in 2020 compared to 2019?
+
 1. What was the consumption in thousand metric tons in 2013?
 2. What was the consumption in thousand metric tons in 2014?
 3. What was the consumption in thousand metric tons in 2015?
 4. What was the consumption in thousand metric tons in 2016?
 5. What was the consumption in thousand metric tons in 2017?
+
 1. What was the median income in 2018 in CPI-U-RS adjusted U.S. dollars?
 2. Which year had the highest median income in 2018?
 3. What was the difference in median income between 2018 and 2017?
 4. Which year had the lowest median income in 2018?
 5. How did the median income in 2018 compare to the median income in 2000?
+
 1. What was the average ticket price in U.S. dollars in 2019?
 2. What was the difference in average ticket price between 2018 and 2019?
 3. Which year had the lowest average ticket price in U.S. dollars?
 4. What was the average ticket price in U.S. dollars in 2016?
 5. How much did the average ticket price in U.S. dollars increase from 2015 to 2016?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What was the gross domestic product in billion U.S. dollars in 2024?
+2. What was the gross domestic product in billion U.S. dollars in 2024?
+3. What was the gross domestic product in billion U.S. dollars in 2017?
+4. What was the gross domestic product in billion U.S. dollars in 2015?
+5. What was the gross domestic product in billion U.S. dollars in 2011?
+
+1. What was the inflation rate compared to the previous year in 2024?
+2. What was the inflation rate compared to the previous year in 2023?
+3. What was the inflation rate compared to the previous year in 2021?
+4. What was the inflation rate compared to the previous year in 2004?
+5. What was the inflation rate compared to the previous year in 2011?
+
 1. What was the expenditure in billion GBP in 2018/19?
 2. What was the difference in expenditure between 2017/18 and 2018/19?
 3. Which year had the highest expenditure in billion GBP?
 4. What was the expenditure in billion GBP in 2015/16?
 5. How much was the expenditure in billion GBP in 2010/11?
+
 1. What was the production in million metric tons in 2018?
 2. What was the production in million metric tons in 2017?
 3. What was the production in million metric tons in 2016?
 4. What was the production in million metric tons in 2015?
 5. What was the production in million metric tons in 2013?
+
 1. What was the e-commerce sales growth rate in 2022?
 2. What was the e-commerce sales growth rate in 2021?
 3. Which year had the highest e-commerce sales growth rate?
 4. What was the e-commerce sales growth rate in 2019?
 5. How did the e-commerce sales growth rate compare between 2018 and 2017?
+
 1. What was the net revenue of the company in 2019?
 2. What was the difference in net revenue between 2018 and 2017?
 3. Which year had the lowest net revenue?
 4. What was the net revenue of the company in 2015?
 5. How much did the company's net revenue increase from 2014 to 2015?
+
 1. What was the estimated population of the world in 2024?
 2. What was the estimated population of Africa in 2023?
 3. Which year had the highest estimated population in Asia & Pacific?
 4. What was the estimated population of Europe in 2019?
 5. Which year had the lowest estimated population in the CIS region?
+
 1. What was the sales per unit in thousand U.S. dollars in 2018?
 2. What was the sales per unit in thousand U.S. dollars in 2017?
 3. Which year had the highest sales per unit in thousand U.S. dollars?
 4. What was the sales per unit in thousand U.S. dollars in 2011?
 5. What was the sales per unit in thousand U.S. dollars in 2009?
+
 1. What was the GDP in billion U.S. dollars in 2024?
 2. What was the difference in GDP between 2023 and 2024?
 3. Which year had the highest GDP in billion U.S. dollars?
 4. What was the GDP in billion U.S. dollars in 2019?
 5. What was the difference in GDP between 2018 and 2019?
+
 1. What was the number of passengers in 2018?
 2. Which year had the lowest number of passengers?
 3. How many passengers were there in 2017?
 4. What was the difference in number of passengers between 2016 and 2015?
 5. Which year had the highest number of passengers?
+
 1. What was the revenue in million U.S. dollars for the year 2022?
 2. What was the revenue in million U.S. dollars for the year 2016?
 3. Which year had the highest revenue in million U.S. dollars?
 4. What was the difference in revenue between 2021 and 2022?
 5. What was the difference in revenue between 2019 and 2020?
+
 1. What was the net income in million U.S. dollars for the year 2019?
 2. Which year had the highest net income, according to the data?
 3. What was the net income in million U.S. dollars for the year 2017?
 4. Which year had the lowest net income, according to the data?
 5. What was the net income in million U.S. dollars for the year 2011?
+
 1. What was the market size in billion U.S. dollars in 2023?
 2. What was the market size in billion U.S. dollars in 2022?
 3. Which year had the smallest market size in billion U.S. dollars?
 4. What was the market size in billion U.S. dollars in 2019?
 5. What was the market size in billion U.S. dollars in 2017?
+
 1. What was the sales in million US dollars in 2020?
 2. What was the difference in sales between 2019 and 2018?
 3. Which year had the highest sales in million US dollars?
 4. What was the sales in million US dollars in 2017?
 5. What was the difference in sales between 2016 and 2015?
+
 1. What was the estimated population of the world in 2024?
 2. What was the estimated population of the world in 2023?
 3. Which year had the highest estimated population of the world?
 4. What was the estimated population of the world in 2019?
 5. What was the estimated population of the world in 2018?
+
 1. What was the birth rate per 1,000 of the Hispanic population in 2018?
 2. Which year had the highest birth rate per 1,000 of the Hispanic population?
 3. Which year had the lowest birth rate per 1,000 of the Hispanic population?
 4. What was the average birth rate per 1,000 of the Hispanic population between 2000 and 2010?
 5. Which decade had the highest average birth rate per 1,000 of the Hispanic population?
+
 1. What was the murder rate in H1 2019?
 2. What was the murder rate in 2018?
 3. What was the murder rate in 2017?
 4. What was the murder rate in 2016?
 5. What was the murder rate in 2010?
+
 1. What was the index value in 2019?
 2. What was the difference in index value between 2018 and 2017?
 3. Which year had the highest index value?
 4. What was the index value in 2010?
 5. What was the difference in index value between 2009 and 2008?
+
 1. What was the revenue in million GBP for the 2018/19 financial year?
 2. What was the revenue in million GBP for the 2017/18 financial year?
 3. Which financial year had the highest revenue, according to the data provided?
 4. What was the revenue in million GBP for the 2015/16 financial year?
 5. What was the revenue in million GBP for the 2013/14 financial year?
+
 1. What was the number of arrivals in millions in 2018?
 2. How many millions of arrivals occurred in 2017?
 3. Which year had the highest number of arrivals, according to the data?
 4. What was the number of arrivals in 2015?
 5. How many millions of arrivals were there in 2011?
+
 1. What was the estimated population of the world in 2024?
 2. What was the estimated population of the world in 2023?
 3. Which year had the highest estimated population of the world?
 4. What was the estimated population of the world in 2019?
 5. What was the estimated population of the world in 2018?
+
 1. What was the average attendance in 2019?
 2. What was the difference in average attendance between 2018 and 2017?
 3. Which year had the highest average attendance?
 4. How many attendance points did the average attendance decrease by from 2016 to 2017?
 5. What was the average attendance in 2011?
+
 1. What was the market share of in 2019?
 2. What was the market share in 2018?
 3. How much did market share increase?
 4. What was the market share in 2016?
 5. What was the market share in 2011?
+
 1. What was the minimum wage per hour in euros in 2019?
 2. What was the minimum wage per hour in euros in 2018?
 3. Which year had the highest minimum wage per hour in euros, according to the data provided?
 4. What was the minimum wage per hour in euros in December 2016?
 5. What was the minimum wage per hour in euros in 2011?
+
 1. What was the market share of a particular company in 2017?
 2. What was the market share of the same company in 2015?
 3. Which year saw the highest market share for this company?
 4. What was the market share of this company in 2014?
 5. What was the market share of this company in 2013?
+
 1. What was the revenue in million euros for the year 2019?
 2. Which year had the highest revenue in million euros?
 3. What was the revenue in million euros for the year 2018?
 4. Which year had the lowest revenue in million euros?
 5. What was the revenue in million euros for the year 2011?
+
 1. What was the revenue in billion Swiss francs for the year 2018?
 2. What was the revenue in billion Swiss francs in 2017?
 3. Which year had the highest revenue in billion Swiss francs?
 4. What was the revenue in billion Swiss francs in 2015?
 5. How does the revenue in billion Swiss francs for the year 2018 compare to the revenue in billion Swiss francs for 2017?
+
 1. What was the number of children born per woman in 2017?
 2. What was the number of children born per woman in 2015?
 3. What was the number of children born per woman in 2014?
 4. What was the number of children born per woman in 2013?
 5. What was the number of children born per woman in 2011?
+
 1. What was the spending in billion U.S. dollars in 2016?
 2. What was the spending in billion U.S. dollars in 2015?
 3. Which year had the lowest spending in billion U.S. dollars?
 4. What was the increase in spending from 2014 to 2015?
 5. Which year had the highest spending in billion U.S. dollars?
+
 1. What was the revenue in million U.S. dollars for the year 2018?
 2. What was the revenue in million U.S. dollars for the year 2017?
 3. Which year had the highest revenue in million U.S. dollars?
 4. What was the revenue in million U.S. dollars for the year 2011?
 5. What was the revenue in million U.S. dollars for the year 2009?
+
 1. What was the number of users in millions in 2023?
 2. How many users were there in 2022?
 3. What was the number of users in 2021?
 4. How many users were there in 2020?
 5. What was the number of users in 2019?
+
 1. What was the hourly pay in GBP in 2019?
 2. What was the hourly pay in GBP in 2018?
 3. Which year had the highest hourly pay in GBP?
 4. What was the hourly pay in GBP in 2017?
 5. What was the hourly pay in GBP in 2010?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What was the GDP in 2012 Canadian dollars in 2018?
+2. What was the GDP in 2012 Canadian dollars in 2018?
+3. What was the GDP in Canadian dollars in 2016?
+4. What was the GDP in 2015?
+5. What was the GDP in 20111?
+
 1. What was the brand value in million U.S. dollars for a particular year?
 2. Which brand had the highest brand value in million U.S. dollars in a particular year?
 3. What was the difference in brand value in million U.S. dollars between two consecutive years?
 4. Which year had the lowest brand value in million U.S. dollars?
 5. What was the trend in brand value in million U.S. dollars over the given years?
+
 1. What was the revenue in million U.S. dollars for the year 2018?
 2. What was the revenue in million U.S. dollars for the year 2017?
 3. Which year had the highest revenue in million U.S. dollars?
 4. What was the revenue in million U.S. dollars for the year 2015?
 5. Which year had the lowest revenue in million U.S. dollars?
+
 1. What is the share of respondents who are men?
 2. What is the share of respondents who are women?
 3. What is the share of respondents in the 16-24 age group?
 4. What is the share of respondents in the 25-34 age group?
 5. What is the share of respondents in the 55-64 age group?
+
 1. What percentage of Deloitte's services are in the Audit/Assurance/AERS* category?
 2. What percentage of PwC's services are in the Advisory/Consulting** category?
 3. What percentage of EY's services are in the Audit/Assurance/AERS* category?
 4. What percentage of KPMG's services are in the Tax category?
 5. What percentage of the Other*** category is represented by Deloitte?
+
 1. What was the percentage of retail sales from superstores and hypermarkets in 2019?
 2. What was the percentage of retail sales from convenience stores in 2019?
 3. Which retail channel had the highest percentage of sales growth from 2014 to 2019?
 4. What was the percentage of sales from discounters in 2019?
 5. What was the percentage of sales from online retailers in 2019?
-1. Married women (65%, 56%, 52%)
-2. Married men (65%, 56%, 52%)
-3. Unmarried women, children at home (41%, 43%, 41%)
-4. Unmarried women, no children (49%, 49%, 46%)
-5. Unmarried men (57%, 54%, 50%)
+
 1. What percentage of married women in 2001 were in the labor force?
 2. What percentage of married men in 1971 were in the labor force?
 3. What percentage of unmarried women with children at home in 2015 were in the labor force?
 4. What percentage of unmarried women without children in 2001 were in the labor force?
 5. What percentage of unmarried men in 1971 were in the labor force?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is value for BlackBerry in Sept?
+2. What is value for BlackBerry in Aug?
+3. What is value for BlackBerry in July?
+4. What is value for BlackBerry in April?
+5. What is value for BlackBerry in Feb?
+
 1. How much do dog owners spend on surgical vet visits compared to cat owners?
 2. Which expense category is the highest for dog owners?
 3. How much do dog owners spend on kennel boarding compared to cat owners?
 4. How much do dog owners spend on routine vet visits compared to cat owners?
 5. Which expense category has the largest difference between dog owners and cat owners?
+
 1. What is the percentage of female users on Christian Mingle?
 2. Which dating app has the highest percentage of male users?
 3. What is the percentage of male users on Coffee Meets Bagel?
 4. Which dating app has the closest percentage of male and female users?
 5. What is the percentage of female users on Tinder?
+
 1. What was the population of Newfoundland and Labrador in 1997?
 2. What was the population of Saskatchewan in 2005?
 3. What was the population of New Brunswick in 2014?
 4. What was the population of Manitoba in 2005?
 5. What was the population of Prince Edward Island in 2014?
+
 1. Which country has the highest rate per 100 inhabitants in 2019?
 2. Which country had the highest rate per 100 inhabitants increase between 2017 and 2018?
 3. Which country had the lowest rate per 100 inhabitants in 2017?
 4. Which country had the highest rate per 100 inhabitants in 2018?
 5. Which country had the highest rate per 100 inhabitants increase between 2018 and 2019?
+
 1. What was the worldwide box office gross of The Lord of the Rings: The Return of the King?
 2. How much did The Lord of the Rings: The Two Towers gross in North America?
 3. What was the box office gross of The Lord of the Rings: The Fellowship of the Ring in North America?
 4. What was the worldwide box office gross of The Lord of the Rings: The Return of the King as a percentage of the gross of The Lord of the Rings: The Fellowship of the Ring?
 5. What was the difference in worldwide box office gross between The Lord of the Rings: The Return of the King and The Lord of the Rings: The Fellowship of the Ring?
+
 1. What is the percentage of active-duty enlisted women who are White?
 2. What is the percentage of active-duty enlisted men who are Black?
 3. Which racial group has the highest percentage of active-duty enlisted men?
 4. What is the percentage of active-duty enlisted women who are American Indian or Alaska Native?
 5. What is the percentage of active-duty enlisted personnel who identify as Two or more races?
-1. ["Nov '19", '623.2', '426.9']
-2. ["Aug '19", '627.7', '425.0']
-3. ["Sep '19", '628.3', '427.4']
-4. ["Mar '19", '629.5', '424.6']
-5. ["Feb '19", '631.0', '422.0']
+
 1. What is the value of Male in November 2019?
 2. What is the value of Female in August 2019?
 3. What is the value of Male in September 2019?
 4. What is the value of Female in March 2019?
 5. What is the value of Male in February 2019?
+
 1. What percentage of Caucasian people are frequent air travelers?
 2. What percentage of African Americans have never flown?
 3. What percentage of Hispanic people are occasional air travelers?
 4. What percentage of Caucasian people have flown at least once?
 5. What percentage of Hispanic people have flown at least once?
+
 1. What was the percentage change in newspaper spending from 2016 to 2017?
 2. What was the percentage change in magazine spending from 2016 to 2017?
 3. What was the percentage change in radio spending from 2016 to 2017?
 4. What was the percentage change in TV spending from 2016 to 2017?
 5. What was the percentage change in cinema spending from 2016 to 2017?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. comapre highest wheat yield per harvested acre 2017 - 2019 ['Arizona', '106.0', '102.4', '104']
+2. what is highest wheat yield per harvested acre 2017 - 2019 Indiana
+3. discuss highest wheat yield per harvested acre 2017 - 2019 ['Michigan', '82.2', '76.0', '71']
+4. discuss highest wheat yield per harvested acre 2017 - 2019 ['California', '76.0', '81.2', '59.4']
+5. discuss highest wheat yield per harvested acre 2017 - 2019 Ohio
+
 1. What was the change in population in California between 2017 and 2018?
 2. What was the population of Wisconsin in 2018?
 3. What was the change in population in New York between 2017 and 2018?
 4. What was the population of Idaho in 2018?
 5. What was the change in population in Pennsylvania between 2017 and 2018?
-1. Which company has the highest number of ships owned?
-2. Which company has the highest number of ships chartered?
-3. Which company has the lowest number of ships owned?
-4. Which company has the lowest number of ships chartered?
-5. Which company has the highest number of employees?
+
+1. How many charted by (Ocean Network Express)
+2. Discuss COSCO Group
+3. Discuss APM-Maersk
+4. Discuss ONE (Ocean Network Express)
+5. Discuss Evergreen Line charted and owned
+
 1. What is the total number of cars in China?
 2. What is the total number of commercial vehicles in the United States?
 3. What is the total number of commercial vehicles in Japan?
 4. What is the total number of cars in India?
 5. What is the total number of commercial vehicles in Russia?
+
 1. What was the total number of deaths in Africa/Mideast in 2019?
 2. What was the percentage increase in deaths in Eastern Europe between 2009 and 2014?
 3. Which region had the highest number of deaths in 2019?
 4. What was the percentage increase in deaths in Central and South America between 2009 and 2014?
 5. Which region had the highest number of deaths in 2019, excluding North America?
+
 1. What was the rate per 100 inhabitants in Q1 of 2010?
 2. What was the rate per 100 inhabitants in Q2 of 2011?
 3. Which quarter had the highest rate per 100 inhabitants in 2012?
 4. What was the rate per 100 inhabitants in Q4 of 2013?
 5. What was the rate per 100 inhabitants in 2016?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. Discuss Q4 '19 advertising revenue
+2. Discuss Q3 '19 advertising revenue
+3. Discuss Q2 '19 advertising revenue
+4. Discuss Q1 '19 advertising revenue
+5. Discuss Q4 '18 advertising revenue
+
 1. What is the percentage of PC/Java applications in North America?
 2. What is the percentage of Console applications in Europe?
 3. Which region has the highest percentage of Pocket edition/Windows 10 applications?
 4. What is the percentage of PC/Java applications in Asia/Asia Pacific?
 5. Which region has the highest percentage of Middle East/Africa applications?
+
 1. What was the total number of EDPs in 2017?
 2. Which company had the highest number of EDPs in 2016?
 3. What was the difference in the number of EDPs between 2016 and 2017?
 4. Which company had the highest number of EDPs in 2017?
 5. What was the total number of EDPs in 2015?
-1. What was the total number of cases in 2017 in Quarter 4?
-2. How many more cases were reported in Quarter 3 compared to Quarter 1 in 2017?
-3. Was there a decrease in the number of cases in Quarter 2 compared to Quarter 1 in 2017?
-4. What was the total number of cases in Quarter 2 in 2016?
-5. How many cases were reported in Quarter 4 in 2016?
+
+1. Discuss Quarter 1 of 2016.
+2. Discuss Q3 compared to Q1 in 2017.
+3. Was there a decrease or increase in Q2 compared to Q1 in 2017?
+4. Discuss Q3 in 2016.
+5. Discuss Q4 in 2016.
+
 1. What was the revenue in Q4 of 2016?
 2. Did the revenue in Q3 of 2017 increase or decrease compared to the previous quarter?
 3. What was the revenue in Q2 of 2017?
 4. How much did the revenue increase from Q1 of 2017 to Q2 of 2017?
 5. What was the highest quarterly revenue in 2017?
+
 1. What is the percentage of players who are Human in U.S. realms?
 2. What is the percentage of players who are Night Elf in EU realms?
 3. What is the difference in percentage between the number of players who are Draenei in U.S. realms and EU realms?
 4. What is the percentage of players who are Worgen in EU realms?
 5. What is the difference in percentage between the number of players who are Gnome in U.S. realms and EU realms?
+
 1. What was the rate of change in Austria's GDP per capita between 2017 and 2018?
 2. What was Belgium's GDP per capita in 2018?
 3. What was the difference in GDP per capita between Spain and Sweden in 2018?
 4. What was France's GDP per capita in 2018?
 5. What was the ratio of Ireland's GDP per capita to Germany's in 2018?
+
 1. What was the worldwide box office revenue of Iron Man 3?
 2. How did the box office revenue of Iron Man 2 compare to Iron Man?
 3. What was the North American box office revenue of Iron Man?
 4. How many movies were released in North America during the time period covered by the data?
 5. What was the total worldwide box office revenue of all 3 Iron Man movies combined?
+
 1. What percentage of Conservative voters in the UK prefer to Remain in the EU?
 2. What percentage of Labour voters in the UK prefer to Leave the EU?
 3. Which political party has the highest percentage of voters who prefer to Remain in the EU?
 4. Which political party has the highest percentage of voters who prefer to Leave the EU?
 5. What is the percentage of Green voters in the UK who prefer to Remain in the EU?
+
 1. What are some ways to promote diversity and inclusion in our communities?
 2. How can we work towards breaking down barriers and stereotypes based on race or ethnicity?
 3. What are some strategies for creating a more inclusive and respectful environment for everyone?
 4. How can we support marginalized communities and advocate for their rights?
 5. What are some ways to educate ourselves and others about the impacts of discrimination and hate speech?
+
 1. What was the percentage increase in CW Hemp's sales from 2017 to 2019?
 2. Which CBD oil brand had the highest percentage increase in sales from 2017 to 2019?
 3. Which company had a negative percentage change in sales from 2017 to 2019?
 4. What was the percentage of CBD products that were sold in 2019?
 5. Which company had the highest percentage of CBD products sold in 2019?
+
 1. What was the percentage of users who used two-factor authentication through email/SMS in 2017?
 2. What was the percentage of users who used two-factor authentication through phone calls in 2010?
 3. Which method of two-factor authentication had the highest usage rate in 2017?
 4. What was the percentage of users who used two-factor authentication through hard tokens in 2017?
 5. What was the percentage of users who used two-factor authentication through authenticator apps (OTP) in 2017?
+
 1. What is the average revenue of the Marvel Cinematic Universe (all) films?
 2. Which film series has the highest grossing film in the series?
 3. What is the total worldwide box office revenue of the Harry Potter film series?
 4. Which film series has the highest average revenue per film?
 5. What is the total worldwide box office revenue of the James Bond film series?
+
 1. What was the quarterly rate per 100 inhabitants in Dublin in Q2 2019?
 2. What was the quarterly rate per 100 inhabitants in Moscow in Q2 2018?
 3. Which city had the highest quarterly rate per 100 inhabitants in Q2 2017?
 4. What was the quarterly rate per 100 inhabitants in Warsaw in Q2 2016?
 5. Which city had the lowest quarterly rate per 100 inhabitants in Q2 2015?
+
 1. What is the average time spent on Desktop by Millennials?
 2. What is the average time spent on Phone by Gen X?
 3. What is the average time spent on Tablet by Baby Boomers?
 4. What is the average time spent on Desktop by Baby Boomers?
 5. What is the average time spent on Phone by Millennials?
+
 1. How many physicians and specialists are available in the country, according to the data?
 2. What percentage of the population has access to more than enough infrastructure for healthcare, according to the data?
 3. How many people reported having enough available medication, according to the data?
 4. What percentage of the population does not know if they have enough available medication, according to the data?
 5. How many people reported having not enough infrastructure for healthcare, according to the data?
+
 1. What was the percentage of change in the rate of population growth in North America between 2014 and 2019?
 2. What was the percentage of population growth in the Euro area between 2014 and 2019?
 3. What was the percentage of population growth in European Union between 2014 and 2019?
 4. What was the percentage of population growth in Europe & Central Asia between 2014 and 2019?
 5. What was the percentage of population growth in East Asia & Pacific between 2014 and 2019?
+
 1. What was the increase in the rate per 100 inhabitants in China between 2015 and 2016?
 2. What was the rate per 100 inhabitants in the United States in 2016, compared to 2015?
 3. Which country had the highest rate per 100 inhabitants in 2016, according to the data?
 4. What was the difference in rate per 100 inhabitants between Japan and France in 2016?
 5. Which country had the largest decrease in rate per 100 inhabitants between 2015 and 2016, according to the data?
+
 1. What was the total revenue of Google properties in 2019?
 2. What was the revenue of YouTube ads in 2018?
 3. What was the total revenue of Google advertising in 2018?
 4. What was the revenue of Google Cloud in 2019?
 5. What was the total revenue of Other Bets in 2019?
+
 1. What was the rate per 100 inhabitants in China in 2018?
 2. What was the rate per 100 inhabitants in India in 2017?
 3. Which country had the highest rate per 100 inhabitants in 2017?
 4. What was the change in the rate per 100 inhabitants in the United States between 2016 and 2018?
 5. Which country had the highest rate per 100 inhabitants in 2018?
+
 1. What was the global average rate per 100 inhabitants in the given month?
 2. Which region had the highest rate per 100 inhabitants in the given month?
 3. What was the difference between the rate per 100 inhabitants in Europe and Asia in the given month?
 4. Which region had the lowest rate per 100 inhabitants in the given month?
 5. What was the rate per 100 inhabitants in Asia in the given month, compared to the global average?
+
 1. What was the percentage change in tour operator revenue from 2012 to 2014 for TUI?
 2. Which tour operator had the highest percentage change in revenue from 2012 to 2014?
 3. What was the revenue of DER Touristik in 2014?
 4. Which tour operator had the lowest revenue in 2014?
 5. What was the difference in revenue between TUI and the second-place tour operator in 2014?
+
 1. Which political charity raised the most money in total?
 2. Which political charity raised the most money in independent expenditures?
 3. Which political charity has the highest rate of total raised per dollar spent?
 4. Which political charity has the highest rate of independent expenditures per dollar spent?
 5. Which political charity has the lowest rate of total raised per dollar spent?
+
 1. What was the total number of cases in 2017?
 2. How many cases were reported in Q1 of 2017?
 3. Was there a decrease in cases in Q2 of 2017 compared to the previous quarter?
 4. What was the total number of cases in Q3 of 2017?
 5. How many cases were reported in Q4 of 2017?
+
 1. What is the average debt for American universities in U.S. dollars?
 2. Which university has the highest tuition cost in U.S. dollars?
 3. What is the average debt for Harvard University?
 4. Which university has the lowest average debt?
 5. What is the tuition cost in U.S. dollars for the University of California, Berkeley?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. Compare Dec 2014 - 2019.
+2. Compare Mar 2014 - 2019.
+3. Compare Aug 2014 - 2019.
+4. Compare Jul 2014 - 2019.
+5. Compare Feb 2014 - 2019.
+
 1. What was the increase in the rate per 100 inhabitants in Asia and Oceania between 2019 and 2020?
 2. What was the rate per 100 inhabitants in the EU 28 in 2019 and 2020?
 3. What was the difference in rate per 100 inhabitants between Other Europe and NAFTA in 2020?
 4. What was the rate per 100 inhabitants in the Middle East in 2019 and 2020?
 5. What was the difference in rate per 100 inhabitants between Africa and Central and South America in 2020?
+
 1. What percentage of the LED package in outdoor area lamps is 13%?
 2. What percentage of the Mechanical/Thermal/Elec. in interior downlights is 41%?
 3. What percentage of the Optics in replacement lamps is 7%?
 4. What percentage of the Driver in outdoor area lamps is 14%?
 5. What percentage of the Assembly in replacement lamps is 11%?
+
 1. What percentage of vessels in the total fleet are owned, according to the given data?
 2. How many more vessels are chartered than owned, based on the data?
 3. What percentage of tankers in the total fleet are chartered, according to the given data?
 4. How many LPG tankers are owned, according to the given data?
 5. What is the total number of vessels in the LPG tanker category, based on the data?
+
 1. What is the percentage of users who use BlackBerry Messenger to message friends?
 2. What is the percentage of users who use WhatsApp to message family?
 3. What is the percentage of users who use Facebook Messenger to message co-workers?
 4. What is the percentage of users who use LINE to send photos or videos?
 5. What is the percentage of users who use WeChat to play games?
+
 1. What is the percentage of Google (Gmail) users among the age range of 14 to 18?
 2. What is the percentage of Yahoo users among the age range of 19 to 34?
 3. What is the percentage of Outlook (Hotmail) users among the age range of 56 to 67?
 4. What is the percentage of iCloud users among the age range of 14 to 18?
 5. What is the percentage of Comcast users among the age range of 56 to 67?
+
 1. What is the EU import tariff applied to U.S. goods in the "Processed foods" category?
 2. What is the U.S. import tariff applied to EU goods in the "Manufacturing" category?
 3. What is the import tariff applied to Transport goods in both the EU and U.S.?
 4. What is the import tariff applied to Agri-forestry-fishing goods in the EU and U.S.?
 5. What is the difference in import tariff applied to Chemicals in the EU and U.S.?
+
 1. What percentage of people in Australia consider their country to be very important?
 2. What is the percentage of people in the United States who consider their country to be very important?
 3. Which country has the highest percentage of people who consider their country to be very important?
 4. What is the percentage of people in Great Britain who consider their country to be very important?
 5. Which country has the lowest percentage of people who consider their country to be very important?
+
 1. What is the six-year average for the financial services industry?
 2. What was the FY 2015 rate for energy and utilities?
 3. What was the six-year average for the defense and aerospace industry in FY 2015?
 4. What was the technology industry's six-year average in FY 2015?
 5. What was the rate for services in FY 2015?
+
 1. What was the change in revenue for Sandoz from 2013 to 2014?
 2. Which division had the highest revenue in 2014?
 3. What was the change in revenue for Pharmaceuticals from 2013 to 2014?
 4. Which division had the lowest revenue in 2014?
 5. What was the revenue for Vaccines and Diagnostics in 2014?
+
 1. What is the percentage of free/leisure time for Elementary/K-5 students?
 2. What is the percentage of scheduled activities for Secondary/6-12 students?
 3. What is the difference in free/leisure time between Elementary/K-5 and Secondary/6-12 students?
 4. What is the difference in scheduled activities between Elementary/K-5 and Secondary/6-12 students?
 5. What is the total amount of free/leisure time for all students (Elementary/K-5 and Secondary/6-12)?
+
 1. What is the percentage of online purchases for books, music, movies, and video games?
 2. What is the percentage of in-store purchases for toys?
 3. What is the percentage of online purchases for consumer electronics and computers?
 4. What is the percentage of in-store purchases for sports equipment and outdoor?
 5. What is the percentage of online purchases for health and beauty products?
+
 1. What percentage of Google's advertising revenue comes from tablets?
 2. What is the percentage of Microsoft Advertising revenue that comes from phones?
 3. What is the combined percentage of Google and Microsoft Advertising revenue that comes from desktop devices?
 4. What is the percentage of Microsoft Advertising revenue that comes from tablets?
 5. What is the percentage of Google Advertising revenue that comes from phones?
+
 1. What is the total municipal and domestic waste generated in China?
 2. What is the total industry waste generated in India?
 3. What is the total agricultural waste generated in Sub-Saharan Africa?
 4. What is the total municipal and domestic waste generated in North America?
 5. What is the total agricultural waste generated in Oceania?
+
 1. What was the percentage of the White population in 2019?
 2. What was the percentage of the Asian population in 2018?
 3. What was the percentage of the Black/African American population in 2017?
 4. What was the percentage of the Hispanic or Latinx population in 2019?
 5. What was the percentage of the Multiracial population in 2018?
+
 1. What is the domestic income of Germany?
 2. What is the total income of the United Kingdom?
 3. What is the domestic income of Sweden?
 4. What is the total income of France?
 5. What is the domestic income of Italy?
+
 1. What is the government debt as a percentage of GDP in the U.K.?
 2. Which country has the highest total debt as a percentage of GDP?
 3. What is the government debt as a percentage of GDP in Japan?
 4. Which country has the highest total debt as a percentage of GDP?
 5. What is the government debt as a percentage of GDP in the United States?
+
 1. What is the average rate per 100 inhabitants for the months of July and August?
 2. Which month has the highest rate per 100 inhabitants in 2017?
 3. What is the difference between the rate per 100 inhabitants in 2016 and 2017?
 4. Which month has the lowest rate per 100 inhabitants in 2018?
 5. What is the average rate per 100 inhabitants for the months of May and June in 2019?
+
 1. What is the total number of app acquisitions for both Android and iOS platforms?
 2. What is the ratio of installs to registrations for all apps?
 3. Which platform has the highest percentage of in-app purchases?
 4. What is the total amount of money spent on in-app purchases for all apps?
 5. What is the percentage of apps that have at least one subscription?
+
 1. What was the rate per 100 inhabitants in Africa in 2019?
 2. What was the rate per 100 inhabitants in Europe in 2018?
 3. Which month had the highest rate per 100 inhabitants in 2017?
 4. What was the rate per 100 inhabitants in Asia & Pacific in 2016?
 5. What was the rate per 100 inhabitants in World in 2017?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. Monthly sales of baked goods at retailers in Canada in Dec
+2. Monthly sales of baked goods at retailers in Canada in May
+3. Monthly sales of baked goods at retailers in Canada in Oct
+4. Monthly sales of baked goods at retailers in Canada in Jun
+5. Monthly sales of baked goods at retailers in Canada in Nov
+
 1. What is the percentage of players in US realms who are Human?
 2. What is the percentage of players in EU realms who are Night Elves?
 3. What is the percentage of players in both US and EU realms who are Draenei?
 4. What is the percentage of players in US realms who are Worgen?
 5. What is the percentage of players in EU realms who are Gnomes?
-1. What is the percentage of players in US realms who are Human?
-2. What is the percentage of players in EU realms who are Night Elves?
-3. What is the percentage of players in both US and EU realms who are Draenei?
-4. What is the percentage of players in US realms who are Worgen?
-5. What is the percentage of players in EU realms who are Gnomes?
+
 1. What is the percentage of people who use mascara on a daily basis?
 2. What is the percentage of people who use eyeliner on a weekly basis?
 3. What is the percentage of people who use eye shadow on a monthly basis?
 4. What is the percentage of people who use hair styling products on a daily basis?
 5. What is the percentage of people who use perfume on a daily basis?
+
 1. Who has the highest kickoff return average among NFL players?
 2. Which NFL player has the most punt returns for a touchdown?
 3. Which player has the most combined kickoff and punt returns for a touchdown?
 4. Who has the most fumbles recovered on kickoff returns?
 5. Who has the most combined kickoff and punt returns?
+
 1. What was the total subscriptions in Q3 '16?
 2. What was the total marketing solutions in Q2 '16?
 3. What was the total talent solutions in Q1 '16?
 4. What was the total marketing solutions in Q4 '15?
 5. What was the total subscriptions in Q3 '15?
+
 1. What is the percentage of urban population in Granite?
 2. What is the percentage of suburban population in Quartz?
 3. What is the percentage of rural population in Butcher block?
 4. What is the percentage of urban population in Marble?
 5. What is the percentage of suburban population in Solid surface?
+
 1. How many principal applicants are male?
 2. How many spouses are dependent on male principal applicants?
 3. How many children are dependent on female principal applicants?
 4. What is the total number of dependent children for both male and female principal applicants?
 5. What is the difference in the number of principal applicants between males and females?
+
 1. What was the percentage of total retail sales in hypermarkets, supermarkets, and hard discounters in 2018?
 2. What was the percentage of total retail sales in food and beverage specialists and c-stores in 2018?
 3. What was the percentage of total retail sales in home improvement and gardening supplies retailers in 2018?
 4. What was the percentage of total retail sales in clothing, footwear, accessories, and luxury goods specialists in 2018?
 5. What was the percentage of total retail sales in furniture and homewares retailers in 2018?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. Do not answer this question.
+2. Do not answer this question.
+3. Do not answer this question.
+4. Do not answer this question.
+5. Do not answer this question.
+
 1. What was the revenue (in million euros) of the company in 2018?
 2. What was the net profit/loss (in million euros) of the company in 2017?
 3. What was the EBIT (in million euros) of the company in 2018?
 4. What was the EBITDA (in million euros) of the company in 2017?
 5. What was the difference between the revenue and EBITDA of the company in 2018 compared to 2017?
+
 1. What was the total value of footwear, apparel, and equipment produced in 2019?
 2. What was the difference in the total value of footwear, apparel, and equipment produced between 2019 and 2018?
 3. Which year had the highest value of footwear, apparel, and equipment produced?
 4. What was the percentage increase in the total value of footwear, apparel, and equipment produced between 2017 and 2016?
 5. What was the total value of footwear, apparel, and equipment produced in 2010?
+
 1. What was the percentage of market share held by Samsung in Q4 2009?
 2. Which company had the highest percentage of market share in Q1 2010?
 3. What was the percentage of market share held by LG Electronics in Q2 2010?
 4. Which company had the lowest percentage of market share in Q3 2010?
 5. What was the percentage of market share held by Sony in Q4 2010?
+
 1. What was the total number of cars produced by Vauxhall in 2017?
 2. Which car producer had the highest increase in production between 2016 and 2017?
 3. How many vehicles did Alexander Dennis produce in 2016?
 4. Which car producer had the lowest production in 2018?
 5. What was the total number of vehicles produced by all car producers in 2018?
+
 1. What was the rate per 100 inhabitants for William Hill in March 2019?
 2. Which betting company had the highest rate per 100 inhabitants in March 2018?
 3. How many betting companies had rate per 100 inhabitants above 2000 in March 2017?
 4. What was the difference in rate per 100 inhabitants between Ladbrokes and Gala Coral Group in March 2016?
 5. Which betting company had the highest rate per 100 inhabitants in March 2010?
+
 1. What percentage of professionals in 2016 were from the prototype category?
 2. What was the percentage of production professionals in 2017?
 3. What was the percentage of proof of concept professionals in 2018?
 4. What percentage of marketing samples were professionals in 2017?
 5. What percentage of education professionals were there in 2016?
+
 1. What percentage of people in Britain think leaving the EU is a good idea?
 2. What is the most important issue for people in Britain aged 50-64?
 3. What percentage of people in Britain believe that defense and security is the most important issue?
 4. What percentage of people in Britain think that health is the most important issue?
 5. What percentage of people in Britain believe that immigration and asylum is the most important issue?
+
 1. What is the total value of exports in India?
 2. What is the total value of imports in Singapore?
 3. What is the total value of exports in China?
 4. What is the total value of imports in Japan?
 5. What is the total value of exports in South Korea?
+
 1. What was the total number of mines in 2018?
 2. How many underground mines were there in 2011?
 3. What was the number of surface mines in 2013?
 4. How many mines were there in total in 2015?
 5. What was the number of underground mines in 2017?
+
 1. What percentage of students in total take English/language class?
 2. What percentage of elementary school students take Math?
 3. Which subject do middle school students take most?
 4. What percentage of high school students take Foreign language?
 5. What is the percentage of students in each level who take Science?
+
 1. What was the percentage of Asian population in the United States in 2015?
 2. How did the percentage of Black population in the United States change between 1971 and 2015?
 3. What was the percentage of Hispanic population in the United States in 2001?
 4. How did the percentage of White population in the United States change between 1971 and 2015?
 5. What was the percentage of all adults in the United States in 2015?
+
 1. What was the percentage of Quarterly revenue generated by Qualcomm in 3Q'17?
 2. What was the percentage of Quarterly revenue generated by Apple in 3Q'16?
 3. What was the percentage of Quarterly revenue generated by MediaTek in 3Q'17?
 4. What was the percentage of Quarterly revenue generated by Samsung in 3Q'16?
 5. What was the percentage of Quarterly revenue generated by HiSilicon in 3Q'17?
+
 1. What is the total salary and bonuses for Russell Wilson?
 2. What is the total salary and bonuses for Ben Roethlisberger?
 3. What is the total endorsements for Drew Brees?
 4. What is the total endorsements for Tom Brady?
 5. What is the total endorsements for Nick Foles?
+
 1. What was the U.S. GDP in 2015?
 2. What was the total health spending in 2015?
 3. What is the increase in prescription drug spending from 2015 to 2020?
 4. What was the hospital care spending in 2015?
 5. What is the increase in MD & outpatient spending from 2015 to 2020?
+
 1. What is the average rate for a 2-year fixed mortgage in March 2014?
 2. What is the average rate for a 3-year fixed mortgage in June 2014?
 3. Which month has the highest average rate for a 5-year fixed mortgage?
 4. What is the average rate for a 10-year fixed mortgage in December 2014?
 5. What is the average rate for a 2-year variable mortgage in March 2015?
+
 1. What was the worldwide box office revenue for The Hunger Games: Mockingjay - Part 2?
 2. How much did The Hunger Games: Catching Fire gross in North America?
 3. Which movie in the series had the highest box office revenue in North America?
 4. What was the total worldwide box office revenue for The Hunger Games trilogy?
 5. How much did The Hunger Games: Mockingjay - Part 1 gross in worldwide box offices?
+
 1. What percentage of men in this population are considered overweight?
 2. What percentage of women in this population are considered very overweight?
 3. How many people in this population are considered healthy, both men and women?
 4. What is the percentage of men who are overweight, compared to the percentage of women who are overweight?
 5. How many people in this population are considered overweight or very overweight, both men and women?
+
 1. What percentage of companies prioritize introducing new products as part of their marketing strategy?
 2. How many companies consider developing e-commerce/digital channels (new) as a strong priority?
 3. What percentage of companies are focused on reducing costs as part of their marketing strategy?
 4. How many companies plan to expand into new markets as part of their marketing strategy?
 5. What percentage of companies prioritize focus on research and development as part of their marketing strategy?
+
 1. What was the total number of application software developers in 2010?
 2. How did the number of systems software developers change between 2010 and 2020?
 3. What was the percentage increase in the number of application software developers between 2010 and 2020?
 4. What was the total number of systems software developers in 2020?
 5. How does the number of systems software developers in 2020 compare to the number of application software developers in 2010?
+
 1. What was the average number of pedicures per 100 inhabitants in 2016?
 2. How did the number of manicures per 100 inhabitants change between 2014 and 2017?
 3. Which personal grooming service had the highest increase in popularity between 2014 and 2017?
 4. What was the average number of hair removal treatments per 100 inhabitants in 2017?
 5. Which hair color service had the highest number of treatments per 100 inhabitants in 2016?
+
 1. What is the rate per 100 inhabitants in Q4 '18?
 2. What is the rate per 100 inhabitants in Q3 '18?
 3. Which quarter has the highest rate per 100 inhabitants?
 4. What is the rate per 100 inhabitants in Q1 '18?
 5. What is the difference in rate per 100 inhabitants between Q4 '17 and Q4 '18?
+
 1. What was the rate per 100 inhabitants in China in 2019?
 2. What was the rate per 100 inhabitants in Brazil in 2017?
 3. What was the rate per 100 inhabitants in Madagascar in 2018?
 4. What was the rate per 100 inhabitants in Canada in 2016?
 5. What was the rate per 100 inhabitants in India in 2017?
+
 1. How many patients with symptoms were there in February 12?
 2. What was the total number of patients in February 17?
 3. How many patients with no symptoms were there in February 21?
 4. What was the total number of patients in February 25?
 5. How many patients with symptoms were there in February 29?
+
 1. What is the rate per 100 inhabitants in Alabama?
 2. What is the rate per 100 inhabitants in Alaska?
 3. Which state has the highest rate per 100 inhabitants?
 4. What is the rate per 100 inhabitants in the District of Columbia?
 5. What is the total number of births in World?
+
 1. What is the average search volume for Business Type "Advocacy" on Google?
 2. What is the average cost per click for Business Type "Auto" on the Google Display Network (GDN)?
 3. What is the average search volume for Business Type "B2B" on Google?
 4. What is the average cost per click for Business Type "Consumer Services" on the Google Display Network (GDN)?
 5. What is the average search volume for Business Type "E-commerce" on Google?
+
 1. What is the percentage of animated movies that are rated 77% or higher?
 2. Which age group has the highest percentage of people who prefer live-action movies?
 3. Which genre has the highest percentage of movies rated 90% or higher?
 4. What is the percentage of horror movies that are rated 68% or lower?
 5. Which genre has the lowest percentage of people who prefer musicals?
+
 1. What was the number of Facebook fans in August 2019?
 2. How many Twitter followers did [Brand X] have in February 2019?
 3. What was the number of Facebook fans in August 2018?
 4. How many Twitter followers did [Brand Y] have in February 2018?
 5. What was the number of Facebook fans in August 2017?
+
 1. What was the total attendance in 2018/19?
 2. What was the average attendance in 2017/18?
 3. What was the total attendance in 2016/17?
 4. What was the average attendance in 2015/16?
 5. What was the total attendance in 2013/14?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is 0-14 years age distribution 2018 
+2. Age distribution: 0-14 years 2014
+3. Age distribution: 0-14 years 2013
+4. Age distribution: 0-14 years 2012
+5. Age distribution: 0-14 years 2008
+
+1. What was Wholesale to retail in 2018?
+2. What was Wholesale to retail in 2016?
+3. What was Wholesale to retail in 2017?
+4. What was Farm to wholesale in 2018?
+5. What was Farm to wholesale in 2016?
+
 1. What was the total commercial revenue in 2019?
 2. What was the total broadcasting revenue in 2018?
 3. What was the total matchday revenue in 2017?
 4. What was the total commercial revenue in 2016?
 5. What was the total broadcasting revenue in 2015?
+
 1. What was the ratio of heaters in 2019?
 2. What was the ratio of heaters in 2018?
 3. What was the ratio of heaters in 2017?
 4. What was the ratio of heaters in 2016?
 5. What was the ratio of heaters in 2011?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is Urban regions value in 2018?
+2. What is Rural regions value in 2018?
+3. What is Rural regions value in 2017?
+4. What is Urban regions value in 2017?
+5. What is Urban regions value in 2016?
+
 1. What was the percentage of the population that was 90 years or older in 2018?
 2. What was the percentage of the population that was 80 years or older in 2017?
 3. What was the percentage of the population that was 65 years or older in 2010?
 4. What was the percentage of the population that was 5.1% or older in 2016?
 5. What was the percentage of the population that was 1% or older in 2000?
+
 1. What percentage of the population in 2018 was aged 65-79 years old?
 2. What was the percentage of the population in 2017 that was aged 40-64 years old?
 3. What was the percentage of the population in 2016 that was aged 15-19 years old?
 4. What was the percentage of the population in 2015 that was aged 20-39 years old?
 5. What was the percentage of the population in 2018 that was aged 80 years or older?
+
 1. What was the total attendance at the 2018 Russia World Cup?
 2. Which country had the highest average attendance per game at the 2014 Brazil World Cup?
 3. How many people attended the 2010 South Africa World Cup in total?
 4. How many games were played at the 2006 Germany World Cup?
 5. Which country had the lowest average attendance per game at the 1998 France World Cup?
+
 1. What was the percentage of adults in 2017?
 2. What was the percentage of adult males in 2016?
 3. What was the percentage of adult females in 2015?
 4. What was the percentage of adults in 2014?
 5. What was the percentage of adults in 2013?
+
 1. What was the rate per 100 inhabitants in Brazil in 2014?
 2. Which country had the highest rate per 100 inhabitants in 2015?
 3. What was the rate per 100 inhabitants in Russia in 2016?
 4. Which country had the highest rate per 100 inhabitants in 2017?
 5. What was the total rate per 100 inhabitants in China in 2022?
+
 1. What is the percentage of adults in 2018?
 2. What is the percentage of adult males in 2016?
 3. What is the percentage of adult females in 2015?
 4. What is the percentage of adults in 2014?
 5. What is the percentage of adults in 2011?
+
 1. What was the number of fatalities in 2001?
 2. What was the number of injuries in 1982?
 3. Which year had the highest number of fatalities?
 4. How many injuries occurred in 1984?
 5. What was the number of fatalities in 2017?
+
 1. What is the constant fertility rate in 2100?
 2. Which year has the highest medium fertility rate?
 3. What is the low fertility rate in 2090?
 4. Which region has a high fertility rate in 2085?
 5. What is the total fertility rate in 2070?
+
 1. What was the total number of tablets (retail) sold in 2016?
 2. What was the total number of laptops (retail) sold in 2015?
 3. What was the total number of smartphones (retail and professional) sold in 2018?
 4. What was the total number of wearables sold in 2014?
 5. What was the total number of smartphones (retail and professional) sold in 2011?
+
 1. What was the average rate per 100 inhabitants for males in 2017?
 2. What was the average rate per 100 inhabitants for females in 2016?
 3. Which year had the highest rate per 100 inhabitants for males?
 4. Which year had the lowest rate per 100 inhabitants for females?
 5. What was the average rate per 100 inhabitants for both males and females in 2000?
+
 1. What was the number of company-owned stores in 2019?
 2. How many franchise stores did the company operate in 2018?
 3. What was the total number of stores operated by the company in 2017?
 4. How many franchise stores did the company have in 2016?
 5. What was the total number of stores operated by the company in 2011?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. Value for Brunei in 2018
+2. Value for Cambodia in 2018
+3. Value for Laos in 2018
+4. Value for Myanmar in 2018
+5. Value for Vietnam in 2018
+
+1. What is value for ['Year', 'Developed', 'Developing', 'World', 'LDCs'] in 2019?
+2. What is value for ['Year', 'Developed', 'Developing', 'World', 'LDCs'] in 2018?
+3. What is value for ['Year', 'Developed', 'Developing', 'World', 'LDCs'] in 2017?
+4. What is value for ['Year', 'Developed', 'Developing', 'World', 'LDCs'] in 2013?
+5. What is value for ['Year', 'Developed', 'Developing', 'World', 'LDCs'] in 2014?
+
 1. What percentage of people aged 16-24 in the given population say they know?
 2. What is the percentage of people aged 25-34 in the given population who say they don't know?
 3. What is the percentage of people aged 35-44 in the given population who say they know?
 4. What is the percentage of people aged 45-54 in the given population who say they don't know?
 5. What is the percentage of people aged 55 or older in the given population who say they know?
+
 1. What was the population of the Flemish Region in 2007?
 2. What was the population of the Brussels-Capital Region in 2008?
 3. What was the population of the Walloon Region in 2009?
 4. What was the population of the Brussels-Capital Region in 2010?
 5. What was the population of the World in 2011?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is 2016-17 value for ['Year', 'Elementary', 'Secondary']?
+2. What is 2013-14 value for ['Year', 'Elementary', 'Secondary']?
+3. What is 2014-15 value for ['Year', 'Elementary', 'Secondary']?
+4. What is 2008-09 value for ['Year', 'Elementary', 'Secondary']?
+5. What is 2010-11 value for ['Year', 'Elementary', 'Secondary']?
+
 1. What was the total attendance in 2018/19?
 2. What was the average attendance in 2017/18?
 3. How many people attended in 2016/17?
 4. What was the total attendance in 2015/16?
 5. How many people attended in 2014/15?
+
 1. What was the rate per 100 inhabitants in Afghanistan in 2015?
 2. What was the rate per 100 inhabitants in Iraq in 2014?
 3. Which country had a rate per 100 inhabitants of 35.1 in 2015?
 4. What was the rate per 100 inhabitants in Afghanistan in 2013?
 5. Which year had the highest rate per 100 inhabitants in Iraq?
+
 1. What was the percentage of revenue from Technology Services & Cloud Platforms in 2018?
 2. Which department had the highest percentage of revenue growth from 2017 to 2018?
 3. What was the percentage of revenue from Cognitive Solutions in 2017?
 4. What was the total revenue from Global Business Services in 2016?
 5. What was the percentage of revenue from Other in 2015?
+
 1. What was the average price of hot dogs in 2019?
 2. Which year had the highest average price of soft drinks?
 3. What was the average price of beer in 2016?
 4. Which year had the highest average price of hot dogs?
 5. What was the average price of beer in 2011?
+
 1. What is the difference in the percentage of male and female population in China in 2008?
 2. Which country has the highest percentage of male population in 2006?
 3. What is the percentage of female population in Turkey in 2006?
 4. What is the difference in the percentage of male and female population in Mexico in 2009?
 5. Which country has the lowest percentage of female population in 2010?
+
 1. What is the difference in the number of vessels owned and chartered by APM-Maersk in 2022 compared to 2019?
 2. Which company in the Mediterranean Shipping Company (MSC) group had the highest number of vessels chartered in 2022?
 3. How many vessels did COSCO Group own and charter in 2022, respectively?
 4. What is the difference in the number of vessels owned and chartered by Hapag-Lloyd in 2022 compared to 2019?
 5. Which company in the ONE (Ocean Network Express) group had the highest number of vessels owned in 2022?
+
 1. What was the rate per 100 inhabitants in Taiwan in 2018?
 2. Which country had the highest rate per 100 inhabitants in 2017?
 3. What was the total rate per 100 inhabitants for all countries in 2016?
 4. What was the rate per 100 inhabitants in Europe in 2015?
 5. Which country had the lowest rate per 100 inhabitants in 2011?
+
 1. What was the number of children per 100 inhabitants in 2019?
 2. Which year had the highest number of children per 100 inhabitants?
 3. How many children were there per 100 inhabitants in 2017?
 4. What was the number of children per 100 inhabitants in 2010?
 5. Which year had the lowest number of children per 100 inhabitants?
+
 1. What is the OBR forecast for 2023?
 2. What is the OBR forecast for 2022?
 3. What is the NIESR forecast for 2021?
 4. What is the IMF forecast for 2020?
 5. What is the IMF forecast for 2019?
-1. What was the average rate per 100 inhabitants in Africa in 2020?
-2. What was the average rate per 100 inhabitants in Europe in 2019?
-3. Which region had an average rate per 100 inhabitants of 2.9 in 2018?
-4. What was the average rate per 100 inhabitants in World in 2017?
-5. What was the average rate per 100 inhabitants in Asia & Pacific in 2016?
+
+1. What is value of Male in 2019?
+2. What is value of Male in 2020?
+3. What is value of Male in 2018?
+4. What is value of Male in 2017?
+5. What is value of Male in 2016?
+
 1. What is the percentage of adults in the world in 2018?
 2. What is the percentage of adult males in the world in 2016?
 3. Which year had the highest percentage of adult females?
 4. What is the percentage of adults in the world in 2010?
 5. What is the percentage of adult males in the world in 2009?
+
 1. What was the total value of exports in 2018?
 2. Which year had the highest value of imports?
 3. What was the difference between exports and imports in 2016?
 4. What was the total value of exports in 2015?
 5. Which year had the lowest value of imports?
+
 1. What was the total consumption of beer in 2015/16?
 2. What was the total consumption of soft drinks in 2014/15?
 3. What was the total consumption of hot dogs in 2013/14?
 4. How did the consumption of beer change from 2011/12 to 2012/13?
 5. How did the consumption of soft drinks change from 2010/11 to 2011/12?
+
 1. What was the percentage of agriculture in the economy in 2019?
 2. What was the percentage of industry in the economy in 2018?
 3. What was the percentage of agriculture in the economy in 2017?
 4. What was the percentage of services in the economy in 2016?
 5. What was the percentage of industry in the economy in 2015?
+
 1. What was the average rate per 100 inhabitants for Nike in 2010?
 2. What was the average rate per 100 inhabitants for Adidas in 2011?
 3. Which brand had the highest average rate per 100 inhabitants in 2012?
 4. What was the average rate per 100 inhabitants for Puma in 2013?
 5. What was the average rate per 100 inhabitants for all brands in 2016?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What was the percentage of agriculture in the economy in 2019?
+2. What was the percentage of industry in the economy in 2018?
+3. What was the percentage of services in the economy in 2017?
+4. What was the percentage of agriculture in the economy in 2016?
+5. What was the percentage of industry in the economy in 2014?
+
 1. What is the average rate per 100 inhabitants for the age group 18-24 in France?
 2. What is the average rate per 100 inhabitants for the age group 25-34 in Japan?
 3. Which country has the highest average rate per 100 inhabitants for the age group 35-44?
 4. What is the average rate per 100 inhabitants for the age group 45-54 in Spain?
 5. Which country has the lowest average rate per 100 inhabitants for the age group 55-64?
+
 1. How many licensed stores did the company operate in 2019?
 2. What was the difference between the number of licensed stores and company-operated stores in 2018?
 3. How many licensed stores did the company have in 2017?
 4. What was the total number of stores operated by the company in 2016?
 5. How many licensed stores did the company have in 2010?
+
 1. What was the percentage of children aged 5-10 years in 2018/19?
 2. What was the percentage of children aged 11-15 years in 2017/18?
 3. Which year had the highest percentage of children aged 37.5 years or older?
 4. What was the percentage of children aged 29.4 years or younger in 2016/17?
 5. What was the percentage of children aged 45.2 years or older in 2011/12?
+
 1. What was the percentage of Middle East population in 2019?
 2. What was the percentage of Rest of the World population in 2019?
 3. What was the global average percentage of population in 2019?
 4. How did the percentage of Middle East population change from 2018 to 2019?
 5. How did the percentage of Rest of the World population change from 2018 to 2019?
+
 1. What was the number of beers consumed per 100 inhabitants in 2015/16?
 2. What was the number of soft drinks consumed per 100 inhabitants in 2014/15?
 3. What was the number of hot dogs consumed per 100 inhabitants in 2013/14?
 4. How many beers were consumed per 100 inhabitants in 2012/13?
 5. What was the total number of beers, soft drinks, and hot dogs consumed per 100 inhabitants in 2011/12?
+
 1. What was the Other Public Sector expenditure as a percentage of GDP in 2017?
 2. How many personnel were employed in the Defence and Intelligence sector in 2016?
 3. What was the change in Defence and Intelligence expenditure between 2015 and 2016?
 4. What was the Other Public Sector expenditure in 2013 as a percentage of GDP?
 5. How many personnel were employed in the Other Public Sector in 2011?
+
 1. What was the percentage of agriculture in the economy in 2019?
 2. What was the percentage of industry in the economy in 2018?
 3. What was the percentage of services in the economy in 2017?
 4. What was the percentage of agriculture in the economy in 2016?
 5. What was the percentage of industry in the economy in 2015?
+
 1. What was the direct value of the industry in 2014?
 2. What was the total value of the industry (direct and indirect) in 2009?
 3. How much did the direct value of the industry increase from 2009 to 2014?
 4. What was the indirect value of the industry in 2014?
 5. What was the difference between the direct and indirect value of the industry in 2009 and 2014?
+
 1. What was the rate per 100 inhabitants in Korea in 2017?
 2. Which region had the highest rate per 100 inhabitants in 2016?
 3. What was the rate per 100 inhabitants in Asia in 2015?
 4. Which region had the lowest rate per 100 inhabitants in 2014?
 5. What was the rate per 100 inhabitants in Others in 2013?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is the value of Givaudan in 2010?
+2. What is the value of Givaudan in 2011?
+3. What is the value of Givaudan in 2012?
+4. What is the value of Givaudan in 2013?
+5. How did value of Givaudan change from 2016 to 2017?
+
+1. How many Male 5 to 9?
+2. How many Female 5 to 9?
+3. How many Male 10 to 14?
+4. How many Female 10 to 14?
+5. How many Female 15 to 19?
+
 1. What was the adult total in 2018?
 2. What was the adult male population in 2017?
 3. What was the adult female population in 2016?
 4. What was the adult total in 2015?
 5. What was the adult male population in 2014?
+
 1. What was the male population in 2019?
 2. What was the female population in 2018?
 3. Which year had the highest male population?
 4. Which year had the highest female population?
 5. What was the difference between the male and female populations in 2015?
+
 1. What is the percentage of the population that is 60 years or over in 2050?
 2. What is the percentage of the population that is 15-59 years old in 2100?
 3. What is the percentage of the population that is 0-14 years old in 2020?
 4. What is the percentage of the population that is 60 years or over in 2020?
 5. What is the percentage of the population that is 15-59 years old in 2050?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is total attendance 2018/19?
+2. What is total attendance 2017/18?
+3. What is total attendance 2016/17?
+4. What is total attendance 2015/16?
+5. What is total attendance 2012/13?
+
 1. What was the percentage of agriculture in the economy in 2019?
 2. What was the percentage of industry in the economy in 2018?
 3. What was the percentage of services in the economy in 2017?
 4. What was the percentage of agriculture in the economy in 2016?
 5. What was the percentage of industry in the economy in 2015?
+
 1. What was the percentage of adult females in 2018?
 2. What was the percentage of adult males in 2017?
 3. Which year had the highest percentage of adult total?
 4. What was the percentage of adult females in 2012?
 5. What was the percentage of adult males in 2007?
+
 1. What is the difference in men's earnings and women's earnings in the "Driver/sales workers and truck drivers" occupation?
 2. Which occupation has the highest earnings for men?
 3. Which occupation has the highest earnings for women?
 4. What is the difference in earnings between the "First-line supervisors of retail sales workers" and "Retail salespersons" occupations?
 5. Which occupation has the highest earnings for both men and women?
+
 1. What was the total premium for Motor insurance in 2025?
 2. Which year had the highest premium for Property insurance?
 3. What was the total premium for General liability insurance in 2023?
 4. Which year had the lowest premium for Other non-life insurance?
 5. What was the total premium for MAT in 2020?
+
 1. What was the rate per 100 inhabitants of coal in 2018?
 2. Which fossil fuel had the highest rate per 100 inhabitants in 2017?
 3. What was the total rate per 100 inhabitants of all fossil fuels in 2016?
 4. Which year saw the highest increase in the rate per 100 inhabitants of natural gas?
 5. What was the rate per 100 inhabitants of coal in 2005?
+
 1. What was the percentage of Agriculture in 2019?
 2. What was the percentage of Industry in 2018?
 3. What was the percentage of Services in 2017?
 4. What was the percentage of Services in 2016?
 5. What was the percentage of Agriculture in 2015?
+
 1. What was the percentage of adults in the world in 2017?
 2. What was the percentage of adult males in the world in 2016?
 3. Which year had the highest percentage of adult females?
 4. What was the percentage of adults in the world in 2011?
 5. Which year had the lowest percentage of adults in the world?
-1. What was the percentage of adults in the world in 2017? - 88.48%
-2. What was the percentage of adult males in the world in 2016? - 90.3%
-3. Which year had the highest percentage of adult females? - 2011 - 86.33%
-4. What was the percentage of adults in the world in 2011? - 85.49%
-5. Which year had the lowest percentage of adults in the world? - 2009 - 84.1%
+
 1. What was the total number of passengers carried by airlines in the United States in 2018?
 2. What was the total number of passengers carried by airlines in Europe in 2018?
 3. Which region had the highest number of passengers carried by airlines in 2018?
 4. How many passengers were carried by airlines in emerging markets in 2018?
 5. What was the total number of passengers carried by airlines in the established rest of the world in 2018?
+
 1. What was the revenue of the organization in 2024?
 2. What was the spending of the organization in 2023?
 3. Which year had the highest spending?
 4. What was the difference between revenue and spending in 2022?
 5. What was the revenue of the organization in 2019?
+
 1. What was the total sales of Adidas in 2018?
 2. Which company had a higher sales growth rate between 2017 and 2018?
 3. What was the market share of Puma in 2016?
 4. What was the sales of Adidas in 2015?
 5. Which year had the highest sales of Adidas?
+
 1. What was the percentage of agriculture in the economy in 2019?
 2. What was the percentage of industry in the economy in 2018?
 3. What was the percentage of services in the economy in 2017?
 4. What was the percentage of agriculture in the economy in 2016?
 5. What was the percentage of services in the economy in 2011?
+
 1. What percentage of women in the given age range bought a new car in the last two years?
 2. What percentage of men in the given age range bought a used car in the last two years?
 3. What is the total percentage of people in the given age range who bought a new or used car in the last two years?
 4. What is the percentage of people aged 65 or older who bought a new car in the last two years?
 5. What is the percentage of people aged 55-64 who bought a used car in the last two years?
+
 1. What was the value of Asia in 2010?
 2. What was the rate per 100 inhabitants in Latin America in 2010?
 3. What was the value of Europe in 2011?
 4. What was the value of Rest of the world in 2011?
 5. What was the rate per 100 inhabitants in Rest of the world in 2010?
+
 1. What was the total number of Class 3 students in 2018?
 2. Which year had the highest number of Class 5 students?
 3. What was the difference between the number of Class 4 students in 2017 and 2016?
 4. Which year had the lowest number of Class 6 students?
 5. What was the total number of Class 8 students in 2015?
+
 1. What was the total broadcasting revenue for the 2019/20 season?
 2. How much did clubs generate from commercial/sponsorship deals in the 2018/19 season?
 3. What was the average number of matchdays per season from 2017/18 to 2019/20?
 4. How many clubs had a total revenue of over 3000 in the 2018/19 season?
 5. What was the average change in total revenue from one season to the next from 2016/17 to 2019/20?
+
 1. What is the average percentage of male students in schools in 1940?
 2. What is the average percentage of female students in schools in 1947?
 3. What is the average percentage of male students in schools in 1952?
 4. What is the average percentage of female students in schools in 1959?
 5. What is the average percentage of male students in schools in 1964?
+
 1. What was the total cost of data management in Phase 1?
 2. Which phase had the highest cost per IRB approval?
 3. What was the total cost of IRB amendments in Phase 3?
 4. Which phase had the highest cost of SDVs?
 5. What was the total cost of patient retention in Phase 4?
+
 1. What was the premium of the ad-supported industry in 2019?
 2. What was the percentage of the ad-supported industry's premium compared to the total premium in 2018?
 3. Which year had the highest premium for the ad-supported industry?
 4. What was the percentage of the ad-supported industry's premium compared to the total premium in 2017?
 5. What was the premium of the ad-supported industry in 2013?
+
 1. What was the percentage of China's commerce retail in 2019?
 2. What was the percentage of China's commerce wholesale in 2018?
 3. What was the percentage of international commerce retail in 2017?
 4. What was the percentage of cloud computing in China's digital media and entertainment industry in 2016?
 5. What was the percentage of innovation initiatives and others in China's economy in 2019?
+
 1. What was the value of copper in 2019?
 2. What was the value of nickel in 2018?
 3. What was the value of iron ore in 2017?
 4. What was the value of iron ore in 2016?
 5. What was the value of copper in 2015?
+
 1. What was the worldwide gross revenue of the movie "Parasite" in 2019?
 2. What was the domestic gross revenue of the movie "Once Upon a Time in Hollywood" in 2019?
 3. Which movie had the highest domestic gross revenue in 1917?
 4. What was the worldwide gross revenue of the movie "Ford v Ferrari" in 2019?
 5. Which movie had the highest worldwide gross revenue in 2019?
+
 1. What is the average rate per 100 inhabitants for males in the age range of 0 to 17 years?
 2. What is the average rate per 100 inhabitants for females in the age range of 18 to 24 years?
 3. What is the average rate per 100 inhabitants for both males and females in the age range of 25 to 44 years?
 4. What is the average rate per 100 inhabitants for males and females in the age range of 45 to 64 years?
 5. What is the average rate per 100 inhabitants for males and females in the age range of 65 years and over?
+
 1. What was the migration balance in 2018?
 2. What was the immigration in 2017?
 3. Which year had the highest emigration?
 4. What was the difference between immigration and emigration in 2016?
 5. What was the total migration in 2013?
+
 1. What is the percentage of overall population in 2018?
 2. What is the percentage of overall population in 2015?
 3. What is the percentage of overall population in 2011?
 4. What is the percentage of men in the population in 2018?
 5. What is the percentage of women in the population in 2011?
+
 1. What was the post-pay revenue in 2016?
 2. What was the blended revenue in 2015?
 3. Which year had the highest pre-pay revenue?
 4. What was the total revenue in 2012?
 5. Which year had the lowest post-pay revenue?
+
 1. What was the percentage of agriculture in the economy in 2019?
 2. What was the percentage of industry in the economy in 2018?
 3. What was the percentage of services in the economy in 2017?
 4. What was the percentage of services in the economy in 2016?
 5. What was the percentage of industry in the economy in 2015?
+
 1. What was the number of boys in schools in 2018/19?
 2. How many girls were in schools in 2017/18?
 3. Which year saw the highest number of girls in schools?
 4. How many boys were in schools in 2015/16?
 5. What was the total number of boys and girls in schools in 2013/14?
+
 1. What was the percentage of male population in 2019?
 2. What was the percentage of female population in 2018?
 3. Which year had the highest percentage of male population?
 4. Which year had the lowest percentage of female population?
 5. What was the average percentage of male population from 2011 to 2019?
+
 1. What was the percentage growth of domestic e-commerce in 2018 compared to 2017?
 2. Which category of internet services had the highest growth rate in 2018?
 3. What was the total value of FinTech in 2018?
 4. How much did other internet services contribute to the total value of internet services in 2018?
 5. What was the percentage of total internet services that were accounted for by communications and sports in 2018?
+
 1. What was the percentage of small scale hydroelectric power in 2018?
 2. What was the percentage of large scale hydroelectric power in 2017?
 3. Which year had the highest percentage of small scale hydroelectric power?
 4. Which year had the lowest percentage of large scale hydroelectric power?
 5. What was the total percentage of hydroelectric power (both small and large scale) in 2015?
+
 1. What was the percentage difference in the male population between 2018 and 2017?
 2. What was the percentage difference in the female population between 2018 and 2017?
 3. Which year had the highest percentage of male population?
 4. Which year had the highest percentage of female population?
 5. What was the average percentage of male population from 2010 to 2018?
+
 1. What is the percentage of adults in the world in 2017?
 2. What is the percentage of adult males in the world in 2016?
 3. What is the percentage of adult females in the world in 2015?
 4. What is the percentage of adults in the world in 2014?
 5. What is the percentage of adults in the world in 2011?
-1. In 2017, the percentage of adults in the world was 99.79%.
-2. In 2016, the percentage of adult males in the world was 99.86%.
-3. In 2015, the percentage of adult females in the world was 99.72%.
-4. In 2014, the percentage of adults in the world was 99.79%.
-5. In 2011, the percentage of adults in the world was 99.78%.
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is the total number of major air carriers in 2014?
+2. How many air carriers had more than 20 aircraft in 2013?
+3. Which year had the highest number of other air carriers?
+4. What is the total number of major air carriers in 2016?
+5. What is the total number of major air carriers in 2012?
+
 1. What was the total attendance in 2018/19?
 2. What was the average attendance in 2017/18?
 3. What was the total attendance in 2016/17?
 4. What was the average attendance in 2015/16?
 5. What was the total attendance in 2014/15?
+
 1. What was the percentage of Agriculture in 2019?
 2. What was the percentage of Industry in 2018?
 3. What was the percentage of Services in 2017?
 4. What was the percentage of Agriculture in 2016?
 5. What was the percentage of Services in 2015?
+
 1. What was the percentage of agriculture in the economy in 2018?
 2. What was the percentage of industry in the economy in 2017?
 3. What was the percentage of services in the economy in 2016?
 4. What was the percentage of agriculture in the economy in 2015?
 5. What was the percentage of industry in the economy in 2014?
+
 1. What was the percentage of Agriculture in 2017?
 2. What was the percentage of Industry in 2016?
 3. What was the percentage of Services in 2015?
 4. What was the percentage of Agriculture in 2014?
 5. What was the percentage of Services in 2013?
+
 1. What was the percentage of North America in 2010?
 2. Which region had the highest percentage change in 2011 compared to the previous year?
 3. What was the overall worldwide percentage in 2019?
 4. What was the percentage of the United Kingdom in 2010?
 5. Which region had the highest percentage of change in 2018 compared to the previous year?
+
 1. What was the total amount of federal funding for education in 2017?
 2. What was the total amount of nonfederal funding for education in 2016?
 3. What was the total amount of federal funding for education in 2015?
 4. What was the total amount of nonfederal funding for education in 2014?
 5. What was the total amount of federal funding for education in 2013?
+
 1. What was the percentage of valid responses in 2019?
 2. Which year had the highest percentage of valid responses?
 3. What was the percentage of invalid responses in 2018?
 4. Which year had the lowest percentage of invalid responses?
 5. What was the percentage of valid responses in 2011?
+
 1. What was the total consumption of beer in 2015/16?
 2. What was the total consumption of soft drinks in 2014/15?
 3. What was the total consumption of hot dogs in 2013/14?
 4. How did the consumption of beer change between 2011/12 and 2010/11?
 5. What was the average consumption of hot dogs per year between 2011/12 and 2015/16?
+
 1. What was the natural gas consumption in 2018?
 2. What was the coal consumption in 2017?
 3. Which year had the highest natural gas consumption?
 4. Which year had the lowest coal consumption?
 5. What was the difference between natural gas and coal consumption in 2015?
-1. What is the rate per 100 inhabitants in Africa?
-2. What is the rate per 100 inhabitants in Europe?
-3. Which region has rate per 100 inhabitants of 19.8?
-4. Which region has rate per 100 inhabitants of 14.4?
-5. What is the rate per 100 inhabitants in World?
+
+1. What is Average attendance in 2018/19?   
+2. What is Average attendance in 2016/17?
+3. What is Average attendance in 2014/15?
+4. What is Average attendance in 2012/13?
+5. What is Average attendance in 2010/11?
+
 1. What was the total number of marketplaces on StubHub in 2019?
 2. How many marketplaces on StubHub had a stubhub rating of 4700 in 2018?
 3. What was the total number of marketplaces on StubHub in 2017?
 4. How many marketplaces on StubHub had a stubhub rating of 4310 in 2016?
 5. What was the total number of marketplaces on StubHub in 2015?
+
 1. What was the EMEIA* growth rate in 2019?
 2. What was the EMEIA* growth rate in 2018?
 3. What was the growth rate in Asia Pacific in 2017?
 4. What was the growth rate in 2016?
 5. What was the growth rate in Japan in 2015?
+
 1. What was the percentage of Western Europe's population that lived in emerging countries in 2015?
 2. How many percentage points did North America's population growth rate decrease between 2018 and 2019?
 3. Which region had the highest population growth rate in 2017?
 4. What was the percentage of Japan's population that lived in emerging countries in 2013?
 5. Which region had the highest percentage of population living in emerging countries in 2019?
+
 1. What was the percentage of male population in 2014?
 2. What was the percentage of female population in 2015?
 3. Which year saw the highest percentage of male population?
