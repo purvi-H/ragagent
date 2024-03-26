@@ -946,6 +946,12 @@
 4. Which year had the lowest GDP per capita in U.S. dollars, according to the data?
 5. What is the average GDP per capita in U.S. dollars for the years 2015 to 2020, inclusive?
 
+1. What was the GDP per capita in U.S. dollars in 2024?
+2. Which year had the highest GDP per capita in U.S. dollars, according to the data provided?
+3. What was the difference between the GDP per capita in U.S. dollars in 2020 and 2024?
+4. Which year had the lowest GDP per capita in U.S. dollars, according to the data provided?
+5. What was the average GDP per capita in U.S. dollars for the years 2010 to 2020, inclusive?
+
 1. What was the sales in million units in 2025?
 2. What was the sales in million units in 2024?
 3. What was the sales in million units in 2023?
