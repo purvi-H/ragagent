@@ -177,7 +177,7 @@ if __name__ == "__main__":
     chart_data_directory = "/home/s2024596/ragagent/dataset"
 
     with open("/home/s2024596/ragagent/dataset/new_output.txt", "r") as output_file:
-        lines = output_file.read().splitlines()[:2]
+        lines = output_file.read().splitlines()
 
         for i, line in enumerate(lines):
             split = line.split("|")
@@ -231,7 +231,7 @@ if __name__ == "__main__":
             for question in overall_array:
                 result = qa_chain({"query": json.dumps(question)})
                 print("generating result from retrieval qa for question:", question)
-                print(result["result"])
+                print(result)
 
             print("\n")
 
