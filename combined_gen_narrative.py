@@ -41,7 +41,7 @@ def setup_pipeline(pretrained_model, tokenizer):
         num_return_sequences=1,
         eos_token_id=tokenizer.eos_token_id,
         temperature=0.01,
-        max_new_tokens=1024,
+        max_new_tokens=512,
         repetition_penalty=1.1
     )
 
@@ -162,8 +162,8 @@ if __name__ == '__main__':
             question = question.format(chart_type=chart_type, title = title, context = context)
             
             print("generating result from llm")   
-            # print(chain.invoke({"question": question}))
-            response = chain({"question": question})
-            print(response, "\n")
+            print(chain.invoke({"question": question}))
+            # response = chain({"question": question})
+            print("\n")
             sys.stdout.flush()
 

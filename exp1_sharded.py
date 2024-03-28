@@ -18,7 +18,7 @@ set_seed(42)
 print("entered the file")
 
 def setup_huggingface():
-    model_id = "meta-llama/Llama-2-7b-chat-hf"
+    model_id = "meta-llama/Llama-2-13b-chat-hf"
     hf_auth = "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"
     login(token=hf_auth)
 
@@ -137,7 +137,7 @@ if __name__ == "__main__":
 
             response = process_data_and_run(llm_chain, chart_type, chart_data, chart_title)
             
-            output_file_path = "/home/s2024596/ragagent/dataset/fluentexp1results.txt"
+            output_file_path = "/home/s2024596/ragagent/dataset/13fluentexp1results.txt"
 
             with open(output_file_path, "a") as output_file:
                 output_file.write(f"Index: {i}\n")
