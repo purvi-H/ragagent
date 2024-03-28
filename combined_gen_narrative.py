@@ -119,7 +119,7 @@ if __name__ == '__main__':
     llm = HuggingFacePipeline(pipeline=llama_pipeline, verbose=True)
     print("llm setup")
 
-    file_path = "/Users/purviharwani/Desktop/ragagent/allrag.txt"
+    file_path = "/home/s2024596/ragagent/allrag.txt"
     query_outputs = extract_query_output(file_path)
     query_outputs = query_outputs[1:]
     contexts = clean_and_group_contexts(query_outputs) # list of 400 contexts type of each is a string
