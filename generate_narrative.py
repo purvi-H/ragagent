@@ -59,7 +59,7 @@ def setup_sharded_model(pretrained_model):
 B_INST, E_INST = "[INST]", "[/INST]"
 B_SYS, E_SYS = "<<SYS>>\n", "\n<</SYS>>\n\n"
 DEFAULT_SYSTEM_PROMPT = """\
-You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. """
+You are a helpful, respectful and honest assistant who is good at writing data-driven narrative. Always answer as helpfully as possible, while being safe. """
 
 def get_prompt(instruction, new_system_prompt=DEFAULT_SYSTEM_PROMPT):
     SYSTEM_PROMPT = B_SYS + new_system_prompt + E_SYS
@@ -76,21 +76,21 @@ if __name__ == '__main__':
     instruction = """ Here is an example of how to write a narrative based on the context. The example is delimited by triple exclamation marks.
     Example:!!!Write a narrative based on the context for a bar chart about the topic: Current year in various historical and world calendars 2020.
 
-Context:
-What is the name of the calendar corresponding to the year 1441 as of January 25, 2020?
-Answer: Islamic
-Which calendar year is the highest among the given calendars as of January 25, 2020?
-Answer: Assyrian (6770)
-Which calendar has the lowest year value among the ones listed as of January 25, 2020?
-Answer: French Revolutionary (228)
-What is the difference in years between the Gregorian and the Julian calendar as of January 25, 2020?
-Answer: 247
-Which calendar year is closest to the Gregorian calendar year as of January 25, 2020?
-Answer: Hindu (1941)
+    Context:
+    What is the name of the calendar corresponding to the year 1441 as of January 25, 2020?
+    Answer: Islamic
+    Which calendar year is the highest among the given calendars as of January 25, 2020?
+    Answer: Assyrian (6770)
+    Which calendar has the lowest year value among the ones listed as of January 25, 2020?
+    Answer: French Revolutionary (228)
+    What is the difference in years between the Gregorian and the Julian calendar as of January 25, 2020?
+    Answer: 247
+    Which calendar year is closest to the Gregorian calendar year as of January 25, 2020?
+    Answer: Hindu (1941)
 
-short data-driven narrative:
+    short data-driven narrative:
 
-In the diverse tapestry of historical and world calendars for the year 2020, each system paints a unique picture of time. As of January 25, 2020, the Assyrian calendar reigns supreme with its lofty year count of 6770, while the French Revolutionary calendar lingers at the bottom with a humble 228. The Gregorian and Julian calendars, separated by 247 years, showcase the evolution of timekeeping systems over centuries. Amidst this variation, the Hindu calendar resonates closely with the Gregorian, mirroring the year 1941. However, it's the Islamic calendar that stands out with its current year of 1441, rooted in lunar cycles and religious tradition. Each calendar offers a distinct perspective on the passage of time, weaving together a rich tapestry of human history and culture.!!!
+    In the diverse tapestry of historical and world calendars for the year 2020, each system paints a unique picture of time. As of January 25, 2020, the Assyrian calendar reigns supreme with its lofty year count of 6770, while the French Revolutionary calendar lingers at the bottom with a humble 228. The Gregorian and Julian calendars, separated by 247 years, showcase the evolution of timekeeping systems over centuries. Amidst this variation, the Hindu calendar resonates closely with the Gregorian, mirroring the year 1941. However, it's the Islamic calendar that stands out with its current year of 1441, rooted in lunar cycles and religious tradition. Each calendar offers a distinct perspective on the passage of time, weaving together a rich tapestry of human history and culture.!!!
     Based on the Example of how to perform the task, perform the following task: {question}"""
     prompt_template = get_prompt(instruction)
 
