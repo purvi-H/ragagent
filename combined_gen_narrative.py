@@ -1,6 +1,7 @@
 import sys
 import torch
 import transformers
+import re
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from huggingface_hub import login
 from langchain_community.llms import HuggingFacePipeline
@@ -63,6 +64,15 @@ def extract_query_output(file_path):
             output_strings.append(current_output.strip())
     return output_strings
 
+def remove_special_characters(text):
+    # Define regex pattern to match special characters
+    pattern = r'[^\w\s?]'  # This pattern keeps letters, digits, and whitespaces
+    
+    # Use regex to replace special characters with an empty string
+    cleaned_text = [re.sub(pattern, '', line) for line in text]
+    
+    return cleaned_text
+
 def clean_and_group_contexts(queries):
 
     processed_contexts = []
@@ -81,7 +91,8 @@ def clean_and_group_contexts(queries):
     for answer in processed_contexts:
         intermediate = []
         splitted = answer.split("\\n")
-        splitted[0] = splitted[0].replace(", Use the following pieces of context to answer the question at the end.", "")
+        splitted = remove_special_characters(splitted)
+        splitted[0] = splitted[0].replace("Use the following pieces of context to answer the question at the end", "")
         question = splitted[0]
         answer = splitted[-5:]
         intermediate.append(question)
@@ -149,18 +160,17 @@ if __name__ == '__main__':
                             Example:
                             !!!
                             Write a narrative based on the context for a bar chart about the topic: Current year in various historical and world calendars 2020.
-                            [{
-                                "query": "What is the name of the calendar corresponding to the year 1441 as of January 25, 2020?","answer": ["The calendar corresponding to the year 1441 as of January 25, 2020, is the Islamic calendar.","Final answer: The calendar corresponding to the year 1441 as of January 25, 2020, is the Islamic calendar."]},{"query": "Which calendar year is the highest among the given calendars as of January 25, 2020?",
-                                "answer": ["The highest calendar year among the given calendars as of January 25, 2020, is the Assyrian calendar with the year 6770.","Final answer: The highest calendar year among the given calendars as of January 25, 2020, is the Assyrian calendar with the year 6770."]},{ "query": "Which calendar has the lowest year value among the ones listed as of January 25, 2020?",
-                                "answer": [ "The calendar with the lowest year value among the ones listed as of January 25, 2020, is the French Revolutionary calendar with the year 228.", "Final answer: The calendar with the lowest year value among the ones listed as of January 25, 2020, is the French Revolutionary calendar with the year 228."]},
-                            {"query": "What is the difference in years between the Gregorian and the Julian calendar as of January 25, 2020?", "answer": [
-                                "The difference in years between the Gregorian and the Julian calendar as of January 25, 2020, is 247 years.",
-                                "Final answer: The difference in years between the Gregorian and the Julian calendar as of January 25, 2020, is 247 years."]},
-                            {"query": "Which calendar year is closest to the Gregorian calendar year as of January 25, 2020?",
-                                "answer": [
-                                "The calendar year closest to the Gregorian calendar year as of January 25, 2020, is the Hindu calendar with the year 1941.",
-                                "",
-                                "Final answer: The calendar year closest to the Gregorian calendar year as of January 25, 2020, is the Hindu calendar with the year 1941.]}]
+                            Context:
+                            query: What is the name of the calendar corresponding to the year 1441 as of January 25, 2020?
+                            answer: The calendar corresponding to the year 1441 as of January 25, 2020, is the Islamic calendar. Final answer: The calendar corresponding to the year 1441 as of January 25, 2020, is the Islamic calendar.
+                            query: Which calendar year is the highest among the given calendars as of January 25, 2020?
+                            answer: The highest calendar year among the given calendars as of January 25, 2020, is the Assyrian calendar with the year 6770. Final answer: The highest calendar year among the given calendars as of January 25, 2020, is the Assyrian calendar with the year 6770.
+                            query: Which calendar has the lowest year value among the ones listed as of January 25, 2020?
+                            answer: The calendar with the lowest year value among the ones listed as of January 25, 2020, is the French Revolutionary calendar with the year 228. Final answer: The calendar with the lowest year value among the ones listed as of January 25, 2020, is the French Revolutionary calendar with the year 228.
+                            query: What is the difference in years between the Gregorian and the Julian calendar as of January 25, 2020?
+                            answer: The difference in years between the Gregorian and the Julian calendar as of January 25, 2020, is 247 years. Final answer: The difference in years between the Gregorian and the Julian calendar as of January 25, 2020, is 247 years.
+                            query: Which calendar year is closest to the Gregorian calendar year as of January 25, 2020?
+                            answer: The calendar year closest to the Gregorian calendar year as of January 25, 2020, is the Hindu calendar with the year 1941. Final answer: The calendar year closest to the Gregorian calendar year as of January 25, 2020, is the Hindu calendar with the year 1941.
                             
                             Short fluent data-driven narrative: In the diverse tapestry of historical and world calendars for the year 2020, each system paints a unique picture of time. As of January 25, 2020, the Assyrian calendar reigns supreme with its lofty year count of 6770, while the French Revolutionary calendar lingers at the bottom with a humble 228. The Gregorian and Julian calendars, separated by 247 years, showcase the evolution of timekeeping systems over centuries. Amidst this variation, the Hindu calendar resonates closely with the Gregorian, mirroring the year 1941. However, it's the Islamic calendar that stands out with its current year of 1441, rooted in lunar cycles and religious tradition. Each calendar offers a distinct perspective on the passage of time, weaving together a rich tapestry of human history and culture.
                             !!!
@@ -174,7 +184,7 @@ if __name__ == '__main__':
 
             question = """Write a narrative based on the context for a {chart_type} about the topic: {title} 
             Context is answers to questions asked by user: {context}
-            Short data-driven narrative: """
+            Short fluent data-driven narrative:: """
 
             question = question.format(chart_type=chart_type, title = title, context = context)
             
